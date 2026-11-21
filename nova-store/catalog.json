@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-21T21:19:44Z",
+  "generated": "2026-11-21T22:17:31Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -29,12 +29,12 @@
     {
       "package": "com.codestark.novaphone",
       "name": "Nova Phone",
-      "version_code": 5,
-      "version_name": "1.4",
+      "version_code": 6,
+      "version_name": "1.5",
       "apk_url": "https://drive.usercontent.google.com/download?id=13LtIG54Akf5Ql7uexam_sX94FjBkYJ4T&export=download&confirm=t",
       "size_bytes": 37291,
-      "sha256": "4ef48a899c1ae5fe84b854fa0e79b69b52886ef5f4763b20da6b8a655f3e22d9",
-      "whats_new": "Outside calls, Nova Phone now speaks with Nova's own voice; in a call it keeps the proven call routing.",
+      "sha256": "5753dff85c26b82ade10f5c35aecd121c1775240dafb0340152bce60db66144d",
+      "whats_new": "Speaker fix: speaker and mute now switch on the Telecom audio route itself, and Nova only says \"Speaker on\" once the call stack confirms it. Plus an in-call keypad for business phone menus and a one-tap Call Computer Revolution button on the Dialer tab.",
       "category": "Foundation",
       "required": false
     },
