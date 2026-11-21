@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-21T19:56:00Z",
+  "generated": "2026-11-21T21:19:44Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -65,12 +65,12 @@
     {
       "package": "com.codestark.uhcclaim",
       "name": "UHC Claim Builder",
-      "version_code": 7,
-      "version_name": "3.1",
+      "version_code": 8,
+      "version_name": "3.2",
       "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
       "size_bytes": 71710,
-      "sha256": "c3e34994fecc31db74abda877ff81047d8b1722fd18f12fc47130636c943325a",
-      "whats_new": "Gmail pull fix: a failed sign-in no longer deletes your saved code, and the error now says in plain words which wall you hit \u2014 rejected code (needs the 16-letter App Password, not your regular password), IMAP turned off, or a web sign-in check. New Reconnect Gmail button, an Open App Passwords page button in the connect dialog, a warning if the code you paste is not 16 letters, and the pull now names the account it is signing in as.",
+      "sha256": "f7cf0592eef92bd041a8d04bff7cd924e27f2549391acc652bcf5dc7f5074b56",
+      "whats_new": "Receipt fix: when Uber's receipt email has no PDF attached (most don't \u2014 the receipt is in the email body), the app now builds the receipt PDF from the email itself, so Gmail trips land with a receipt you can actually claim with. And on the next Gmail pull, trips you already pulled that are missing a receipt get one fixed on them automatically.",
       "category": "Life Admin",
       "required": false
     },
