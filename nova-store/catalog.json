@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-21T19:38:00Z",
+  "generated": "2026-11-21T19:47:00Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -17,12 +17,12 @@
     {
       "package": "com.codestark.novavoice",
       "name": "Nova Voice",
-      "version_code": 9,
-      "version_name": "1.8",
+      "version_code": 10,
+      "version_name": "1.9",
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16970785,
-      "sha256": "69bac005f1414457efc22dede935ac79c415183098183faad64290627aadeb0e",
-      "whats_new": "Two fixes: a Check button that asks Android which speech engines it can see (so we can pin down why Nova was not listed), plus the full-quality voice pack \u2014 the un-compressed Kokoro voice, much more human than the small compressed pack. Download it inside Nova Voice under Voice quality (about 305 MB, Wi-Fi recommended).",
+      "sha256": "04b13b6174d768f251fb496e25ca5a9596997be9e370102f953d0e4c3a0e8a62",
+      "whats_new": "Adds a second settings jump for TalkBack's OWN engine list (Accessibility settings, with spoken walkthrough) alongside the phone-wide one, and explains the two lists in the app. TalkBack reading with Nova's voice stays on the accessibility lane; Nova's apps stay on the media lane \u2014 same voice, two lanes, no competing. Also carries the engine-visibility check and the full-quality voice upgrade from 1.8.",
       "category": "Foundation",
       "required": false
     },
