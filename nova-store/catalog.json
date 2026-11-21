@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-21T19:22:00Z",
+  "generated": "2026-11-21T19:38:00Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -17,12 +17,12 @@
     {
       "package": "com.codestark.novavoice",
       "name": "Nova Voice",
-      "version_code": 8,
-      "version_name": "1.7",
+      "version_code": 9,
+      "version_name": "1.8",
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
-      "size_bytes": 16966689,
-      "sha256": "34e007a63ac318598eb8f703c83c0e3b7b904722b582669fccc68a0c096085ba",
-      "whats_new": "The speech-settings button now jumps you straight onto the speech settings page and Nova talks you through the last two taps: Preferred engine, then Nova Voice.",
+      "size_bytes": 16970785,
+      "sha256": "69bac005f1414457efc22dede935ac79c415183098183faad64290627aadeb0e",
+      "whats_new": "Two fixes: a Check button that asks Android which speech engines it can see (so we can pin down why Nova was not listed), plus the full-quality voice pack \u2014 the un-compressed Kokoro voice, much more human than the small compressed pack. Download it inside Nova Voice under Voice quality (about 305 MB, Wi-Fi recommended).",
       "category": "Foundation",
       "required": false
     },
