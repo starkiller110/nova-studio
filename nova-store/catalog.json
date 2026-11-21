@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-21T19:15:00Z",
+  "generated": "2026-11-21T19:22:00Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -17,12 +17,12 @@
     {
       "package": "com.codestark.novavoice",
       "name": "Nova Voice",
-      "version_code": 7,
-      "version_name": "1.6",
+      "version_code": 8,
+      "version_name": "1.7",
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16966689,
-      "sha256": "fe40319826b63c5254ed74cfd84713cf58632993546ded373ee3e314c4398345",
-      "whats_new": "The 'Make Nova the phone's voice' button moved from the bottom of the screen to right under Load Nova's engine, where you can actually find it.",
+      "sha256": "34e007a63ac318598eb8f703c83c0e3b7b904722b582669fccc68a0c096085ba",
+      "whats_new": "The speech-settings button now jumps you straight onto the speech settings page and Nova talks you through the last two taps: Preferred engine, then Nova Voice.",
       "category": "Foundation",
       "required": false
     },
