@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-21T19:47:00Z",
+  "generated": "2026-11-21T19:56:00Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -17,12 +17,12 @@
     {
       "package": "com.codestark.novavoice",
       "name": "Nova Voice",
-      "version_code": 10,
-      "version_name": "1.9",
+      "version_code": 11,
+      "version_name": "2.0",
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16970785,
-      "sha256": "04b13b6174d768f251fb496e25ca5a9596997be9e370102f953d0e4c3a0e8a62",
-      "whats_new": "Adds a second settings jump for TalkBack's OWN engine list (Accessibility settings, with spoken walkthrough) alongside the phone-wide one, and explains the two lists in the app. TalkBack reading with Nova's voice stays on the accessibility lane; Nova's apps stay on the media lane \u2014 same voice, two lanes, no competing. Also carries the engine-visibility check and the full-quality voice upgrade from 1.8.",
+      "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
       "category": "Foundation",
       "required": false
     },
@@ -65,12 +65,12 @@
     {
       "package": "com.codestark.uhcclaim",
       "name": "UHC Claim Builder",
-      "version_code": 6,
-      "version_name": "3.0",
+      "version_code": 7,
+      "version_name": "3.1",
       "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
-      "size_bytes": 67614,
-      "sha256": "b7a6c649017ea44e5b68680d8dbb628084c2d8057878b10f61c32f964e5b79d5",
-      "whats_new": "Real tabs and Gmail receipt pull for your ride claims.",
+      "size_bytes": 71710,
+      "sha256": "c3e34994fecc31db74abda877ff81047d8b1722fd18f12fc47130636c943325a",
+      "whats_new": "Gmail pull fix: a failed sign-in no longer deletes your saved code, and the error now says in plain words which wall you hit \u2014 rejected code (needs the 16-letter App Password, not your regular password), IMAP turned off, or a web sign-in check. New Reconnect Gmail button, an Open App Passwords page button in the connect dialog, a warning if the code you paste is not 16 letters, and the pull now names the account it is signing in as.",
       "category": "Life Admin",
       "required": false
     },
