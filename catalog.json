@@ -1,0 +1,162 @@
+{
+  "store_version": 1,
+  "generated": "2026-11-22T17:47:19Z",
+  "apps": [
+    {
+      "package": "com.codestark.novalauncher",
+      "name": "Nova Launcher",
+      "version_code": 24,
+      "version_name": "3.21",
+      "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
+      "size_bytes": 17966352,
+      "sha256": "f7f383f4f640f331351aeac03711a0b633e4d0405917bae5ca20d5549abcc217",
+      "whats_new": "The home screen is beautiful now \u2014 and smart. A gradient hero with the clock, Nova Apps as a grid of icon cards, built-in tools in their own grid, and everything else as a compact app grid instead of one giant scrolling list. And grouping is automatic: any app downloaded from the Nova Store now lands in Nova Apps on its own \u2014 Fanciful, Pastor Nova, Nova Voice, House Log, all of them \u2014 and never shows up down in Your Apps. New Nova apps group themselves the moment they're installed.",
+      "category": "Foundation",
+      "required": true
+    },
+    {
+      "package": "com.codestark.novavoice",
+      "name": "Nova Voice",
+      "version_code": 11,
+      "version_name": "2.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
+      "size_bytes": 16970785,
+      "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+      "category": "Foundation",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novaphone",
+      "name": "Nova Phone",
+      "version_code": 6,
+      "version_name": "1.5",
+      "apk_url": "https://drive.usercontent.google.com/download?id=13LtIG54Akf5Ql7uexam_sX94FjBkYJ4T&export=download&confirm=t",
+      "size_bytes": 37291,
+      "sha256": "5753dff85c26b82ade10f5c35aecd121c1775240dafb0340152bce60db66144d",
+      "whats_new": "Speaker fix: speaker and mute now switch on the Telecom audio route itself, and Nova only says \"Speaker on\" once the call stack confirms it. Plus an in-call keypad for business phone menus and a one-tap Call Computer Revolution button on the Dialer tab.",
+      "category": "Foundation",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novachat",
+      "name": "Nova Chat",
+      "version_code": 2,
+      "version_name": "1.1",
+      "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
+      "size_bytes": 25003,
+      "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
+      "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
+      "category": "Creator",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novastream",
+      "name": "Nova Stream",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
+      "size_bytes": 815531,
+      "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
+      "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
+      "category": "Creator",
+      "required": false
+    },
+    {
+      "package": "com.codestark.uhcclaim",
+      "name": "UHC Claim Builder",
+      "version_code": 9,
+      "version_name": "3.3",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
+      "size_bytes": 71710,
+      "sha256": "77527b18022517c3629b6a0d574eb847dfda7f011623af47f6e3e5c76b37d9e4",
+      "whats_new": "Receipt fix, part two: the build itself now heals missing receipts. If a trip you picked has no receipt, the app fetches it from Gmail on the spot and keeps building \u2014 no pull first, no trip left behind (the old repair stopped at 10 trips). If Gmail can't produce it either, the message now tells you the exact next step instead of just stopping.",
+      "category": "Life Admin",
+      "required": false
+    },
+    {
+      "package": "com.codestark.fancifulcompanion",
+      "name": "Fanciful Companion",
+      "version_code": 5,
+      "version_name": "1.4",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1jlGemrJ03gEi3tSQLMEUWCJd1H4ceZay&export=download&confirm=t",
+      "size_bytes": 25003,
+      "sha256": "d03a8d0a97f1ac145543a59dbfe3121c7d257d99ed568984259e1f86ece09dc9",
+      "whats_new": "Fixed the 404 errors and long waits \u2014 she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
+      "category": "Life Admin",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novahouselog",
+      "name": "Nova House Log",
+      "version_code": 9,
+      "version_name": "1.8",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
+      "size_bytes": 57771,
+      "sha256": "4327c2b9cc4974f0bb3dd483a7947fede1e5689c6a7834eab53ae74cfa2435a7",
+      "whats_new": "House Sync is here \u2014 the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle \u2014 via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' \u2014 stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable \u2014 tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
+      "category": "Life Admin",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novadevotion",
+      "name": "Nova Devotion",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
+      "size_bytes": 20907,
+      "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
+      "whats_new": "First release: a daily devotion on your phone \u2014 today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+      "category": "Faith",
+      "required": false
+    },
+    {
+      "package": "com.codestark.pastornova",
+      "name": "Pastor Nova",
+      "version_code": 15,
+      "version_name": "1.14",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
+      "size_bytes": 111019,
+      "sha256": "f816302acf38405b9a3d2449a563ac52dcb102ef183006f05c49c8340d3d4e8a",
+      "whats_new": "The worship song list is now truly personalized. Songs are matched to your sermon's themes \u2014 like redemption and grace \u2014 instead of the raw topic words, pulled round-robin from ALL of your artists instead of the same first few, shaped by the worship style on your profile, and Pastor Nova now remembers what she has played so the same songs don't cycle every service.",
+      "category": "Faith",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novamusic",
+      "name": "Nova Music",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1QG6deENuoIbgfLKoldwxm_h_I7w6II0u&export=download&confirm=t",
+      "size_bytes": 33195,
+      "sha256": "fc41b607c97a18f8b39b02e0efb0721d825e077d5202e2afc1b7874874ee0f6d",
+      "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song \u2014 type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
+      "category": "Creator",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novabible",
+      "name": "Nova Bible",
+      "version_code": 2,
+      "version_name": "1.1",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1sfzLadbkYb02Npl4AuCWtXSsu8wOmTWG&export=download&confirm=t",
+      "size_bytes": 29167,
+      "sha256": "8c0bd5ad90d0feddef38f2685d331e97f717ce04776c7fbf020535e46c683e17",
+      "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT \u2014 it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
+      "category": "Faith",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novard",
+      "name": "Nova RD",
+      "version_code": 4,
+      "version_name": "1.3",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
+      "size_bytes": 53675,
+      "sha256": "b475b50607c5c2337a2fabbe0f0b2298828309fefea4157f9d7eb0db4bd1af50",
+      "whats_new": "New in 1.3: Amen's Contingencies and a stricter cool-down gate. In the Authority tab there's now a section that's Amen's own: he can type in any rule or contingency he wants followed, and it becomes a HARD RULE in the app \u2014 injected into every fair call (both modes) and every cleaned-up Confront message, above your preferences. If a call or a message would break one of Amen's rules, Nova reshapes it to comply or escalates to Amen, and says which rule shaped it. Deleting one of his rules takes a deliberate double-tap. And the old 'I'm calm now' button is gone: the timer alone unlocks nothing now. To open the gate you need the timer finished AND all four breathing rounds done right on the locked screen AND a fresh self-check \u2014 tap Calm and you're through; tap Frustrated or Angry and the lock adds another ten minutes and the breathing resets. Every lock, breathing finish, extension, and clearing is written to your Log as a gate record that can't be deleted \u2014 your accountability record to show Amen. Everything from 1.2 (mode switch, Confront tab, AI fix) is untouched.",
+      "category": "Life Admin",
+      "required": false
+    }
+  ]
+}
