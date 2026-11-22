@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 10,
-      "version_name": "1.9",
+      "version_code": 11,
+      "version_name": "1.10",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
       "size_bytes": 102827,
-      "sha256": "feb39c1e8bd0802f2a4fe85be0915bfd113a436a1651fefe9a77f5255e86fb5d",
-      "whats_new": "Service music is real now: Pastor Nova searches your artists\u2019 actual catalogs and pulls real songs that fit your sermon \u2014 nothing made up, ever. The audio is fixed too: she plays the real tracks one by one, each for as long as it actually lasts, then flows straight into the sermon, the invitation, and the closing, all hands-free.",
+      "sha256": "6562cbb23082805f581c57279b2b49610b552645740a002578f92a9ed8779a11",
+      "whats_new": "Worship music now actually plays: a real player with a watchdog replaced the bare embed that could sit silent \u2014 if a song truly can't come through, she says so and moves on to the Word instead of leaving dead air. Playlists are picked clean too: no explicit tracks, still 100% real songs pulled from your artists' actual catalogs, matched to your sermon.",
       "category": "Faith",
       "required": false
     }
