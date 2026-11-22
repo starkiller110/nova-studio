@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-22T01:20:21Z",
+  "generated": "2026-11-22T02:05:58Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -99,16 +99,28 @@
       "required": false
     },
     {
-          "package": "com.codestark.novadevotion",
-          "name": "Nova Devotion",
-          "version_code": 1,
-          "version_name": "1.0",
-          "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
-          "size_bytes": 20907,
-          "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
-          "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
-          "category": "Faith",
-          "required": false
+      "package": "com.codestark.novadevotion",
+      "name": "Nova Devotion",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
+      "size_bytes": 20907,
+      "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
+      "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+      "category": "Faith",
+      "required": false
+    },
+    {
+      "package": "com.codestark.pastornova",
+      "name": "Pastor Nova",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
+      "size_bytes": 74155,
+      "sha256": "7666b16c14189751773d8c7c7af163feaecdfd419f53eb0a420ffb80a1facff3",
+      "whats_new": "First release: Pastor Nova — a seminary in your pocket, and she can preach. FOUR full banked sermons (The Father Who Runs, The Thief Who Made It, Come Rest, The Woman at the Well) spoken start to finish in paragraph chunks with a Stop button, plus a daily devotion. 51 spoken seminary lessons: how to read the Bible, knowing God, salvation, the church, Greek and Hebrew word studies, church history in minutes, tough questions, pastoral wisdom. All 66 Bible books surveyed by ear. Guided prayers: the ACTS pattern and prayers for anxious moments, hard conversations, and more. And the Ask tab has two modes — Ask a question, or Preach me a sermon: give her a topic or passage and she preaches a fresh full sermon, invitation and closing prayer included. Aimed at folks who don't go to church, and at you when you want a dose of Jesus.",
+      "category": "Faith",
+      "required": false
     }
   ]
 }
