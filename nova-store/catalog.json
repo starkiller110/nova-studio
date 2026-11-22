@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 11,
-      "version_name": "1.10",
+      "version_code": 12,
+      "version_name": "1.11",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 102827,
-      "sha256": "6562cbb23082805f581c57279b2b49610b552645740a002578f92a9ed8779a11",
-      "whats_new": "Worship music now actually plays: a real player with a watchdog replaced the bare embed that could sit silent \u2014 if a song truly can't come through, she says so and moves on to the Word instead of leaving dead air. Playlists are picked clean too: no explicit tracks, still 100% real songs pulled from your artists' actual catalogs, matched to your sermon.",
+      "size_bytes": 106923,
+      "sha256": "cb3e18468725bb686db2168db3eb8081f74a7b4351890947da441c38c0388954",
+      "whats_new": "Sermons now preach on a story spine: she takes your exact question, tells the story behind it in real detail \u2014 the track record, the choices, the grudges \u2014 keeps tying every point back to your question, answers it straight, and lands the invitation on your own parallel. Worship player rebuilt real-size so the songs actually play, and if music truly can't come through she says so once, quietly, and never repeats it.",
       "category": "Faith",
       "required": false
     }
