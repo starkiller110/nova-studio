@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-22T17:11:45Z",
+  "generated": "2026-11-22T17:47:19Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -149,12 +149,12 @@
     {
       "package": "com.codestark.novard",
       "name": "Nova RD",
-      "version_code": 1,
-      "version_name": "1.0",
+      "version_code": 2,
+      "version_name": "1.1",
       "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
-      "size_bytes": 37291,
-      "sha256": "b76a185ddd8095069e7e9c58690fa881aeb90ac94970b233efc41ddd5aadc4d9",
-      "whats_new": "Nova RD is here — built just on the off chance you ever put in for RD. Describe a situation, do an honest self-check, and Nova hands you the fair call: the decision, why it's fair to everybody, the exact consequence, and a calm word-for-word script to deliver it. If you're angry — or frustrated twice in a day — Execute locks for a ten-minute cool-down while Nova talks you down, so your sarcasm never makes the call. It only uses powers you've confirmed an RD actually has; everything else escalates to Bobby or Jordan with a drafted report. Plus a decision log, an editable rulebook, the authority ladder, and a Calm tab with talk-me-down and a breathing timer. It never sends anything — you deliver every word yourself.",
+      "size_bytes": 49579,
+      "sha256": "05739c7ed7a46f3731b0102bef1bc5bf94f9b2cce9947b6ceedcda83a3338541",
+      "whats_new": "New in 1.1: the mode switch and the Confront tab. The big 'I put in for RD' switch flips the whole app between Resident mode — the default, where the fair call only ever uses what you can do as a resident: talk to them yourself, document it, report it up to Amen, Bobby, or Jordan, ask staff to act; no bans, no penalties, ever — and RD mode, with your confirmed RD powers. Flip it just to test it whenever you're bored; the banner always says which mode you're in, and every log entry remembers which methodology made it. Plus the new Confront tab: check in honestly, say it raw, Nova cleans it up, and it posts to the FH6-132 GroupMe as you — only the exact words you approved on a final confirmation tap, never during a cool-down — then auto-records in your Log that she was told, with the exact words and the date.",
       "category": "Life Admin",
       "required": false
     }
