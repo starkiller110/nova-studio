@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 12,
-      "version_name": "1.11",
+      "version_code": 13,
+      "version_name": "1.12",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 106923,
-      "sha256": "9e1f50330aea4433ec2326eb62dfc6781d0b75cf136462169d9fdb9d39875769",
-      "whats_new": "Sermons now preach the Baptist way: she builds her points first \u2014 each one grounded in Scripture, examining the subject's track record in real detail \u2014 then closes with one story that ties it all back to your exact question, answers it straight, and flows right into the invitation. Worship player rebuilt real-size so the songs actually play, and if music truly can't come through she says so once, quietly, and never repeats it.",
+      "size_bytes": 111019,
+      "sha256": "5c177b3f411189c3d4cc212fb017594e6a457e0d69f309d02d15308d9d38ccb2",
+      "whats_new": "Music diagnostics: if a song can't play, Pastor Nova now says WHY \u2014 once, in plain words \u2014 instead of just going quiet. Every song also gets a second playback method as a fallback if the first one fails, the screen stays awake during a service so playback isn't suspended, and there's a new Test Music button on the Service tab that plays one real song on demand and reports exactly what the player did.",
       "category": "Faith",
       "required": false
     }
