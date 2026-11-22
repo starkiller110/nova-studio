@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-21T22:17:31Z",
+  "generated": "2026-11-22T01:07:59Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -22,7 +22,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16970785,
       "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
-      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do — through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
       "category": "Foundation",
       "required": false
     },
@@ -46,7 +46,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
-      "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
+      "whats_new": "Fixes the blank screen — the app now actually shows the Watch List and Chat Reader.",
       "category": "Creator",
       "required": false
     },
@@ -58,7 +58,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
       "size_bytes": 815531,
       "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
-      "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
+      "whats_new": "Stream from the phone with RTMP — Twitch and YouTube starter buttons.",
       "category": "Creator",
       "required": false
     },
@@ -70,7 +70,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
       "size_bytes": 71710,
       "sha256": "f7cf0592eef92bd041a8d04bff7cd924e27f2549391acc652bcf5dc7f5074b56",
-      "whats_new": "Receipt fix: when Uber's receipt email has no PDF attached (most don't \u2014 the receipt is in the email body), the app now builds the receipt PDF from the email itself, so Gmail trips land with a receipt you can actually claim with. And on the next Gmail pull, trips you already pulled that are missing a receipt get one fixed on them automatically.",
+      "whats_new": "Receipt fix: when Uber's receipt email has no PDF attached (most don't — the receipt is in the email body), the app now builds the receipt PDF from the email itself, so Gmail trips land with a receipt you can actually claim with. And on the next Gmail pull, trips you already pulled that are missing a receipt get one fixed on them automatically.",
       "category": "Life Admin",
       "required": false
     },
@@ -83,6 +83,18 @@
       "size_bytes": 25003,
       "sha256": "1f001c4fb448092d52257f5b5e07146fb04440cc634b0a95817dadb24a8c8d4a",
       "whats_new": "Fanciful now borrows the Gemini key from the Launcher instead of asking you to paste it again, and no longer pops the key dialog up on its own.",
+      "category": "Life Admin",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novahouselog",
+      "name": "Nova House Log",
+      "version_code": 2,
+      "version_name": "1.1",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
+      "size_bytes": 29099,
+      "sha256": "4461792b6a62bc0b4d4865efd2783be476d4864ee6ffc5cd4f871c6e4b60d20b",
+      "whats_new": "New app: a private house incident log for FH6-132. Log what happened, who it happened to (tap a name — Cody, Janelle, Liam, or anyone), and most importantly whether Skye was confronted about it, how, what was said, her response, and the outcome — the record property management asked for. Cody and Janelle each get their OWN case log: tap a name in Share & Report to build and share just that person's case for Bobby and Jordan, or build everyone combined. Daily reminder notification (default 8 PM) nudges you to log the day while it's fresh. Fully offline — entries stay on the phone unless you share them.",
       "category": "Life Admin",
       "required": false
     }
