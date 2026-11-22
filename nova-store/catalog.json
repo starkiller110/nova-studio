@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 14,
-      "version_name": "1.13",
+      "version_code": 15,
+      "version_name": "1.14",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 106923,
-      "sha256": "94df47f9c60c59f93a2914086c66900d0021c010ebadabef38b9ee39f5c406ac",
-      "whats_new": "Fixes the 'video player configuration error' (error 153) that silently blocked worship music — the player now properly identifies itself to YouTube when it embeds a song. The Test Music button on the Service tab verifies it: tap it and a real song should play.",
+      "size_bytes": 111019,
+      "sha256": "f816302acf38405b9a3d2449a563ac52dcb102ef183006f05c49c8340d3d4e8a",
+      "whats_new": "The worship song list is now truly personalized. Songs are matched to your sermon's themes — like redemption and grace — instead of the raw topic words, pulled round-robin from ALL of your artists instead of the same first few, shaped by the worship style on your profile, and Pastor Nova now remembers what she has played so the same songs don't cycle every service.",
       "category": "Faith",
       "required": false
     }
