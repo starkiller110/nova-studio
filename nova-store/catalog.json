@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 9,
-      "version_name": "1.8",
+      "version_code": 10,
+      "version_name": "1.9",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 98731,
-      "sha256": "4d04e1b26388b444f504a3a4035b47692b321a83bd61125b22626fa504b25be1",
-      "whats_new": "Crypt is fixed: in your artists, Crypt now always means Crypt the rapper (the Christian rapper behind 'All I Know') \u2014 in the music search and in Pastor Nova's preaching. The service now runs itself: tap Start once and nobody taps anything again \u2014 a curated playlist is built from ALL the artists on your profile, each song matched to today's sermon's theme, and it plays through audio-only (no video player on screen) straight into the sermon. Pastor Nova generates the sermon in the background while the worship plays, so the service flows like a real one; invitation music plays straight into the invitation, and the service ends itself after closing worship.",
+      "size_bytes": 102827,
+      "sha256": "feb39c1e8bd0802f2a4fe85be0915bfd113a436a1651fefe9a77f5255e86fb5d",
+      "whats_new": "Service music is real now: Pastor Nova searches your artists\u2019 actual catalogs and pulls real songs that fit your sermon \u2014 nothing made up, ever. The audio is fixed too: she plays the real tracks one by one, each for as long as it actually lasts, then flows straight into the sermon, the invitation, and the closing, all hands-free.",
       "category": "Faith",
       "required": false
     }
