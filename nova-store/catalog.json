@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-22T01:07:59Z",
+  "generated": "2026-11-22T01:13:37Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -89,12 +89,12 @@
     {
       "package": "com.codestark.novahouselog",
       "name": "Nova House Log",
-      "version_code": 2,
-      "version_name": "1.1",
+      "version_code": 3,
+      "version_name": "1.2",
       "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-      "size_bytes": 29099,
-      "sha256": "4461792b6a62bc0b4d4865efd2783be476d4864ee6ffc5cd4f871c6e4b60d20b",
-      "whats_new": "New app: a private house incident log for FH6-132. Log what happened, who it happened to (tap a name — Cody, Janelle, Liam, or anyone), and most importantly whether Skye was confronted about it, how, what was said, her response, and the outcome — the record property management asked for. Cody and Janelle each get their OWN case log: tap a name in Share & Report to build and share just that person's case for Bobby and Jordan, or build everyone combined. Daily reminder notification (default 8 PM) nudges you to log the day while it's fresh. Fully offline — entries stay on the phone unless you share them.",
+      "size_bytes": 33195,
+      "sha256": "1663997b3a3199112f20a4d346308f5c61632559e34b4115421914a613e7aaba",
+      "whats_new": "The save gate: an entry now ONLY saves once Skye was actually told — in person, by a direct text/message, or in the house group chat — with what was said and her response on record (there's a \"She didn't respond\" button, so a stonewall still counts). Telling someone else no longer counts. New fields property management acts on: lease category chips (noise/quiet hours, guests, mess, safety, damage, harassment, smoking, parking, other), where it happened, impact, evidence pointers, a REPEAT AFTER NOTICE flag when she'd been told about that kind of thing before, and a follow-up status. Reports are now timelines, oldest first, with a summary block (counted incidents, date range, repeats after notice, category breakdown) and a plain closing request for a meeting. Older entries that were never raised with her stay visible as NOT COUNTED and move to a clearly labeled appendix — they no longer inflate the totals.",
       "category": "Life Admin",
       "required": false
     }
