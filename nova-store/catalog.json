@@ -149,12 +149,12 @@
     {
       "package": "com.codestark.novard",
       "name": "Nova RD",
-      "version_code": 5,
-      "version_name": "1.4",
+      "version_code": 6,
+      "version_name": "1.5",
       "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
       "size_bytes": 65963,
-      "sha256": "ee945e4003ed04305de5649f0b7753c31e3cc9ce5c3f80d7390600531d822b82",
-      "whats_new": "New in 1.4: Guard Mode — the preemptive layer, in a new Guard tab. Guard doesn't watch you; it watches for the TRIGGER: a housemate at max volume, a door slamming — the sounds that land seconds before the frustration starts. Arm it yourself, or set the auto-arm window (default 7 PM to 1 AM) and it arms itself and opens with a priming briefing: a verse, your own stability rule, and Amen's contingencies read aloud. While armed, a listening service measures only how LOUD the room is — it never records, saves, sends, or tries to understand any audio. When a trigger trips, your phone buzzes hard, speaks your cue out loud (editable; default 'Trigger. Breathe first. RD is open.'), writes a Guard record to your Log that can't be deleted, and opens your check-in: false alarm, open the Decide check-in, or start breathing. Sensitivity (Low/Medium/High), a 1/3/5-minute cooldown so it never nags in a loop, and a live room-level readout so you can watch the detector work. One honest limit: on some phones the system won't let a listening service start by itself in the background for auto-arm — if that happens the Guard tab says so plainly and one tap on Arm Guard starts it. Everything from 1.3 (Amen's Contingencies, the stricter gate, mode switch, Confront tab) is untouched.",
+      "sha256": "4e59b2aafeeedcafb659ccb3644c3c96097947fb5557e0b3f586a4803368a750",
+      "whats_new": "New in 1.5: Amen's Standing Rules. Four of Amen's standards that were already established in the house record are now coded into the app as HARD RULES, in their own Authority-tab section above Amen's Contingencies: (1) guest counting — any presence counts, \"over here is over here,\" no exceptions for just stopping by; (2) the 3-days-per-week guest limit for Gabe is an existing agreement set with Amen — not a new rule; (3) the 10 PM guest curfew; (4) Amen barred Gabe from being over on November 6, 2026 — that's about Gabe being physically present, not Skye's phone calls, where the complaint is volume only. The standing rules bind every Decide call and every Confront cleanup exactly like Amen's contingencies do, they count together in the rules banner on both tabs, and Guard Mode's priming briefing now announces the standing-rule count too. Amen's Contingencies section itself is unchanged — Amen can still add his own rules there. Everything from 1.4 (Guard Mode, the stricter gate, mode switch, Confront tab) is untouched.",
       "category": "Life Admin",
       "required": false
     }
