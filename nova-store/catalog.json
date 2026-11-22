@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 5,
-      "version_name": "1.4",
+      "version_code": 6,
+      "version_name": "1.5",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 78251,
-      "sha256": "e4957b8df0f52346c8e2da6b106cd24f777e4de0e7c27339299ea6e7960f06c2",
-      "whats_new": "Fixed sermons cutting off mid-way \u2014 if a sermon runs long, she now continues it automatically until the closing prayer, and long readings are spoken in smaller pieces so nothing gets dropped.",
+      "size_bytes": 86443,
+      "sha256": "aa3aa2cfab3081db5a8a10dd3a07fcbcd161cf4ff91545023bf6093ad583a25c",
+      "whats_new": "Pastor Nova is personal now \u2014 set up My Profile with your name, denomination, church status, faith stage, Bible translation, and what she should know about you, and she preaches and teaches directly to you in your own tradition. CodeStark: tap the developer profile button in My Profile to load yours instantly.",
       "category": "Faith",
       "required": false
     }
