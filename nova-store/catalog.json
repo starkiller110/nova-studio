@@ -89,12 +89,12 @@
         {
             "package": "com.codestark.novahouselog",
             "name": "Nova House Log",
-            "version_code": 6,
-            "version_name": "1.5",
+            "version_code": 7,
+            "version_name": "1.6",
             "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-            "size_bytes": 45483,
-            "sha256": "0a38018c47389e741f6727dc214c41604a7f60f359286020d97fe2718b5a87d3",
-            "whats_new": "Connecting GroupMe is now two taps. The GroupMe tab has an 'Open dev.groupme.com' button and a 'Paste from clipboard and connect' button \u2014 copy your token on the developer page, come back, tap once, and you're connected. No typing it out by hand.",
+            "size_bytes": 53675,
+            "sha256": "bc3b42b06fd99ffa5503536202aae375c42756fb63e95f16faf21ba92ac9e20d",
+            "whats_new": "New Confirm tab for facts you're not sure of: save a plain yes-or-no question for a specific person instead of guessing. YES puts it in the log as a counted confirmed fact, stamped with their name and the time; NO closes it for good. New People tab too \u2014 the house roster is pulled straight from the FH6-132 GroupMe group so you tap names instead of typing, with your own switches per person for tagging, auto-logging their group chat posts, and text consent. Tagging is on for everyone, auto-log only for you and Janelle, texting off for everyone \u2014 and the app itself never sends anything to anybody.",
             "category": "Life Admin",
             "required": false
         },
