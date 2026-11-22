@@ -97,6 +97,18 @@
       "whats_new": "NEW GroupMe tab: connect with your GroupMe token (dev.groupme.com) and the app watches the FH6-132 group chat. YOUR posts about Skye auto-log as counted entries — your phone, your consent. Janelle's lane is built but OFF: it stays off until she consents and you flip the switch; even then her posts only wait for her texted yes before anything is logged. Nobody else's messages are ever collected. Also new: date and time PICKERS everywhere (no more typing dates), and a test entry mode — practice entries save without confronting her, are badged TEST, never counted, and never appear in any report. The real save gate is unchanged.",
       "category": "Life Admin",
       "required": false
+    },
+    {
+          "package": "com.codestark.novadevotion",
+          "name": "Nova Devotion",
+          "version_code": 1,
+          "version_name": "1.0",
+          "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
+          "size_bytes": 20907,
+          "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
+          "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+          "category": "Faith",
+          "required": false
     }
   ]
 }
