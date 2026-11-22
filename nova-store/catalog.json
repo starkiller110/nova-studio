@@ -10,7 +10,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
       "size_bytes": 17962256,
       "sha256": "5751f91fc778aa18179e2c2a5bd678e05307055e844920218412b2bd6e942b5e",
-      "whats_new": "The Store is catalog-driven now: every app published to the online store gets a row here \u2014 including brand-new apps like Nova House Log \u2014 with Install or Update decided by the version actually on your phone. Before this fix the store only ever listed the seven apps baked in when it shipped, so new apps never appeared and their updates never showed. The catalog check is also cache-busted, so a freshly published app shows up on the first check, not a later one.",
+      "whats_new": "The Store is catalog-driven now: every app published to the online store gets a row here — including brand-new apps like Nova House Log — with Install or Update decided by the version actually on your phone. Before this fix the store only ever listed the seven apps baked in when it shipped, so new apps never appeared and their updates never showed. The catalog check is also cache-busted, so a freshly published app shows up on the first check, not a later one.",
       "category": "Foundation",
       "required": true
     },
@@ -22,7 +22,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16970785,
       "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
-      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do — through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
       "category": "Foundation",
       "required": false
     },
@@ -46,7 +46,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
-      "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
+      "whats_new": "Fixes the blank screen — the app now actually shows the Watch List and Chat Reader.",
       "category": "Creator",
       "required": false
     },
@@ -58,19 +58,19 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
       "size_bytes": 815531,
       "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
-      "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
+      "whats_new": "Stream from the phone with RTMP — Twitch and YouTube starter buttons.",
       "category": "Creator",
       "required": false
     },
     {
       "package": "com.codestark.uhcclaim",
       "name": "UHC Claim Builder",
-      "version_code": 8,
-      "version_name": "3.2",
+      "version_code": 9,
+      "version_name": "3.3",
       "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
       "size_bytes": 71710,
-      "sha256": "f7cf0592eef92bd041a8d04bff7cd924e27f2549391acc652bcf5dc7f5074b56",
-      "whats_new": "Receipt fix: when Uber's receipt email has no PDF attached (most don't \u2014 the receipt is in the email body), the app now builds the receipt PDF from the email itself, so Gmail trips land with a receipt you can actually claim with. And on the next Gmail pull, trips you already pulled that are missing a receipt get one fixed on them automatically.",
+      "sha256": "77527b18022517c3629b6a0d574eb847dfda7f011623af47f6e3e5c76b37d9e4",
+      "whats_new": "Receipt fix, part two: the build itself now heals missing receipts. If a trip you picked has no receipt, the app fetches it from Gmail on the spot and keeps building — no pull first, no trip left behind (the old repair stopped at 10 trips). If Gmail can't produce it either, the message now tells you the exact next step instead of just stopping.",
       "category": "Life Admin",
       "required": false
     },
@@ -94,7 +94,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
       "size_bytes": 45483,
       "sha256": "df48f4da00a41f63e58f8060b29155ff4b72265fbd760572d46dae59a0232c77",
-      "whats_new": "NEW GroupMe tab: connect with your GroupMe token (dev.groupme.com) and the app watches the FH6-132 group chat. YOUR posts about Skye auto-log as counted entries \u2014 your phone, your consent. Janelle's lane is built but OFF: it stays off until she consents and you flip the switch; even then her posts only wait for her texted yes before anything is logged. Nobody else's messages are ever collected. Also new: date and time PICKERS everywhere (no more typing dates), and a test entry mode \u2014 practice entries save without confronting her, are badged TEST, never counted, and never appear in any report. The real save gate is unchanged.",
+      "whats_new": "NEW GroupMe tab: connect with your GroupMe token (dev.groupme.com) and the app watches the FH6-132 group chat. YOUR posts about Skye auto-log as counted entries — your phone, your consent. Janelle's lane is built but OFF: it stays off until she consents and you flip the switch; even then her posts only wait for her texted yes before anything is logged. Nobody else's messages are ever collected. Also new: date and time PICKERS everywhere (no more typing dates), and a test entry mode — practice entries save without confronting her, are badged TEST, never counted, and never appear in any report. The real save gate is unchanged.",
       "category": "Life Admin",
       "required": false
     }
