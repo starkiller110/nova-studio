@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 2,
-      "version_name": "1.1",
+      "version_code": 3,
+      "version_name": "1.2",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
       "size_bytes": 78251,
-      "sha256": "6d79d747b3b6537a378030ef0f26450e0280c45dba9f6a2e44f3160354570e39",
-      "whats_new": "Framing fix, per CodeStark: Pastor Nova is built for people who don't have a church — so she pastors them right here instead of pointing them to a pastor they don't have. The Ask tab and the sermon preacher no longer defer hard questions to 'your real pastors'; she answers fully herself, preaches fully herself, and prays with you when you ask. If you do have a church, she's a supplement, never a replacement. Same six tabs, four full sermons, 51 seminary lessons, 66-book survey, and prayers as 1.0.",
+      "sha256": "5dad73cf12f2c8b735bae2298a07df9f17a9d064bb79615145941a694fd7a8c1",
+      "whats_new": "Key sharing with the Nova Launcher fixed: Ask Pastor Nova now borrows the Gemini key from the Launcher automatically — no pasting, no popup. The app declares the Launcher's key provider in its manifest (required on newer Android) and retries the borrow once if the provider is still waking up. If the key truly isn't set up yet, she says so plainly and tells you to open the Launcher's Nova assistant once — she never nags you with a paste box again. Same substitute-pastor framing, six tabs, sermons, lessons, survey, and prayers as 1.1.",
       "category": "Faith",
       "required": false
     }
