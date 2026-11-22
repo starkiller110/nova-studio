@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-22T03:58:38Z",
+  "generated": "2026-11-22T04:53:56Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -10,7 +10,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
       "size_bytes": 17962256,
       "sha256": "85d80bb3084f5a1052182cde56b8de32a15d8f30ada4d8689aa5c282a4942a97",
-      "whats_new": "Nova assistant is faster and stops throwing 404s — she now asks Google which models your key can use and remembers the working one.",
+      "whats_new": "Nova assistant is faster and stops throwing 404s \u2014 she now asks Google which models your key can use and remembers the working one.",
       "category": "Foundation",
       "required": true
     },
@@ -22,7 +22,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16970785,
       "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
-      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do — through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
       "category": "Foundation",
       "required": false
     },
@@ -46,7 +46,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
-      "whats_new": "Fixes the blank screen — the app now actually shows the Watch List and Chat Reader.",
+      "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
       "category": "Creator",
       "required": false
     },
@@ -58,7 +58,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
       "size_bytes": 815531,
       "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
-      "whats_new": "Stream from the phone with RTMP — Twitch and YouTube starter buttons.",
+      "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
       "category": "Creator",
       "required": false
     },
@@ -70,7 +70,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
       "size_bytes": 71710,
       "sha256": "77527b18022517c3629b6a0d574eb847dfda7f011623af47f6e3e5c76b37d9e4",
-      "whats_new": "Receipt fix, part two: the build itself now heals missing receipts. If a trip you picked has no receipt, the app fetches it from Gmail on the spot and keeps building — no pull first, no trip left behind (the old repair stopped at 10 trips). If Gmail can't produce it either, the message now tells you the exact next step instead of just stopping.",
+      "whats_new": "Receipt fix, part two: the build itself now heals missing receipts. If a trip you picked has no receipt, the app fetches it from Gmail on the spot and keeps building \u2014 no pull first, no trip left behind (the old repair stopped at 10 trips). If Gmail can't produce it either, the message now tells you the exact next step instead of just stopping.",
       "category": "Life Admin",
       "required": false
     },
@@ -82,7 +82,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1jlGemrJ03gEi3tSQLMEUWCJd1H4ceZay&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "d03a8d0a97f1ac145543a59dbfe3121c7d257d99ed568984259e1f86ece09dc9",
-      "whats_new": "Fixed the 404 errors and long waits — she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
+      "whats_new": "Fixed the 404 errors and long waits \u2014 she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
       "category": "Life Admin",
       "required": false
     },
@@ -94,7 +94,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
       "size_bytes": 45483,
       "sha256": "290e001615943359074a70fc9d85b1523a5ef1e027d6ea625243bd2bb7219487",
-      "whats_new": "Janelle's lane is ON: Janelle consented, so her FH6-132 group-chat posts about Skye now auto-log into her own separate case log — the same rules as your posts. Nobody else's messages are ever collected; that hasn't changed. Everything else from 1.3 is the same: the confrontation save gate, counted / NOT COUNTED reports, date and time pickers, and test entry mode.",
+      "whats_new": "Janelle's lane is ON: Janelle consented, so her FH6-132 group-chat posts about Skye now auto-log into her own separate case log \u2014 the same rules as your posts. Nobody else's messages are ever collected; that hasn't changed. Everything else from 1.3 is the same: the confrontation save gate, counted / NOT COUNTED reports, date and time pickers, and test entry mode.",
       "category": "Life Admin",
       "required": false
     },
@@ -106,19 +106,19 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
       "size_bytes": 20907,
       "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
-      "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+      "whats_new": "First release: a daily devotion on your phone \u2014 today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
       "category": "Faith",
       "required": false
     },
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 7,
-      "version_name": "1.6",
+      "version_code": 8,
+      "version_name": "1.7",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 90539,
-      "sha256": "3a227a349e32b08ea3cc9ac05eff6ea88243d007cd8ad1921495dd1f0f0d2502",
-      "whats_new": "New: a full worship Service tab — welcome and opening prayer, worship music in the built-in YouTube player from the Christian artists YOU love (add them in My Profile), the sermon, a real invitation with invitation music, verses and pastor-style encouragement (classic Baptist invitation, adapted respectfully for other traditions), and a closing prayer. My Profile now also saves your favorite Christian artists and worship style.",
+      "size_bytes": 94635,
+      "sha256": "b3510b4372c7dd5807542816fccb1d3821bd5c7e894f876e7b5c5593710d0d2a",
+      "whats_new": "Service fix round: the worship service now RUNS stage by stage \u2014 one stage on screen at a time, no scrolling; spoken stages move on by themselves, music stages wait for one big Next button. Your saved artists actually show up now, you can add an artist right inside the worship stage (no trip to My Profile), the music fields moved to the top of My Profile and Save reads your artists back to you, and the YouTube player was hardened (mobile player, proper media client, and it lets go of the audio when you move on so speech comes back).",
       "category": "Faith",
       "required": false
     }
