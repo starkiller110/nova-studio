@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 8,
-      "version_name": "1.7",
+      "version_code": 9,
+      "version_name": "1.8",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 94635,
-      "sha256": "b3510b4372c7dd5807542816fccb1d3821bd5c7e894f876e7b5c5593710d0d2a",
-      "whats_new": "Service fix round: the worship service now RUNS stage by stage \u2014 one stage on screen at a time, no scrolling; spoken stages move on by themselves, music stages wait for one big Next button. Your saved artists actually show up now, you can add an artist right inside the worship stage (no trip to My Profile), the music fields moved to the top of My Profile and Save reads your artists back to you, and the YouTube player was hardened (mobile player, proper media client, and it lets go of the audio when you move on so speech comes back).",
+      "size_bytes": 98731,
+      "sha256": "4d04e1b26388b444f504a3a4035b47692b321a83bd61125b22626fa504b25be1",
+      "whats_new": "Crypt is fixed: in your artists, Crypt now always means Crypt the rapper (the Christian rapper behind 'All I Know') \u2014 in the music search and in Pastor Nova's preaching. The service now runs itself: tap Start once and nobody taps anything again \u2014 a curated playlist is built from ALL the artists on your profile, each song matched to today's sermon's theme, and it plays through audio-only (no video player on screen) straight into the sermon. Pastor Nova generates the sermon in the background while the worship plays, so the service flows like a real one; invitation music plays straight into the invitation, and the service ends itself after closing worship.",
       "category": "Faith",
       "required": false
     }
