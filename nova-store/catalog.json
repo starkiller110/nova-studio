@@ -1,16 +1,16 @@
 {
   "store_version": 1,
-  "generated": "2026-11-22T01:13:37Z",
+  "generated": "2026-11-22T01:20:21Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
       "name": "Nova Launcher",
-      "version_code": 19,
-      "version_name": "3.16",
+      "version_code": 20,
+      "version_name": "3.17",
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-      "size_bytes": 17958160,
-      "sha256": "a34f862b3400989c8bd91f41859f22cb8b6d50a27a91eea2f6abb1181d69ee1c",
-      "whats_new": "Bundles Nova Voice 1.6, where the text-to-speech settings button moved to the top of the Nova Voice screen.",
+      "size_bytes": 17962256,
+      "sha256": "5751f91fc778aa18179e2c2a5bd678e05307055e844920218412b2bd6e942b5e",
+      "whats_new": "The Store is catalog-driven now: every app published to the online store gets a row here — including brand-new apps like Nova House Log — with Install or Update decided by the version actually on your phone. Before this fix the store only ever listed the seven apps baked in when it shipped, so new apps never appeared and their updates never showed. The catalog check is also cache-busted, so a freshly published app shows up on the first check, not a later one.",
       "category": "Foundation",
       "required": true
     },
