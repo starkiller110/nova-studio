@@ -1,16 +1,16 @@
 {
   "store_version": 1,
-  "generated": "2026-11-22T04:53:56Z",
+  "generated": "2026-11-22T15:10:00Z",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
       "name": "Nova Launcher",
-      "version_code": 23,
-      "version_name": "3.20",
+      "version_code": 24,
+      "version_name": "3.21",
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-      "size_bytes": 17962256,
-      "sha256": "64b0aa69374fddb078bd05ec6fd01ff57673414a1d0228e69e3bba2d88d656b3",
-      "whats_new": "Store fix: the Store now pulls its catalog through a fresher route so new apps and updates actually show up when they're published — no more 'everything is current' when it isn't.",
+      "size_bytes": 17966352,
+      "sha256": "f7f383f4f640f331351aeac03711a0b633e4d0405917bae5ca20d5549abcc217",
+      "whats_new": "The home screen is beautiful now — and smart. A gradient hero with the clock, Nova Apps as a grid of icon cards, built-in tools in their own grid, and everything else as a compact app grid instead of one giant scrolling list. And grouping is automatic: any app downloaded from the Nova Store now lands in Nova Apps on its own — Fanciful, Pastor Nova, Nova Voice, House Log, all of them — and never shows up down in Your Apps. New Nova apps group themselves the moment they're installed.",
       "category": "Foundation",
       "required": true
     },
