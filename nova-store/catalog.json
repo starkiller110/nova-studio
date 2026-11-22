@@ -113,12 +113,12 @@
     {
       "package": "com.codestark.pastornova",
       "name": "Pastor Nova",
-      "version_code": 1,
-      "version_name": "1.0",
+      "version_code": 2,
+      "version_name": "1.1",
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
-      "size_bytes": 74155,
-      "sha256": "7666b16c14189751773d8c7c7af163feaecdfd419f53eb0a420ffb80a1facff3",
-      "whats_new": "First release: Pastor Nova — a seminary in your pocket, and she can preach. FOUR full banked sermons (The Father Who Runs, The Thief Who Made It, Come Rest, The Woman at the Well) spoken start to finish in paragraph chunks with a Stop button, plus a daily devotion. 51 spoken seminary lessons: how to read the Bible, knowing God, salvation, the church, Greek and Hebrew word studies, church history in minutes, tough questions, pastoral wisdom. All 66 Bible books surveyed by ear. Guided prayers: the ACTS pattern and prayers for anxious moments, hard conversations, and more. And the Ask tab has two modes — Ask a question, or Preach me a sermon: give her a topic or passage and she preaches a fresh full sermon, invitation and closing prayer included. Aimed at folks who don't go to church, and at you when you want a dose of Jesus.",
+      "size_bytes": 78251,
+      "sha256": "6d79d747b3b6537a378030ef0f26450e0280c45dba9f6a2e44f3160354570e39",
+      "whats_new": "Framing fix, per CodeStark: Pastor Nova is built for people who don't have a church — so she pastors them right here instead of pointing them to a pastor they don't have. The Ask tab and the sermon preacher no longer defer hard questions to 'your real pastors'; she answers fully herself, preaches fully herself, and prays with you when you ask. If you do have a church, she's a supplement, never a replacement. Same six tabs, four full sermons, 51 seminary lessons, 66-book survey, and prayers as 1.0.",
       "category": "Faith",
       "required": false
     }
