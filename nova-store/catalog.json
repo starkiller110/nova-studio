@@ -5,12 +5,12 @@
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 25,
-   "version_name": "3.22",
+   "version_code": 26,
+   "version_name": "3.23",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 17970448,
-   "sha256": "c616a1f6d5b24c821669a2e1cb2ac2b8818da9d39e7d67d550413feb21262ebc",
-   "whats_new": "The FRIDAY build, brick one. REAL WIDGETS: Nova Launcher now hosts standard Android widgets \u2014 add any app's widget (calendar, weather, music) from the Widgets section, it lives and updates on your home screen, and a spoken Remove button takes it off. THE NOW DECK: a new section at the very top that changes with the time of day \u2014 morning, afternoon and evening faces with a spoken greeting and date. PREDICTIVE ACTIONS v1: Nova now surfaces ready-to-tap suggestion cards in the Now Deck when the moment is right \u2014 on weekday business hours you'll find 'You need to call Computer Revolution' with a Call here button; tap Done to retire it or Not now and it comes back tomorrow. Use 'Remember something for me' in the Now section to add your own by voice. Honest note: v1 is the card engine and timing \u2014 Nova is not listening in the background yet.",
+   "size_bytes": 17986832,
+   "sha256": "39c396c30ec0d99839e3cfd1dc28d6c7f9a9af37053b90e071e68f3c339966d6",
+   "whats_new": "The FRIDAY build \u2014 all the other bricks. MORPHING FACES: the Now Deck now wears Morning, Day, Evening, a nearly-empty Quiet face, and a Stream mode with a go-live prep stack \u2014 automatic by time, or pick a face by hand. ANTICIPATION QUEUE: predictive cards are now one ordered queue that tells you how many things are ready for you. SMARTER CARDS: everything you ask Nova to remember is filed by kind \u2014 People get Call buttons, hunger gets Find food nearby, places get Directions, bills file under Money, stream plans under Creator. The queue learns: cards you use keep their place; one you put off three times sinks and shows less often. LOCK-SCREEN CARDS: due cards also appear on your lock screen as notifications with Call, Done and Not now buttons (needs notification permission). LIVE ALERTS: grant alert access and new messages land at the top of the Now Deck, get read aloud, and can be answered with Reply by voice \u2014 replies go out through the other app itself, so RCS stays RCS. LISTENING MODE: turn it on and Nova listens for things you say you need \u2014 'I need to call\u2026' becomes a card. The listening notification stays visible the whole time, she keeps only the need (never recordings), and she never acts without your tap. Turn it off and nothing listens. MESH: a new section lists this phone as a Nova node with its real capabilities \u2014 the foundation other Nova devices will join later; nothing connects yet. SMART HOME: register your microwave in the Smart Home section; microwave moments ('I'm making bacon') become cards that open the MSmartHome app \u2014 app handoff for now, honestly not direct control yet. FILM MODE: in the Mesh section \u2014 a quiet in-character face with Suit commands that answer out loud ('Stun webs loaded'), simulation only until a real prop is connected.",
    "category": "Foundation",
    "required": true
   },
