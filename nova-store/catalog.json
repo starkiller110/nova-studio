@@ -113,12 +113,12 @@
   {
    "package": "com.codestark.pastornova",
    "name": "Pastor Nova",
-   "version_code": 16,
-   "version_name": "1.15",
+   "version_code": 17,
+   "version_name": "1.16",
    "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
    "size_bytes": 111019,
-   "sha256": "d779fff7a89012df12a9eb2d4a78b9f00c7cb0899e7415135019c3120b465989",
-   "whats_new": "Fixed: fresh sermons dying on the first Google model that said no. If one model rejects a sermon request, Pastor Nova now walks to the next model instead of giving up (the same fix Nova RD got). And if a fresh sermon still can't be generated during a service, she no longer silently defaults to a rotating banked sermon — she picks the banked sermon closest to your topic and says out loud that it's a fallback, so you always know what you're hearing and why.",
+   "sha256": "9692f9a84f8eb2e251f8109df664b2a93b256a8ab10e6556118319296bc24ff8",
+   "whats_new": "Two fixes from the field: (1) Sermon generation no longer dies when one Google model has a network hiccup — she walks to the next model — and if a fresh sermon still can't be generated, the fallback now speaks Google's actual reason out loud instead of just naming a code. (2) Worship: songs are now picked preferring the uploads YouTube actually allows embedded players to play (Topic-channel and official-audio posts over label music videos), and if three songs in a row still fail, she stops, says why once, and moves on with the service instead of silently skipping through the whole list.",
    "category": "Faith",
    "required": false
   },
