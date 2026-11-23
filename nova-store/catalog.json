@@ -10,7 +10,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
    "size_bytes": 17966352,
    "sha256": "f7f383f4f640f331351aeac03711a0b633e4d0405917bae5ca20d5549abcc217",
-   "whats_new": "The home screen is beautiful now \u2014 and smart. A gradient hero with the clock, Nova Apps as a grid of icon cards, built-in tools in their own grid, and everything else as a compact app grid instead of one giant scrolling list. And grouping is automatic: any app downloaded from the Nova Store now lands in Nova Apps on its own \u2014 Fanciful, Pastor Nova, Nova Voice, House Log, all of them \u2014 and never shows up down in Your Apps. New Nova apps group themselves the moment they're installed.",
+   "whats_new": "The home screen is beautiful now — and smart. A gradient hero with the clock, Nova Apps as a grid of icon cards, built-in tools in their own grid, and everything else as a compact app grid instead of one giant scrolling list. And grouping is automatic: any app downloaded from the Nova Store now lands in Nova Apps on its own — Fanciful, Pastor Nova, Nova Voice, House Log, all of them — and never shows up down in Your Apps. New Nova apps group themselves the moment they're installed.",
    "category": "Foundation",
    "required": true
   },
@@ -22,7 +22,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
    "size_bytes": 16970785,
    "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
-   "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+   "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do — through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
    "category": "Foundation",
    "required": false
   },
@@ -46,7 +46,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
    "size_bytes": 25003,
    "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
-   "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
+   "whats_new": "Fixes the blank screen — the app now actually shows the Watch List and Chat Reader.",
    "category": "Creator",
    "required": false
   },
@@ -58,7 +58,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
    "size_bytes": 815531,
    "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
-   "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
+   "whats_new": "Stream from the phone with RTMP — Twitch and YouTube starter buttons.",
    "category": "Creator",
    "required": false
   },
@@ -70,7 +70,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
    "size_bytes": 71710,
    "sha256": "77527b18022517c3629b6a0d574eb847dfda7f011623af47f6e3e5c76b37d9e4",
-   "whats_new": "Receipt fix, part two: the build itself now heals missing receipts. If a trip you picked has no receipt, the app fetches it from Gmail on the spot and keeps building \u2014 no pull first, no trip left behind (the old repair stopped at 10 trips). If Gmail can't produce it either, the message now tells you the exact next step instead of just stopping.",
+   "whats_new": "Receipt fix, part two: the build itself now heals missing receipts. If a trip you picked has no receipt, the app fetches it from Gmail on the spot and keeps building — no pull first, no trip left behind (the old repair stopped at 10 trips). If Gmail can't produce it either, the message now tells you the exact next step instead of just stopping.",
    "category": "Life Admin",
    "required": false
   },
@@ -82,7 +82,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1jlGemrJ03gEi3tSQLMEUWCJd1H4ceZay&export=download&confirm=t",
    "size_bytes": 25003,
    "sha256": "d03a8d0a97f1ac145543a59dbfe3121c7d257d99ed568984259e1f86ece09dc9",
-   "whats_new": "Fixed the 404 errors and long waits \u2014 she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
+   "whats_new": "Fixed the 404 errors and long waits — she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
    "category": "Life Admin",
    "required": false
   },
@@ -94,7 +94,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
    "size_bytes": 57771,
    "sha256": "4327c2b9cc4974f0bb3dd483a7947fede1e5689c6a7834eab53ae74cfa2435a7",
-   "whats_new": "House Sync is here \u2014 the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle \u2014 via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' \u2014 stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable \u2014 tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
+   "whats_new": "House Sync is here — the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle — via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' — stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable — tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
    "category": "Life Admin",
    "required": false
   },
@@ -106,19 +106,19 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
    "size_bytes": 20907,
    "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
-   "whats_new": "First release: a daily devotion on your phone \u2014 today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+   "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
    "category": "Faith",
    "required": false
   },
   {
    "package": "com.codestark.pastornova",
    "name": "Pastor Nova",
-   "version_code": 15,
-   "version_name": "1.14",
+   "version_code": 16,
+   "version_name": "1.15",
    "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
    "size_bytes": 111019,
-   "sha256": "f816302acf38405b9a3d2449a563ac52dcb102ef183006f05c49c8340d3d4e8a",
-   "whats_new": "The worship song list is now truly personalized. Songs are matched to your sermon's themes \u2014 like redemption and grace \u2014 instead of the raw topic words, pulled round-robin from ALL of your artists instead of the same first few, shaped by the worship style on your profile, and Pastor Nova now remembers what she has played so the same songs don't cycle every service.",
+   "sha256": "d779fff7a89012df12a9eb2d4a78b9f00c7cb0899e7415135019c3120b465989",
+   "whats_new": "Fixed: fresh sermons dying on the first Google model that said no. If one model rejects a sermon request, Pastor Nova now walks to the next model instead of giving up (the same fix Nova RD got). And if a fresh sermon still can't be generated during a service, she no longer silently defaults to a rotating banked sermon — she picks the banked sermon closest to your topic and says out loud that it's a fallback, so you always know what you're hearing and why.",
    "category": "Faith",
    "required": false
   },
@@ -130,7 +130,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1QG6deENuoIbgfLKoldwxm_h_I7w6II0u&export=download&confirm=t",
    "size_bytes": 33195,
    "sha256": "fc41b607c97a18f8b39b02e0efb0721d825e077d5202e2afc1b7874874ee0f6d",
-   "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song \u2014 type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
+   "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song — type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
    "category": "Creator",
    "required": false
   },
@@ -142,7 +142,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1sfzLadbkYb02Npl4AuCWtXSsu8wOmTWG&export=download&confirm=t",
    "size_bytes": 29167,
    "sha256": "8c0bd5ad90d0feddef38f2685d331e97f717ce04776c7fbf020535e46c683e17",
-   "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT \u2014 it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
+   "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT — it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
    "category": "Faith",
    "required": false
   },
@@ -154,7 +154,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
    "size_bytes": 65963,
    "sha256": "5dd7ca9e6d30eaf42f1240fd364971135ac9de7886a7e8dae639dfc2d92a62f4",
-   "whats_new": "New in 1.6: a fifth standing rule, this one from Amen himself \u2014 he texted it to Cody on November 22, 2026. When Cody and Janelle are reading comics and Skye is around, move to the community room and shut the door \u2014 the kitchen is the worst place to be with her in the house. If she comes into the community room, Cody can tell her to go somewhere else. It sits with Amen's other standing rules in the Authority tab, binds every Decide call and Confront cleanup the same way, and counts in the rules banner and Guard Mode priming. Nothing else changed.",
+   "whats_new": "New in 1.6: a fifth standing rule, this one from Amen himself — he texted it to Cody on November 22, 2026. When Cody and Janelle are reading comics and Skye is around, move to the community room and shut the door — the kitchen is the worst place to be with her in the house. If she comes into the community room, Cody can tell her to go somewhere else. It sits with Amen's other standing rules in the Authority tab, binds every Decide call and Confront cleanup the same way, and counts in the rules banner and Guard Mode priming. Nothing else changed.",
    "category": "Life Admin",
    "required": false
   }
