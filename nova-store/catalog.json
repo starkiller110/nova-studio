@@ -9,7 +9,7 @@
    "version_name": "3.22",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
    "size_bytes": 17970448,
-   "sha256": "0952b9e76b44d0943817c5005034d05b4be8a2653ff5bbfce65281bcde15ddc5",
+   "sha256": "c616a1f6d5b24c821669a2e1cb2ac2b8818da9d39e7d67d550413feb21262ebc",
    "whats_new": "The FRIDAY build, brick one. REAL WIDGETS: Nova Launcher now hosts standard Android widgets \u2014 add any app's widget (calendar, weather, music) from the Widgets section, it lives and updates on your home screen, and a spoken Remove button takes it off. THE NOW DECK: a new section at the very top that changes with the time of day \u2014 morning, afternoon and evening faces with a spoken greeting and date. PREDICTIVE ACTIONS v1: Nova now surfaces ready-to-tap suggestion cards in the Now Deck when the moment is right \u2014 on weekday business hours you'll find 'You need to call Computer Revolution' with a Call here button; tap Done to retire it or Not now and it comes back tomorrow. Use 'Remember something for me' in the Now section to add your own by voice. Honest note: v1 is the card engine and timing \u2014 Nova is not listening in the background yet.",
    "category": "Foundation",
    "required": true
