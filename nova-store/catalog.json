@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T04:11:57+00:00",
+ "generated": "2026-11-24T04:52:21+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 46,
-   "version_name": "3.43",
+   "version_code": 47,
+   "version_name": "3.44",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35690214,
-   "sha256": "d749890397af625d70ca4c583796352efd6e14163ce396d415959b11c03fbb37",
-   "whats_new": "New in 3.43 — talk to her like a person. First: rides. You don't have to fill out a form to get an Uber anymore — say it naturally in conversation: “I need a ride to church”, “take me to Walmart”, “can you get me an Uber to the doctor” — she books it. Say “order me an Uber” with no place and she just asks “Where to?” — your next words are the destination and the booking starts. Talking ABOUT rides (“I took an Uber yesterday”, “Uber is expensive”) books nothing, and Uber Eats never books a ride. Second: her voice and the live conversation are separate switches now. “Nova's voice” only decides whether replies are spoken out loud — it never starts her listening. “Live conversation” is its own switch: on, she listens and your speech becomes your message; off, you type or tap Speak. And the Nova AI screen now opens in Talk — the live back-and-forth — by default, with Ask one tap away on the Mode switch. Under the hood, if you phrase ANY command naturally and her fast matchers miss it, she takes one quick second look before chatting — natural speech in, action out.",
+   "size_bytes": 35698406,
+   "sha256": "27d83a1f3bdf83e676d6aceb064fba24d7228f65fa7d044c753d84784f47defa",
+   "whats_new": "New in 3.44 — scheduling a ride ahead works the way you'd say it, and it never kicks you out of the app. Say it naturally: “schedule an Uber to church for tomorrow at 9”, “book me an Uber for tomorrow at 9”, “I need a ride tomorrow morning”, “get me an Uber for Tuesday at 3”. She makes a ride plan, tells you the day and time and exactly when she'll book it (the leave time, from the travel time you taught her), and that's it — nothing opens, nothing books early, and if you're mid-conversation in Talk with Nova you stay right there and keep talking. If you leave out the place or the time, she asks just for that one piece — “Where to?” or “What time do you need to be there?” — and finishes the plan when you answer. Talking about a ride you already took books nothing, and “book my Uber to church” still books right now, same as before. Say “cancel that ride plan” any time to call a plan off.",
    "category": "Foundation",
    "required": true
   },
