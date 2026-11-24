@@ -77,6 +77,20 @@
    "status": "done",
    "text": "Your build is done. Nova RD now handles repeat offenses the way you asked: instead of posting in the group chat again, a repeat gets flagged straight to Amen in a private text through your messages app — RD reads the exact flag back to you first, and only a confirmed send gets recorded in your log. Update Nova RD from the Store to get it.",
    "ts": 1795526949435
+  },
+  {
+   "id": "notice-1795528619864-done",
+   "requestId": 1795528619864,
+   "status": "done",
+   "text": "Your build is done. Nova House Log's Share tab now has a \"Text a copy to Janelle\" button: it texts her a plain copy of the counted log — every counted entry, oldest first — so she can maintain her records. It reads back the entry count and date range first, finds Janelle in your contacts, and only counted entries ever go — never drafts or uncounted entries. Update Nova House Log from the Store to get it.",
+   "ts": 1795531231570
+  },
+  {
+   "id": "notice-1795530630899-done",
+   "requestId": 1795530630899,
+   "status": "done",
+   "text": "Your build is done. Nova House Log now auto-forwards to Janelle: each NEW counted entry is texted to her on its own the moment it's recorded, so her case file strengthens as yours grows. It's on by default — the Share tab has the switch and a status line that says honestly if a forward ever didn't go out. Update Nova House Log from the Store to get it.",
+   "ts": 1795531231570
   }
  ]
 }
