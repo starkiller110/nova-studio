@@ -70,6 +70,13 @@
    "status": "done",
    "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
    "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795525174233-done",
+   "requestId": 1795525174233,
+   "status": "done",
+   "text": "Your build is done. Nova RD now handles repeat offenses the way you asked: instead of posting in the group chat again, a repeat gets flagged straight to Amen in a private text through your messages app — RD reads the exact flag back to you first, and only a confirmed send gets recorded in your log. Update Nova RD from the Store to get it.",
+   "ts": 1795526949435
   }
  ]
 }
