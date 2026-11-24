@@ -91,6 +91,13 @@
    "status": "done",
    "text": "Your build is done. Nova House Log now auto-forwards to Janelle: each NEW counted entry is texted to her on its own the moment it's recorded, so her case file strengthens as yours grows. It's on by default — the Share tab has the switch and a status line that says honestly if a forward ever didn't go out. Update Nova House Log from the Store to get it.",
    "ts": 1795531231570
+  },
+  {
+   "id": "notice-1795531675378-done",
+   "requestId": 1795531675378,
+   "status": "done",
+   "text": "Your build is done. Nova House Log entries can now tag multiple people: on Add Entry, tap names to tag everyone an incident involved — presets, the house roster, or a typed name — and tap again to untag. Everyone tagged shows on the entry, in the reports and each person's case log, and in the copies texted to Janelle. Old entries work unchanged. Update Nova House Log from the Store to get it.",
+   "ts": 1795532149416
   }
  ]
 }
