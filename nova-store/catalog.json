@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T04:01:00+00:00",
+ "generated": "2026-11-24T04:11:57+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 44,
-   "version_name": "3.41",
+   "version_code": 45,
+   "version_name": "3.42",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35673830,
-   "sha256": "cd2b95fe00121f2dcdcc5504ac562e0b6b34f8a24d3c755f1f61c55d55f260f1",
-   "whats_new": "New in 3.41 — when you tell Nova to do something, she does it. The order lane is fixed end to end. Saying “Order me a surprise from Walmart” in Talk with Nova (or anywhere) now actually runs the surprise: before, that exact sentence was misheard as a shopping list containing an item called “me a surprise”, and other orders said in conversation — “order me milk and eggs”, “get my usual” — fell into chat, where she sounded like she'd handled them and nothing happened. Now every seat shares one set of ears for orders: surprise requests, item orders, your Walmart usual with or without naming Walmart, and teaching her your usual or what it costs all route to execution, never to a chat answer — and she no longer claims she ran something she didn't. Two more fixes: a surprise no longer dies just because no bank balance is verified and fresh — Walmart runs on your EBT, so your taught usual cost is the cap and she says so (a verified balance that doesn't cover it still stops her). And she learns your tastes now: take an item off a surprise cart and it goes on a don't-get list that surprises skip from then on; say “don't get me eggs again” or “I don't like liver” and she learns it on the spot; “what don't I like” reads the list back; ordering a don't-get item on purpose clears it; and items you keep through a surprise get picked more often. Her Walmart words are honest now too: she builds the cart, reads it back, takes it to checkout, and stops at the PIN step — the PIN is always yours.",
+   "size_bytes": 35686118,
+   "sha256": "7c3149de3d78f8f14fa12b02120306c7242a8b0f695d69a3d8a65ba15bdddeb9",
+   "whats_new": "New in 3.42 — two things you asked for tonight. First: jokes are build requests now. When you're just chatting with Nova and you joke or muse about a feature she needs — “she should be able to…”, “what if she could…”, “I wish Nova could…” — she files it as a Goldfish build request on her own and tells you in one line. No tapping, no asking: the joke is the request. Say the same joke twice and she won't file it twice. Commands still just execute — this only catches the daydreaming. There's a switch in Build — Goldfish, “Auto-file feature ideas from talk”, if you ever want it off. Second: the phantom call is real. Say “get me out of here”, “rescue me”, or “call me in 2 minutes” — or tap “Get me out of here” on the Ask Nova card — and about a minute later your phone rings like a real call from Alex. Answer it and Nova stays in character as your friend with a minor emergency, talking as long as you need to make your exit; when you say you're coming, she wraps up so you can hang up clean. It's simulated on your own phone — no real call is placed, and nothing about the conversation is saved. Teach her the details by voice: “the phantom call should say it's from Mom”, “phantom calls should come in 5 minutes”.",
    "category": "Foundation",
    "required": true
   },
