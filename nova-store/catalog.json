@@ -5,12 +5,12 @@
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 45,
-   "version_name": "3.42",
+   "version_code": 46,
+   "version_name": "3.43",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35686118,
-   "sha256": "7c3149de3d78f8f14fa12b02120306c7242a8b0f695d69a3d8a65ba15bdddeb9",
-   "whats_new": "New in 3.42 — two things you asked for tonight. First: jokes are build requests now. When you're just chatting with Nova and you joke or muse about a feature she needs — “she should be able to…”, “what if she could…”, “I wish Nova could…” — she files it as a Goldfish build request on her own and tells you in one line. No tapping, no asking: the joke is the request. Say the same joke twice and she won't file it twice. Commands still just execute — this only catches the daydreaming. There's a switch in Build — Goldfish, “Auto-file feature ideas from talk”, if you ever want it off. Second: the phantom call is real. Say “get me out of here”, “rescue me”, or “call me in 2 minutes” — or tap “Get me out of here” on the Ask Nova card — and about a minute later your phone rings like a real call from Alex. Answer it and Nova stays in character as your friend with a minor emergency, talking as long as you need to make your exit; when you say you're coming, she wraps up so you can hang up clean. It's simulated on your own phone — no real call is placed, and nothing about the conversation is saved. Teach her the details by voice: “the phantom call should say it's from Mom”, “phantom calls should come in 5 minutes”.",
+   "size_bytes": 35690214,
+   "sha256": "d749890397af625d70ca4c583796352efd6e14163ce396d415959b11c03fbb37",
+   "whats_new": "New in 3.43 — talk to her like a person. First: rides. You don't have to fill out a form to get an Uber anymore — say it naturally in conversation: “I need a ride to church”, “take me to Walmart”, “can you get me an Uber to the doctor” — she books it. Say “order me an Uber” with no place and she just asks “Where to?” — your next words are the destination and the booking starts. Talking ABOUT rides (“I took an Uber yesterday”, “Uber is expensive”) books nothing, and Uber Eats never books a ride. Second: her voice and the live conversation are separate switches now. “Nova's voice” only decides whether replies are spoken out loud — it never starts her listening. “Live conversation” is its own switch: on, she listens and your speech becomes your message; off, you type or tap Speak. And the Nova AI screen now opens in Talk — the live back-and-forth — by default, with Ask one tap away on the Mode switch. Under the hood, if you phrase ANY command naturally and her fast matchers miss it, she takes one quick second look before chatting — natural speech in, action out.",
    "category": "Foundation",
    "required": true
   },
