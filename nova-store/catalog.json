@@ -1,16 +1,16 @@
 {
   "store_version": 1,
-  "generated": "2026-11-24T01:18:08.664904+00:00",
+  "generated": "2026-11-24T01:31:05.455373+00:00",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
       "name": "Nova Launcher",
-      "version_code": 39,
-      "version_name": "3.36",
+      "version_code": 40,
+      "version_name": "3.37",
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-      "size_bytes": 35653350,
-      "sha256": "51dbd8ba0846e4def801308bdba1f1388c6fff8543a7034b9b7a78fc67514a09",
-      "whats_new": "GOLDFISH IS HERE. There is a new Build section: describe a feature in your own words \u2014 by voice or typing \u2014 and Nova builds it. Simple features arrive as data you approve after hearing exactly what they do and what they need; Hear my builds and Hear my features read everything back; run, pause, resume, remove and put-it-back-how-it-was all work by button or voice, and Nova, stop halts a running feature. Two starters are already in: Morning Rundown and Focus Five. A feature that needs real code is escalated honestly and comes back as an app update.",
+      "size_bytes": 35661542,
+      "sha256": "b43168ef4f5d8a1252cc40f52b2379f38d367f3887af4b846135d952a54e75b8",
+      "whats_new": "SURPRISE AUTOPILOT + THE KEYBOARD HAND. Say \"surprise me\" and Nova composes a Walmart cart from YOUR tastes — rotated so it is never your last order rebuilt, sized by what your Walmart usual runs, and capped by your verified balance before the first item is added; an unaffordable surprise comes back smaller, never as an overspend. She builds the cart, reads every item and the total back, and HOLDS: say \"take off the eggs\" and she pulls it out and re-reads the cart; say \"go ahead\" and it rides to checkout and stops at the PIN step, where the PIN is still yours to type. \"Order me milk and eggs\" just builds it. If she does not know your Walmart tastes or what your usual runs, she asks ONE plain question — never a form. And she can type now: inside her driver and Guide flows she types into search boxes and ordinary fields, but NEVER into a password, card, code, or PIN field — those still stop the flow cold. A request no on-phone driver can run no longer gets a stock deflection: it escalates to Nova's deep seat as a build request and comes back as an update.",
       "category": "Foundation",
       "required": true
     },
@@ -22,7 +22,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16970785,
       "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
-      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do — through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
       "category": "Foundation",
       "required": false
     },
@@ -34,7 +34,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=13LtIG54Akf5Ql7uexam_sX94FjBkYJ4T&export=download&confirm=t",
       "size_bytes": 57771,
       "sha256": "f6d0334fc0f4239991cb42f6b2070f2363382845126744d9235575a891322cad",
-      "whats_new": "AGENT MODE. Nova now fronts your calls both ways. Incoming: she answers on speaker, says she is CodeStark's assistant, and handles the call by lane \u2014 friends and family get a casual hello and message-taking, businesses and unknown numbers get a professional intake (who, company, what about, is it urgent, best callback), and a caller you mark as heated gets listened to without an argument. Outgoing: give her a one-sentence errand and she makes the call herself \u2014 she never commits you to money, dates, or deals; anything bigger comes back to you as a question. After every agent call you get ONE summary: everything that matters, with the heat taken out. Lanes are set per person from Contacts or Recents; numbers you set to always ring through still ring to you; and you can grab any call back mid-sentence with the Take this call button. Honest limit, in plain words: Android gives regular apps no direct line into call audio, so Nova works through the speaker and the microphone, like someone sitting next to the phone \u2014 quiet rooms work best. Save your Gemini key in the Nova tab and she converses freely; without it she runs her scripted intake and the summary still lands. Agent Mode OFF means the phone works exactly like 1.6.",
+      "whats_new": "AGENT MODE. Nova now fronts your calls both ways. Incoming: she answers on speaker, says she is CodeStark's assistant, and handles the call by lane — friends and family get a casual hello and message-taking, businesses and unknown numbers get a professional intake (who, company, what about, is it urgent, best callback), and a caller you mark as heated gets listened to without an argument. Outgoing: give her a one-sentence errand and she makes the call herself — she never commits you to money, dates, or deals; anything bigger comes back to you as a question. After every agent call you get ONE summary: everything that matters, with the heat taken out. Lanes are set per person from Contacts or Recents; numbers you set to always ring through still ring to you; and you can grab any call back mid-sentence with the Take this call button. Honest limit, in plain words: Android gives regular apps no direct line into call audio, so Nova works through the speaker and the microphone, like someone sitting next to the phone — quiet rooms work best. Save your Gemini key in the Nova tab and she converses freely; without it she runs her scripted intake and the summary still lands. Agent Mode OFF means the phone works exactly like 1.6.",
       "category": "Foundation",
       "required": false
     },
@@ -46,7 +46,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
-      "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
+      "whats_new": "Fixes the blank screen — the app now actually shows the Watch List and Chat Reader.",
       "category": "Creator",
       "required": false
     },
@@ -58,7 +58,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
       "size_bytes": 815531,
       "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
-      "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
+      "whats_new": "Stream from the phone with RTMP — Twitch and YouTube starter buttons.",
       "category": "Creator",
       "required": false
     },
@@ -70,7 +70,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
       "size_bytes": 75806,
       "sha256": "f840aa6dcfd2947f7298cf01179faab0e181727da5e095df021c9d0e71e884b2",
-      "whats_new": "Signature guaranteed: the form always prints your name as the signature with today's date beside it, the package-ready message reads the signature and date back to you before you send, and if your name is ever blank the package refuses to build instead of producing an unsigned form. New: a Send a test email button on the Build a Claim tab \u2014 it sends one clearly marked test email to UHC through your saved Gmail sign-in (no claim attached, no member ID) and, if it fails, shows the mail server's actual words so the problem names itself.",
+      "whats_new": "Signature guaranteed: the form always prints your name as the signature with today's date beside it, the package-ready message reads the signature and date back to you before you send, and if your name is ever blank the package refuses to build instead of producing an unsigned form. New: a Send a test email button on the Build a Claim tab — it sends one clearly marked test email to UHC through your saved Gmail sign-in (no claim attached, no member ID) and, if it fails, shows the mail server's actual words so the problem names itself.",
       "category": "Life Admin",
       "required": false
     },
@@ -82,7 +82,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1jlGemrJ03gEi3tSQLMEUWCJd1H4ceZay&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "d03a8d0a97f1ac145543a59dbfe3121c7d257d99ed568984259e1f86ece09dc9",
-      "whats_new": "Fixed the 404 errors and long waits \u2014 she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
+      "whats_new": "Fixed the 404 errors and long waits — she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
       "category": "Life Admin",
       "required": false
     },
@@ -94,7 +94,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
       "size_bytes": 57771,
       "sha256": "4327c2b9cc4974f0bb3dd483a7947fede1e5689c6a7834eab53ae74cfa2435a7",
-      "whats_new": "House Sync is here \u2014 the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle \u2014 via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' \u2014 stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable \u2014 tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
+      "whats_new": "House Sync is here — the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle — via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' — stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable — tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
       "category": "Life Admin",
       "required": false
     },
@@ -106,7 +106,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
       "size_bytes": 20907,
       "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
-      "whats_new": "First release: a daily devotion on your phone \u2014 today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+      "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
       "category": "Faith",
       "required": false
     },
@@ -118,7 +118,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
       "size_bytes": 111019,
       "sha256": "9692f9a84f8eb2e251f8109df664b2a93b256a8ab10e6556118319296bc24ff8",
-      "whats_new": "Two fixes from the field: (1) Sermon generation no longer dies when one Google model has a network hiccup \u2014 she walks to the next model \u2014 and if a fresh sermon still can't be generated, the fallback now speaks Google's actual reason out loud instead of just naming a code. (2) Worship: songs are now picked preferring the uploads YouTube actually allows embedded players to play (Topic-channel and official-audio posts over label music videos), and if three songs in a row still fail, she stops, says why once, and moves on with the service instead of silently skipping through the whole list.",
+      "whats_new": "Two fixes from the field: (1) Sermon generation no longer dies when one Google model has a network hiccup — she walks to the next model — and if a fresh sermon still can't be generated, the fallback now speaks Google's actual reason out loud instead of just naming a code. (2) Worship: songs are now picked preferring the uploads YouTube actually allows embedded players to play (Topic-channel and official-audio posts over label music videos), and if three songs in a row still fail, she stops, says why once, and moves on with the service instead of silently skipping through the whole list.",
       "category": "Faith",
       "required": false
     },
@@ -130,7 +130,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1QG6deENuoIbgfLKoldwxm_h_I7w6II0u&export=download&confirm=t",
       "size_bytes": 33195,
       "sha256": "fc41b607c97a18f8b39b02e0efb0721d825e077d5202e2afc1b7874874ee0f6d",
-      "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song \u2014 type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
+      "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song — type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
       "category": "Creator",
       "required": false
     },
@@ -142,7 +142,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1sfzLadbkYb02Npl4AuCWtXSsu8wOmTWG&export=download&confirm=t",
       "size_bytes": 29167,
       "sha256": "8c0bd5ad90d0feddef38f2685d331e97f717ce04776c7fbf020535e46c683e17",
-      "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT \u2014 it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
+      "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT — it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
       "category": "Faith",
       "required": false
     },
@@ -154,7 +154,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
       "size_bytes": 65963,
       "sha256": "5dd7ca9e6d30eaf42f1240fd364971135ac9de7886a7e8dae639dfc2d92a62f4",
-      "whats_new": "New in 1.6: a fifth standing rule, this one from Amen himself \u2014 he texted it to Cody on November 22, 2026. When Cody and Janelle are reading comics and Skye is around, move to the community room and shut the door \u2014 the kitchen is the worst place to be with her in the house. If she comes into the community room, Cody can tell her to go somewhere else. It sits with Amen's other standing rules in the Authority tab, binds every Decide call and Confront cleanup the same way, and counts in the rules banner and Guard Mode priming. Nothing else changed.",
+      "whats_new": "New in 1.6: a fifth standing rule, this one from Amen himself — he texted it to Cody on November 22, 2026. When Cody and Janelle are reading comics and Skye is around, move to the community room and shut the door — the kitchen is the worst place to be with her in the house. If she comes into the community room, Cody can tell her to go somewhere else. It sits with Amen's other standing rules in the Authority tab, binds every Decide call and Confront cleanup the same way, and counts in the rules banner and Guard Mode priming. Nothing else changed.",
       "category": "Life Admin",
       "required": false
     }
