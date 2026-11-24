@@ -149,12 +149,12 @@
   {
    "package": "com.codestark.novard",
    "name": "Nova RD",
-   "version_code": 11,
-   "version_name": "1.10",
+   "version_code": 12,
+   "version_name": "1.11",
    "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
-   "size_bytes": 74155,
-   "sha256": "b3f30038234d478dd2cdaed6397ceab687f875ea63fd7300abb96385987b1da5",
-   "whats_new": "New in 1.10 \u2014 your Goldfish build (you sent it twice while learning the system; it is one feature, built once): (1) Pick who you are telling, do not type it. The Confront tab now opens with a recipient picker: \u201cEveryone \u2014 general post\u201d is the default, and the old silent default that aimed an empty target at Skye is gone. A general post goes out plain, with no tag. Pick one house member instead \u2014 the list comes from the GroupMe group itself \u2014 and the post tags them, the way you would tag someone for a package note. If the member list cannot load, a type-a-name box is still there so nothing dead-ends. (2) The cleanup now escalates. RD checks its own log for how many times this person has already been told: first time, it stays gentle; second time, firmer; third time on, the most serious register \u2014 in RD mode a formal notice tone, in Resident mode plainly serious. You hear the level out loud after the cleanup (\u201cI kept it gentle \u2014 first time raising it\u201d), and the count is the real logged count, never a guess. Escalation changes tone only: the no-sarcasm, no-name-calling, no-threats rules bind at every level, and no consequence is ever mentioned that is not already in Amen\u2019s rules. The cool-down gate, the cleanup truth check, Guard Mode and the House Log handoff are unchanged.",
+   "size_bytes": 78251,
+   "sha256": "59e83829222c8078f129612087da6037c875bcefe6ab54114845b93112e1572a",
+   "whats_new": "New in 1.11 \u2014 a TalkBack fix for the Confront tab; nothing else changes. In 1.10 the Confront tab quietly rebuilt its whole screen every time something landed: the member list finishing loading a few seconds after you opened the tab, picking who to tell, the cleanup finishing, even the cool-down timer ending. Every rebuild threw TalkBack back to the top and lost your place \u2014 that is what broke. Now the tab updates in place: the member list fills in without moving you, picking a person just moves the checkmark, the cleaned message lands in its box while your place stays put, and the cool-down gate panel refreshes by itself. If a piece of the screen does have to swap, your place is restored to the same control by name. Selected things now say so out loud \u2014 the picker rows, the house-group rows and your mood check-in buttons announce selected or not selected, because a checkmark and a highlight are not things TalkBack can see. Cleanup results and status changes announce politely without pulling your focus away. Everything else is exactly 1.10: Everyone is still the default, tagging works the same, and the firmness ladder, the cleanup truth check, the cool-down gate, Guard Mode and the House Log handoff are untouched.",
    "category": "Life Admin",
    "required": false
   }
