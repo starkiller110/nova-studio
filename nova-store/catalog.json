@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T01:49:36+00:00",
+ "generated": "2026-11-24T02:05:08+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -89,12 +89,12 @@
   {
    "package": "com.codestark.novahouselog",
    "name": "Nova House Log",
-   "version_code": 9,
-   "version_name": "1.8",
+   "version_code": 10,
+   "version_name": "1.9",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-   "size_bytes": 57771,
-   "sha256": "4327c2b9cc4974f0bb3dd483a7947fede1e5689c6a7834eab53ae74cfa2435a7",
-   "whats_new": "House Sync is here — the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle — via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' — stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable — tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
+   "size_bytes": 65963,
+   "sha256": "897a6a1f5c85733647c19feca59c994cdd843fe75a98514aef9e9df0408f99a4",
+   "whats_new": "Your first Goldfish build is here. (1) Daily check-in: House Log now asks you once a day — 9:00 PM by default, changeable on the Reminders tab, with a pick-any-time option — whether anything happened at the house that's worth noting. Tap the notification and it opens Add Entry so you can log it while it's fresh. If you had already set the old reminder up your way, your settings were kept exactly as they were. (2) Guard Mode drafts: when Nova RD's Guard Mode hears something loud, it can hand House Log a draft incident built from the sound alone — when, how long, how loud; it never records words. Drafts wait on the new Drafts tab, clearly marked NOT COUNTED, and never appear in a report. Confirm one and it opens in Add Entry with the facts filled in — the usual rule still applies in full: it only saves, and only counts, once she has been told. Edit the note or discard drafts you don't need; a discarded draft is gone and was never logged.",
    "category": "Life Admin",
    "required": false
   },
