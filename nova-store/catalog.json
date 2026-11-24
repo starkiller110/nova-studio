@@ -1,16 +1,16 @@
 {
   "store_version": 1,
-  "generated": "2026-11-24T17:50:18+00:00",
+  "generated": "2026-11-24T21:40:39+00:00",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
       "name": "Nova Launcher",
-      "version_code": 51,
-      "version_name": "3.48",
+      "version_code": 52,
+      "version_name": "3.49",
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-      "size_bytes": 35706598,
-      "sha256": "c3d3182edcb98813ffbe82b660d4580f8be3a8ae1a51c7751698f1d62c094949",
-      "whats_new": "New in 3.48 — the fix for the failure message you caught: Nova was blaming slammed Gemini models when the real problem was your network. What was happening: her error sorting lumped Google's server errors (the 500s and 503s) in with the genuine “models are slammed” answer, and one server error anywhere in an ask outranked everything else — so when your connection was the thing failing, she still read you the slammed-models line. Now her failure lines name the real cause. If the connection itself fails — no internet, a timed-out connection, the server unreachable — she says it's a network problem, plainly, and says it's not your key. She only says the models are slammed when Google actually sends the high-demand answer (a 429), and then she includes Google's own words. A Google server error is called a server error, not slammed models. And if this phone has no network connection at all, she tells you that up front instead of trying models that were never going to answer. A network failure never marks a model as broken or slammed, so the next ask starts clean. Same Talk, same Ask, same voice — just honest failure lines.",
+      "size_bytes": 35710694,
+      "sha256": "1ea2a349761c4ab0f6e07ed888b235536a3100f9ea8043d1d247966ec6f58c34",
+      "whats_new": "New in 3.49 \u2014 the fix for the connection timeout you reported. What was happening: when a connection to Google hung, Nova sat on it for up to ten seconds, then moved to the next model and sat again \u2014 two hung connections could eat her whole time budget before she ever got to a model that would answer, and she never retried on a fresh connection. Now: a connection that can't start within about two and a half seconds is treated as dead, a hung answer is cut at eight seconds, and every attempt's limit shrinks to fit the time she actually has left, so one bad connection can't eat the whole ask. When a connection times out she retries that same model once on a completely fresh connection \u2014 a stale connection left over from a network switch is the classic cause, and the fresh one often just works. If three connections in a row time out, she stops feeding models into a dead network. And if the streaming answer path is what hung, she falls back to the plain answer path before giving up \u2014 they don't hang the same way. If everything truly fails, she still tells you honestly that the connection timed out \u2014 but now that line only comes after the faster retries have actually run. Same Talk, same Ask, same voice.",
       "category": "Foundation",
       "required": true
     },
@@ -22,7 +22,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
       "size_bytes": 16970785,
       "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
-      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do — through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
       "category": "Foundation",
       "required": false
     },
@@ -34,7 +34,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=13LtIG54Akf5Ql7uexam_sX94FjBkYJ4T&export=download&confirm=t",
       "size_bytes": 57771,
       "sha256": "f6d0334fc0f4239991cb42f6b2070f2363382845126744d9235575a891322cad",
-      "whats_new": "AGENT MODE. Nova now fronts your calls both ways. Incoming: she answers on speaker, says she is CodeStark's assistant, and handles the call by lane — friends and family get a casual hello and message-taking, businesses and unknown numbers get a professional intake (who, company, what about, is it urgent, best callback), and a caller you mark as heated gets listened to without an argument. Outgoing: give her a one-sentence errand and she makes the call herself — she never commits you to money, dates, or deals; anything bigger comes back to you as a question. After every agent call you get ONE summary: everything that matters, with the heat taken out. Lanes are set per person from Contacts or Recents; numbers you set to always ring through still ring to you; and you can grab any call back mid-sentence with the Take this call button. Honest limit, in plain words: Android gives regular apps no direct line into call audio, so Nova works through the speaker and the microphone, like someone sitting next to the phone — quiet rooms work best. Save your Gemini key in the Nova tab and she converses freely; without it she runs her scripted intake and the summary still lands. Agent Mode OFF means the phone works exactly like 1.6.",
+      "whats_new": "AGENT MODE. Nova now fronts your calls both ways. Incoming: she answers on speaker, says she is CodeStark's assistant, and handles the call by lane \u2014 friends and family get a casual hello and message-taking, businesses and unknown numbers get a professional intake (who, company, what about, is it urgent, best callback), and a caller you mark as heated gets listened to without an argument. Outgoing: give her a one-sentence errand and she makes the call herself \u2014 she never commits you to money, dates, or deals; anything bigger comes back to you as a question. After every agent call you get ONE summary: everything that matters, with the heat taken out. Lanes are set per person from Contacts or Recents; numbers you set to always ring through still ring to you; and you can grab any call back mid-sentence with the Take this call button. Honest limit, in plain words: Android gives regular apps no direct line into call audio, so Nova works through the speaker and the microphone, like someone sitting next to the phone \u2014 quiet rooms work best. Save your Gemini key in the Nova tab and she converses freely; without it she runs her scripted intake and the summary still lands. Agent Mode OFF means the phone works exactly like 1.6.",
       "category": "Foundation",
       "required": false
     },
@@ -46,7 +46,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
-      "whats_new": "Fixes the blank screen — the app now actually shows the Watch List and Chat Reader.",
+      "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
       "category": "Creator",
       "required": false
     },
@@ -58,7 +58,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
       "size_bytes": 815531,
       "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
-      "whats_new": "Stream from the phone with RTMP — Twitch and YouTube starter buttons.",
+      "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
       "category": "Creator",
       "required": false
     },
@@ -70,7 +70,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
       "size_bytes": 75806,
       "sha256": "f840aa6dcfd2947f7298cf01179faab0e181727da5e095df021c9d0e71e884b2",
-      "whats_new": "Signature guaranteed: the form always prints your name as the signature with today's date beside it, the package-ready message reads the signature and date back to you before you send, and if your name is ever blank the package refuses to build instead of producing an unsigned form. New: a Send a test email button on the Build a Claim tab — it sends one clearly marked test email to UHC through your saved Gmail sign-in (no claim attached, no member ID) and, if it fails, shows the mail server's actual words so the problem names itself.",
+      "whats_new": "Signature guaranteed: the form always prints your name as the signature with today's date beside it, the package-ready message reads the signature and date back to you before you send, and if your name is ever blank the package refuses to build instead of producing an unsigned form. New: a Send a test email button on the Build a Claim tab \u2014 it sends one clearly marked test email to UHC through your saved Gmail sign-in (no claim attached, no member ID) and, if it fails, shows the mail server's actual words so the problem names itself.",
       "category": "Life Admin",
       "required": false
     },
@@ -82,7 +82,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1jlGemrJ03gEi3tSQLMEUWCJd1H4ceZay&export=download&confirm=t",
       "size_bytes": 25003,
       "sha256": "d03a8d0a97f1ac145543a59dbfe3121c7d257d99ed568984259e1f86ece09dc9",
-      "whats_new": "Fixed the 404 errors and long waits — she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
+      "whats_new": "Fixed the 404 errors and long waits \u2014 she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
       "category": "Life Admin",
       "required": false
     },
@@ -94,7 +94,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
       "size_bytes": 111019,
       "sha256": "e39498fed980a9c434fad04644fb46a84606ba87668967996b1ea88f915425ff",
-      "whats_new": "New in 1.14 — text ONE entry to Janelle. Every entry card on the Log tab now has a \"Text this entry to Janelle\" button: tap it and Nova reads back that entry's date and the start of its note, and says plainly it will go as a text message to Janelle — not GroupMe, not the sync lane. Tap again and just that one entry is texted to her, headed \"House Log entry — for your records.\", with everyone tagged on it named, the confrontation facts, and — if the entry has a photo — the \"(photo attached, on this phone)\" line with the photo's description (the photo itself is not sent). Counted entries only, same rule as always: an entry that isn't counted yet refuses in plain words and sends nothing, and drafts can't be sent from their cards at all. The card itself tells you the result — sent, did NOT go out, or handed to the radio but unconfirmed — and she only calls it sent when the phone confirms it. The whole-log copy button and the automatic forwarding of new entries on the Share tab work exactly as before.",
+      "whats_new": "New in 1.14 \u2014 text ONE entry to Janelle. Every entry card on the Log tab now has a \"Text this entry to Janelle\" button: tap it and Nova reads back that entry's date and the start of its note, and says plainly it will go as a text message to Janelle \u2014 not GroupMe, not the sync lane. Tap again and just that one entry is texted to her, headed \"House Log entry \u2014 for your records.\", with everyone tagged on it named, the confrontation facts, and \u2014 if the entry has a photo \u2014 the \"(photo attached, on this phone)\" line with the photo's description (the photo itself is not sent). Counted entries only, same rule as always: an entry that isn't counted yet refuses in plain words and sends nothing, and drafts can't be sent from their cards at all. The card itself tells you the result \u2014 sent, did NOT go out, or handed to the radio but unconfirmed \u2014 and she only calls it sent when the phone confirms it. The whole-log copy button and the automatic forwarding of new entries on the Share tab work exactly as before.",
       "category": "Life Admin",
       "required": false
     },
@@ -106,7 +106,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
       "size_bytes": 20907,
       "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
-      "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+      "whats_new": "First release: a daily devotion on your phone \u2014 today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
       "category": "Faith",
       "required": false
     },
@@ -118,7 +118,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
       "size_bytes": 111019,
       "sha256": "9692f9a84f8eb2e251f8109df664b2a93b256a8ab10e6556118319296bc24ff8",
-      "whats_new": "Two fixes from the field: (1) Sermon generation no longer dies when one Google model has a network hiccup — she walks to the next model — and if a fresh sermon still can't be generated, the fallback now speaks Google's actual reason out loud instead of just naming a code. (2) Worship: songs are now picked preferring the uploads YouTube actually allows embedded players to play (Topic-channel and official-audio posts over label music videos), and if three songs in a row still fail, she stops, says why once, and moves on with the service instead of silently skipping through the whole list.",
+      "whats_new": "Two fixes from the field: (1) Sermon generation no longer dies when one Google model has a network hiccup \u2014 she walks to the next model \u2014 and if a fresh sermon still can't be generated, the fallback now speaks Google's actual reason out loud instead of just naming a code. (2) Worship: songs are now picked preferring the uploads YouTube actually allows embedded players to play (Topic-channel and official-audio posts over label music videos), and if three songs in a row still fail, she stops, says why once, and moves on with the service instead of silently skipping through the whole list.",
       "category": "Faith",
       "required": false
     },
@@ -130,7 +130,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1QG6deENuoIbgfLKoldwxm_h_I7w6II0u&export=download&confirm=t",
       "size_bytes": 33195,
       "sha256": "fc41b607c97a18f8b39b02e0efb0721d825e077d5202e2afc1b7874874ee0f6d",
-      "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song — type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
+      "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song \u2014 type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
       "category": "Creator",
       "required": false
     },
@@ -142,7 +142,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1sfzLadbkYb02Npl4AuCWtXSsu8wOmTWG&export=download&confirm=t",
       "size_bytes": 29167,
       "sha256": "8c0bd5ad90d0feddef38f2685d331e97f717ce04776c7fbf020535e46c683e17",
-      "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT — it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
+      "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT \u2014 it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
       "category": "Faith",
       "required": false
     },
@@ -154,7 +154,7 @@
       "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
       "size_bytes": 82347,
       "sha256": "e4161c9c4d974d4d5d26f7dea5ca11239b889be82d829ffe4bc1eae03c09cdb5",
-      "whats_new": "New in 1.12 — repeat offenses now go straight to Amen by text instead of another group post. If you pick a person you've already raised something with before, Send changes its tune: it tells you plainly this one will NOT post to the group chat, reads back a short factual flag — who it's about, what the behavior is, how many times it's been raised before and when, that it happened again today, and your cleaned message as your note — and a second tap texts that flag to Amen through your messages app, privately. It finds Amen in your contacts (no number is stored in the app) and only counts the send when the phone confirms it went out; if it doesn't go out, or Amen can't be found, it says so, sends nothing, posts nothing, and your draft stays put. Only a confirmed text is recorded in your log, marked as flagged to Amen by text, so the pattern trail and the firmness ladder keep counting. First-time messages and Everyone posts still go to the group chat exactly as before, and the cool-down lock covers the text lane too. First use asks for contacts and SMS permission — Allow both, then tap Send again.",
+      "whats_new": "New in 1.12 \u2014 repeat offenses now go straight to Amen by text instead of another group post. If you pick a person you've already raised something with before, Send changes its tune: it tells you plainly this one will NOT post to the group chat, reads back a short factual flag \u2014 who it's about, what the behavior is, how many times it's been raised before and when, that it happened again today, and your cleaned message as your note \u2014 and a second tap texts that flag to Amen through your messages app, privately. It finds Amen in your contacts (no number is stored in the app) and only counts the send when the phone confirms it went out; if it doesn't go out, or Amen can't be found, it says so, sends nothing, posts nothing, and your draft stays put. Only a confirmed text is recorded in your log, marked as flagged to Amen by text, so the pattern trail and the firmness ladder keep counting. First-time messages and Everyone posts still go to the group chat exactly as before, and the cool-down lock covers the text lane too. First use asks for contacts and SMS permission \u2014 Allow both, then tap Send again.",
       "category": "Life Admin",
       "required": false
     }
