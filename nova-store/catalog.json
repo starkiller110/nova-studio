@@ -1,1 +1,162 @@
-ewogICJzdG9yZV92ZXJzaW9uIjogMSwKICAiZ2VuZXJhdGVkIjogIjIwMjYtMTEtMjNUMjM6MjI6NDkuMTIzOTIxKzAwOjAwIiwKICAiYXBwcyI6IFsKICAgIHsKICAgICAgInBhY2thZ2UiOiAiY29tLmNvZGVzdGFyay5ub3ZhbGF1bmNoZXIiLAogICAgICAibmFtZSI6ICJOb3ZhIExhdW5jaGVyIiwKICAgICAgInZlcnNpb25fY29kZSI6IDM2LAogICAgICAidmVyc2lvbl9uYW1lIjogIjMuMzMiLAogICAgICAiYXBrX3VybCI6ICJodHRwczovL2RyaXZlLnVzZXJjb250ZW50Lmdvb2dsZS5jb20vZG93bmxvYWQ/aWQ9MTI3eW45aDhGY0JlanNrNk9aTEltRkVzR3lWcE5KQ0lwJmV4cG9ydD1kb3dubG9hZCZjb25maXJtPXQiLAogICAgICAic2l6ZV9ieXRlcyI6IDM1NjMyODcwLAogICAgICAic2hhMjU2IjogIjQxNjUxOTRkOTNkOTRjOWY0YzA2NGYyZjYzZGE0NzVlNTFmYzNmYTBkNTE3OGYyNjUwMDhiODNmNGI2MGZiMzMiLAogICAgICAid2hhdHNfbmV3IjogIkNPTk5FQ1QgTVkgQkFOSywgUklHSFQgV0hFUkUgWU9VIExPT0tFRCBGT1IgSVQuIE15IEJhbGFuY2Ugbm93IGhhcyBhIENvbm5lY3QgTXkgQmFuayBidXR0b246IHRhcCBpdCBhbmQgTm92YSBzYXlzIHdoYXQgaGFwcGVucyBpbiBwbGFpbiB3b3JkcyBmaXJzdCwgdGhlbiBvcGVucyBQbGFpZCBpbiB5b3VyIGJyb3dzZXIgXHUyMDE0IHlvdSBzaWduIGludG8geW91ciBiYW5rIHRoZXJlLCBQbGFpZCBjb25uZWN0cyBpdCB0byBOb3ZhLCBhbmQgTm92YSBuZXZlciBzZWVzIHlvdXIgYmFuayBwYXNzd29yZC4gT25jZSBpdCdzIGNvbm5lY3RlZCwgeW91ciBiYWxhbmNlIHN0YXlzIGN1cnJlbnQgb24gaXRzIG93biBcdTIwMTQgbm8gbW9yZSBmZWVkaW5nIGl0IG51bWJlcnMgYnkgaGFuZC4gSG9uZXN0IG5vdGU6IHRoZSBhcHAgY2FuJ3QgY2hlY2sgdGhlIGxpbmsgZnJvbSBpbnNpZGUsIHNvIHRoZSBidXR0b24gc3RheXMgcHV0IGluIGNhc2UgeW91IGV2ZXIgbmVlZCBpdCBhZ2FpbjsgaWYgeW91J3ZlIGFscmVhZHkgY29ubmVjdGVkLCB5b3UgZG9uJ3QgbmVlZCBpdCB0d2ljZS4gRXZlcnl0aGluZyBlbHNlIGlzIGV4YWN0bHkgMy4zMi4iLAogICAgICAiY2F0ZWdvcnkiOiAiRm91bmRhdGlvbiIsCiAgICAgICJyZXF1aXJlZCI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJwYWNrYWdlIjogImNvbS5jb2Rlc3Rhcmsubm92YXZvaWNlIiwKICAgICAgIm5hbWUiOiAiTm92YSBWb2ljZSIsCiAgICAgICJ2ZXJzaW9uX2NvZGUiOiAxMSwKICAgICAgInZlcnNpb25fbmFtZSI6ICIyLjAiLAogICAgICAiYXBrX3VybCI6ICJodHRwczovL2RyaXZlLnVzZXJjb250ZW50Lmdvb2dsZS5jb20vZG93bmxvYWQ/aWQ9MVYwU0FEMHhVaGZYaWhrM2F6QUxVRG4zN2NXNjE5b0hnJmV4cG9ydD1kb3dubG9hZCZjb25maXJtPXQiLAogICAgICAic2l6ZV9ieXRlcyI6IDE2OTcwNzg1LAogICAgICAic2hhMjU2IjogIjBmN2FhNGNmYmJhNmIxOGM5ZTViMjdjM2M1MTA3YTc0ZWQxYTNjMzAzZjE5ZGM2ODhhNDMyZTcxMWIwMWQwZTYiLAogICAgICAid2hhdHNfbmV3IjogIkVuZ2luZSByZWdpc3RyYXRpb24gZml4OiBOb3ZhIFZvaWNlIG5vdyBhbnN3ZXJzIEFuZHJvaWQncyBlbmdpbmUtZGF0YSBjaGVja3MgKHZvaWNlIGRhdGEgY2hlY2ssIHNhbXBsZSB0ZXh0LCBpbnN0YWxsIGRhdGEpIHRoZSB3YXkgR29vZ2xlIGFuZCBTYW1zdW5nJ3MgZW5naW5lcyBkbyBcdTIwMTQgdGhyb3VnaCAxLjkgbm90aGluZyBhbnN3ZXJlZCB0aG9zZSBwcm9iZXMsIGFuZCBOb3ZhIG5ldmVyIGFwcGVhcmVkIGluIHRoZSBQcmVmZXJyZWQgZW5naW5lIGxpc3RzLiBUaGUgYXBwJ3MgdG9wIGxpbmUgbm93IHNob3dzIHZlcnNpb24gMi4wIHNvIHlvdSBjYW4gY29uZmlybSB0aGUgdXBkYXRlIGxhbmRlZC4iLAogICAgICAiY2F0ZWdvcnkiOiAiRm91bmRhdGlvbiIsCiAgICAgICJyZXF1aXJlZCI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAicGFja2FnZSI6ICJjb20uY29kZXN0YXJrLm5vdmFwaG9uZSIsCiAgICAgICJuYW1lIjogIk5vdmEgUGhvbmUiLAogICAgICAidmVyc2lvbl9jb2RlIjogOCwKICAgICAgInZlcnNpb25fbmFtZSI6ICIxLjciLAogICAgICAiYXBrX3VybCI6ICJodHRwczovL2RyaXZlLnVzZXJjb250ZW50Lmdvb2dsZS5jb20vZG93bmxvYWQ/aWQ9MTNMdElHNTRBa2Y1UWw3dWV4YW1fc1g5NEZqQmtZSjRUJmV4cG9ydD1kb3dubG9hZCZjb25maXJtPXQiLAogICAgICAic2l6ZV9ieXRlcyI6IDU3NzcxLAogICAgICAic2hhMjU2IjogImY2ZDAzMzRmYzBmNDIzOTk5MWNiNDJmNmIyMDcwZjIzNjMzODI4NDUxMjY3NDRkOTIzNTU3NWE4OTEzMjJjYWQiLAogICAgICAid2hhdHNfbmV3IjogIkFHRU5UIE1PREUuIE5vdmEgbm93IGZyb250cyB5b3VyIGNhbGxzIGJvdGggd2F5cy4gSW5jb21pbmc6IHNoZSBhbnN3ZXJzIG9uIHNwZWFrZXIsIHNheXMgc2hlIGlzIENvZGVTdGFyaydzIGFzc2lzdGFudCwgYW5kIGhhbmRsZXMgdGhlIGNhbGwgYnkgbGFuZSBcdTIwMTQgZnJpZW5kcyBhbmQgZmFtaWx5IGdldCBhIGNhc3VhbCBoZWxsbyBhbmQgbWVzc2FnZS10YWtpbmcsIGJ1c2luZXNzZXMgYW5kIHVua25vd24gbnVtYmVycyBnZXQgYSBwcm9mZXNzaW9uYWwgaW50YWtlICh3aG8sIGNvbXBhbnksIHdoYXQgYWJvdXQsIGlzIGl0IHVyZ2VudCwgYmVzdCBjYWxsYmFjayksIGFuZCBhIGNhbGxlciB5b3UgbWFyayBhcyBoZWF0ZWQgZ2V0cyBsaXN0ZW5lZCB0byB3aXRob3V0IGFuIGFyZ3VtZW50LiBPdXRnb2luZzogZ2l2ZSBoZXIgYSBvbmUtc2VudGVuY2UgZXJyYW5kIGFuZCBzaGUgbWFrZXMgdGhlIGNhbGwgaGVyc2VsZiBcdTIwMTQgc2hlIG5ldmVyIGNvbW1pdHMgeW91IHRvIG1vbmV5LCBkYXRlcywgb3IgZGVhbHM7IGFueXRoaW5nIGJpZ2dlciBjb21lcyBiYWNrIHRvIHlvdSBhcyBhIHF1ZXN0aW9uLiBBZnRlciBldmVyeSBhZ2VudCBjYWxsIHlvdSBnZXQgT05FIHN1bW1hcnk6IGV2ZXJ5dGhpbmcgdGhhdCBtYXR0ZXJzLCB3aXRoIHRoZSBoZWF0IHRha2VuIG91dC4gTGFuZXMgYXJlIHNldCBwZXIgcGVyc29uIGZyb20gQ29udGFjdHMgb3IgUmVjZW50czsgbnVtYmVycyB5b3Ugc2V0IHRvIGFsd2F5cyByaW5nIHRocm91Z2ggc3RpbGwgcmluZyB0byB5b3U7IGFuZCB5b3UgY2FuIGdyYWIgYW55IGNhbGwgYmFjayBtaWQtc2VudGVuY2Ugd2l0aCB0aGUgVGFrZSB0aGlzIGNhbGwgYnV0dG9uLiBIb25lc3QgbGltaXQsIGluIHBsYWluIHdvcmRzOiBBbmRyb2lkIGdpdmVzIHJlZ3VsYXIgYXBwcyBubyBkaXJlY3QgbGluZSBpbnRvIGNhbGwgYXVkaW8sIHNvIE5vdmEgd29ya3MgdGhyb3VnaCB0aGUgc3BlYWtlciBhbmQgdGhlIG1pY3JvcGhvbmUsIGxpa2Ugc29tZW9uZSBzaXR0aW5nIG5leHQgdG8gdGhlIHBob25lIFx1MjAxNCBxdWlldCByb29tcyB3b3JrIGJlc3QuIFNhdmUgeW91ciBHZW1pbmkga2V5IGluIHRoZSBOb3ZhIHRhYiBhbmQgc2hlIGNvbnZlcnNlcyBmcmVlbHk7IHdpdGhvdXQgaXQgc2hlIHJ1bnMgaGVyIHNjcmlwdGVkIGludGFrZSBhbmQgdGhlIHN1bW1hcnkgc3RpbGwgbGFuZHMuIEFnZW50IE1vZGUgT0ZGIG1lYW5zIHRoZSBwaG9uZSB3b3JrcyBleGFjdGx5IGxpa2UgMS42LiIsCiAgICAgICJjYXRlZ29yeSI6ICJGb3VuZGF0aW9uIiwKICAgICAgInJlcXVpcmVkIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJwYWNrYWdlIjogImNvbS5jb2Rlc3Rhcmsubm92YWNoYXQiLAogICAgICAibmFtZSI6ICJOb3ZhIENoYXQiLAogICAgICAidmVyc2lvbl9jb2RlIjogMiwKICAgICAgInZlcnNpb25fbmFtZSI6ICIxLjEiLAogICAgICAiYXBrX3VybCI6ICJodHRwczovL2RyaXZlLnVzZXJjb250ZW50Lmdvb2dsZS5jb20vZG93bmxvYWQ/aWQ9MTk0SzktR3p2ZFBuNDRIZlFoRWFSWlNNRlNsd0x5S0VTJmV4cG9ydD1kb3dubG9hZCZjb25maXJtPXQiLAogICAgICAic2l6ZV9ieXRlcyI6IDI1MDAzLAogICAgICAic2hhMjU2IjogIjJjMzAzMTNhM2YyMTZjZWJiYjFjNzcwNmY1MzBkMzI4ZjllMDk0YjcyNGRjZmYwMTE4NTRkMjNmNzY2MjkyMWUiLAogICAgICAid2hhdHNfbmV3IjogIkZpeGVzIHRoZSBibGFuayBzY3JlZW4gXHUyMDE0IHRoZSBhcHAgbm93IGFjdHVhbGx5IHNob3dzIHRoZSBXYXRjaCBMaXN0IGFuZCBDaGF0IFJlYWRlci4iLAogICAgICAiY2F0ZWdvcnkiOiAiQ3JlYXRvciIsCiAgICAgICJyZXF1aXJlZCI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAicGFja2FnZSI6ICJjb20uY29kZXN0YXJrLm5vdmFzdHJlYW0iLAogICAgICAibmFtZSI6ICJOb3ZhIFN0cmVhbSIsCiAgICAgICJ2ZXJzaW9uX2NvZGUiOiAxLAogICAgICAidmVyc2lvbl9uYW1lIjogIjEuMCIsCiAgICAgICJhcGtfdXJsIjogImh0dHBzOi8vZHJpdmUudXNlcmNvbnRlbnQuZ29vZ2xlLmNvbS9kb3dubG9hZD9pZD0xaEVKdGtXMTRoejVIV0pBWmZnZ2RjYU53emZUVEhPZlAmZXhwb3J0PWRvd25sb2FkJmNvbmZpcm09dCIsCiAgICAgICJzaXplX2J5dGVzIjogODE1NTMxLAogICAgICAic2hhMjU2IjogIjljNTEyNDI2ZTkxNmM3MTY4NmRjMjVkY2EwNmZjZDZhMmRkOTAxMmMyNGZiMWRjNjhiN2ZjZmMwZjg2MDAwNGUiLAogICAgICAid2hhdHNfbmV3IjogIlN0cmVhbSBmcm9tIHRoZSBwaG9uZSB3aXRoIFJUTVAgXHUyMDE0IFR3aXRjaCBhbmQgWW91VHViZSBzdGFydGVyIGJ1dHRvbnMuIiwKICAgICAgImNhdGVnb3J5IjogIkNyZWF0b3IiLAogICAgICAicmVxdWlyZWQiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgInBhY2thZ2UiOiAiY29tLmNvZGVzdGFyay51aGNjbGFpbSIsCiAgICAgICJuYW1lIjogIlVIQyBDbGFpbSBCdWlsZGVyIiwKICAgICAgInZlcnNpb25fY29kZSI6IDEwLAogICAgICAidmVyc2lvbl9uYW1lIjogIjMuNCIsCiAgICAgICJhcGtfdXJsIjogImh0dHBzOi8vZHJpdmUudXNlcmNvbnRlbnQuZ29vZ2xlLmNvbS9kb3dubG9hZD9pZD0xSFp5elIySTQ2TGM4cTIxSUJ2OW03b3ljNjBiVHMyVTcmZXhwb3J0PWRvd25sb2FkJmNvbmZpcm09dCIsCiAgICAgICJzaXplX2J5dGVzIjogNzU4MDYsCiAgICAgICJzaGEyNTYiOiAiZjg0MGFhNmRjZmQyOTQ3ZjcyOThjZjAxMTc5ZmFhYjBlMTgxNzI3ZGE1ZTA5NWRmMDIxYzlkMGU3MWU4ODRiMiIsCiAgICAgICJ3aGF0c19uZXciOiAiU2lnbmF0dXJlIGd1YXJhbnRlZWQ6IHRoZSBmb3JtIGFsd2F5cyBwcmludHMgeW91ciBuYW1lIGFzIHRoZSBzaWduYXR1cmUgd2l0aCB0b2RheSdzIGRhdGUgYmVzaWRlIGl0LCB0aGUgcGFja2FnZS1yZWFkeSBtZXNzYWdlIHJlYWRzIHRoZSBzaWduYXR1cmUgYW5kIGRhdGUgYmFjayB0byB5b3UgYmVmb3JlIHlvdSBzZW5kLCBhbmQgaWYgeW91ciBuYW1lIGlzIGV2ZXIgYmxhbmsgdGhlIHBhY2thZ2UgcmVmdXNlcyB0byBidWlsZCBpbnN0ZWFkIG9mIHByb2R1Y2luZyBhbiB1bnNpZ25lZCBmb3JtLiBOZXc6IGEgU2VuZCBhIHRlc3QgZW1haWwgYnV0dG9uIG9uIHRoZSBCdWlsZCBhIENsYWltIHRhYiBcdTIwMTQgaXQgc2VuZHMgb25lIGNsZWFybHkgbWFya2VkIHRlc3QgZW1haWwgdG8gVUhDIHRocm91Z2ggeW91ciBzYXZlZCBHbWFpbCBzaWduLWluIChubyBjbGFpbSBhdHRhY2hlZCwgbm8gbWVtYmVyIElEKSBhbmQsIGlmIGl0IGZhaWxzLCBzaG93cyB0aGUgbWFpbCBzZXJ2ZXIncyBhY3R1YWwgd29yZHMgc28gdGhlIHByb2JsZW0gbmFtZXMgaXRzZWxmLiIsCiAgICAgICJjYXRlZ29yeSI6ICJMaWZlIEFkbWluIiwKICAgICAgInJlcXVpcmVkIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJwYWNrYWdlIjogImNvbS5jb2Rlc3RhcmsuZmFuY2lmdWxjb21wYW5pb24iLAogICAgICAibmFtZSI6ICJGYW5jaWZ1bCBDb21wYW5pb24iLAogICAgICAidmVyc2lvbl9jb2RlIjogNSwKICAgICAgInZlcnNpb25fbmFtZSI6ICIxLjQiLAogICAgICAiYXBrX3VybCI6ICJodHRwczovL2RyaXZlLnVzZXJjb250ZW50Lmdvb2dsZS5jb20vZG93bmxvYWQ/aWQ9MWpsR2VtckowM2dFaTN0U1FMTUVVV0NKZDFINGNlWmF5JmV4cG9ydD1kb3dubG9hZCZjb25maXJtPXQiLAogICAgICAic2l6ZV9ieXRlcyI6IDI1MDAzLAogICAgICAic2hhMjU2IjogImQwM2E4ZDBhOTdmMWFjMTQ1NTQzYTU5ZGJmZTMxMjFjN2QyNTdkOTllZDU2ODk4NDI1OWUxZjg2ZWNlMDlkYzkiLAogICAgICAid2hhdHNfbmV3IjogIkZpeGVkIHRoZSA0MDQgZXJyb3JzIGFuZCBsb25nIHdhaXRzIFx1MjAxNCBzaGUgbm93IGZpbmRzIHRoZSBtb2RlbHMgeW91ciBrZXkgY2FuIGFjdHVhbGx5IHVzZSBhbmQgcmVtZW1iZXJzIHRoZSBvbmUgdGhhdCB3b3Jrcywgc28gYW5zd2VycyBjb21lIGJhY2sgZmFzdC4iLAogICAgICAiY2F0ZWdvcnkiOiAiTGlmZSBBZG1pbiIsCiAgICAgICJyZXF1aXJlZCI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAicGFja2FnZSI6ICJjb20uY29kZXN0YXJrLm5vdmFob3VzZWxvZyIsCiAgICAgICJuYW1lIjogIk5vdmEgSG91c2UgTG9nIiwKICAgICAgInZlcnNpb25fY29kZSI6IDksCiAgICAgICJ2ZXJzaW9uX25hbWUiOiAiMS44IiwKICAgICAgImFwa191cmwiOiAiaHR0cHM6Ly9kcml2ZS51c2VyY29udGVudC5nb29nbGUuY29tL2Rvd25sb2FkP2lkPTFYVjFtT1JyV1lCVkxvdFNFMXdiam84aVkxSzAyODdoZSZleHBvcnQ9ZG93bmxvYWQmY29uZmlybT10IiwKICAgICAgInNpemVfYnl0ZXMiOiA1Nzc3MSwKICAgICAgInNoYTI1NiI6ICI0MzI3YzJiOWNjNDk3NGYwYmIzZGQ0ODNhNzk0N2ZlZGUxZTU2ODljNmE3ODM0ZWFiNTNhZTc0Y2ZhMjQzNWE3IiwKICAgICAgIndoYXRzX25ldyI6ICJIb3VzZSBTeW5jIGlzIGhlcmUgXHUyMDE0IHRoZSBvbGQgTm92YSB0cmljayBhdCBzbWFsbCBzY2FsZS4gQSB0aW55IGJhY2tlbmQgb24gTm92YSdzIHNpZGUsIHJlYWNoZWQgdGhyb3VnaCBhIHR1bm5lbCwgbm93IHNlcnZlcyBKYW5lbGxlJ3MgaVBob25lIHdlYiBhcHAgYW5kIHN5bmNzIGJvdGggd2F5cyB3aXRoIHRoaXMgYXBwOiBoZXIgd2ViIGVudHJpZXMgZmFsbCBpbnRvIHlvdXIgTG9nIHRhYiBhdXRvbWF0aWNhbGx5LCBsYWJlbGVkICdKYW5lbGxlIFx1MjAxNCB2aWEgd2ViIGFwcCc7IHlvdXIgZW50cmllcyBhbmQgY29uZmlybWF0aW9uIHF1ZXN0aW9ucyByZWFjaCBoZXIgc2lkZTsgYW5kIGEgcXVlc3Rpb24gc2hlIGFuc3dlcnMgd2l0aCBoZXIgT1dOIHRhcCBpbiB0aGUgd2ViIGFwcCBpcyBzdGFtcGVkICdoZXIgb3duIHRhcCAod2ViKScgXHUyMDE0IHN0cm9uZ2VyIHRoYW4gYSB2ZXJiYWwgYW5zd2VyIHJlY29yZGVkIGJ5IHlvdS4gTmV3IFN5bmMgdGFiOiBzZXJ2ZXIgYWRkcmVzcyBpcyBwcmUtZmlsbGVkIChlZGl0YWJsZSBcdTIwMTQgdHVubmVsIGFkZHJlc3NlcyBjaGFuZ2U7IE5vdmEgY2FuIHJlYWQgeW91IHRoZSBjdXJyZW50IG9uZSkgYW5kIHlvdSBwYXN0ZSB0aGUgYXBwIGtleSBOb3ZhIGdpdmVzIHlvdSBvbmNlLiBTeW5jIHJ1bnMgd2hlbiB0aGUgYXBwIG9wZW5zIGFuZCBvbiBTeW5jIE5vdywgYW5kIHNwZWFrcyB3aGF0IGFycml2ZWQgKCdTeW5jZWQ6IDIgbmV3IGVudHJpZXMgZnJvbSBKYW5lbGxlJykuIEZhaWx1cmVzIHNwZWFrIGhvbmVzdGx5IGFuZCBuZXZlciB0b3VjaCB5b3VyIGxvY2FsIGxvZy4iLAogICAgICAiY2F0ZWdvcnkiOiAiTGlmZSBBZG1pbiIsCiAgICAgICJyZXF1aXJlZCI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAicGFja2FnZSI6ICJjb20uY29kZXN0YXJrLm5vdmFkZXZvdGlvbiIsCiAgICAgICJuYW1lIjogIk5vdmEgRGV2b3Rpb24iLAogICAgICAidmVyc2lvbl9jb2RlIjogMSwKICAgICAgInZlcnNpb25fbmFtZSI6ICIxLjAiLAogICAgICAiYXBrX3VybCI6ICJodHRwczovL2RyaXZlLnVzZXJjb250ZW50Lmdvb2dsZS5jb20vZG93bmxvYWQ/aWQ9MWlkWVR2ZXpWWmZ6a3RwLW1wQkYtc0RLVklKUzV4WmtLJmV4cG9ydD1kb3dubG9hZCZjb25maXJtPXQiLAogICAgICAic2l6ZV9ieXRlcyI6IDIwOTA3LAogICAgICAic2hhMjU2IjogIjQ4ZGI3NGZlOGY2NTMyODQ0NmM3MTFmOGE3YjIxNGZhODdkOTE2NTZjZDM5NWM1MWU2NDQ3NjBiOWUxZTkxOWEiLAogICAgICAid2hhdHNfbmV3IjogIkZpcnN0IHJlbGVhc2U6IGEgZGFpbHkgZGV2b3Rpb24gb24geW91ciBwaG9uZSBcdTIwMTQgdG9kYXkncyB2ZXJzZSBhbmQgcmVmbGVjdGlvbiBzcG9rZW4gaW4gTm92YSdzIHZvaWNlLCBhbGwgMTQgYmFua2VkIGRldm90aW9ucyBieSBlYXIsIGFuZCBhIG1vcm5pbmcgcmVtaW5kZXIgaWYgeW91IHdhbnQgb25lLiIsCiAgICAgICJjYXRlZ29yeSI6ICJGYWl0aCIsCiAgICAgICJyZXF1aXJlZCI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAicGFja2FnZSI6ICJjb20uY29kZXN0YXJrLnBhc3Rvcm5vdmEiLAogICAgICAibmFtZSI6ICJQYXN0b3IgTm92YSIsCiAgICAgICJ2ZXJzaW9uX2NvZGUiOiAxNywKICAgICAgInZlcnNpb25fbmFtZSI6ICIxLjE2IiwKICAgICAgImFwa191cmwiOiAiaHR0cHM6Ly9kcml2ZS51c2VyY29udGVudC5nb29nbGUuY29tL2Rvd25sb2FkP2lkPTFnaWhiTkhtekg5TG1mNEFUbm9QU1ZiM3Z0R0w4cHZBaSZleHBvcnQ9ZG93bmxvYWQmY29uZmlybT10IiwKICAgICAgInNpemVfYnl0ZXMiOiAxMTEwMTksCiAgICAgICJzaGEyNTYiOiAiOTY5MmY5YTg0ZjhlYjJlMjUxZjgxMDlkZjY2NGIyYTkzYjI1NmE4YWIxMGU2NTU2MTE4MzE5Mjk2YmMyNGZmOCIsCiAgICAgICJ3aGF0c19uZXciOiAiVHdvIGZpeGVzIGZyb20gdGhlIGZpZWxkOiAoMSkgU2VybW9uIGdlbmVyYXRpb24gbm8gbG9uZ2VyIGRpZXMgd2hlbiBvbmUgR29vZ2xlIG1vZGVsIGhhcyBhIG5ldHdvcmsgaGljY3VwIFx1MjAxNCBzaGUgd2Fsa3MgdG8gdGhlIG5leHQgbW9kZWwgXHUyMDE0IGFuZCBpZiBhIGZyZXNoIHNlcm1vbiBzdGlsbCBjYW4ndCBiZSBnZW5lcmF0ZWQsIHRoZSBmYWxsYmFjayBub3cgc3BlYWtzIEdvb2dsZSdzIGFjdHVhbCByZWFzb24gb3V0IGxvdWQgaW5zdGVhZCBvZiBqdXN0IG5hbWluZyBhIGNvZGUuICgyKSBXb3JzaGlwOiBzb25ncyBhcmUgbm93IHBpY2tlZCBwcmVmZXJyaW5nIHRoZSB1cGxvYWRzIFlvdVR1YmUgYWN0dWFsbHkgYWxsb3dzIGVtYmVkZGVkIHBsYXllcnMgdG8gcGxheSAoVG9waWMtY2hhbm5lbCBhbmQgb2ZmaWNpYWwtYXVkaW8gcG9zdHMgb3ZlciBsYWJlbCBtdXNpYyB2aWRlb3MpLCBhbmQgaWYgdGhyZWUgc29uZ3MgaW4gYSByb3cgc3RpbGwgZmFpbCwgc2hlIHN0b3BzLCBzYXlzIHdoeSBvbmNlLCBhbmQgbW92ZXMgb24gd2l0aCB0aGUgc2VydmljZSBpbnN0ZWFkIG9mIHNpbGVudGx5IHNraXBwaW5nIHRocm91Z2ggdGhlIHdob2xlIGxpc3QuIiwKICAgICAgImNhdGVnb3J5IjogIkZhaXRoIiwKICAgICAgInJlcXVpcmVkIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJwYWNrYWdlIjogImNvbS5jb2Rlc3Rhcmsubm92YW11c2ljIiwKICAgICAgIm5hbWUiOiAiTm92YSBNdXNpYyIsCiAgICAgICJ2ZXJzaW9uX2NvZGUiOiAxLAogICAgICAidmVyc2lvbl9uYW1lIjogIjEuMCIsCiAgICAgICJhcGtfdXJsIjogImh0dHBzOi8vZHJpdmUudXNlcmNvbnRlbnQuZ29vZ2xlLmNvbS9kb3dubG9hZD9pZD0xUUc2ZGVFTnVvSWJnZkxLb2xkd3htX2hfSTd3NklJMHUmZXhwb3J0PWRvd25sb2FkJmNvbmZpcm09dCIsCiAgICAgICJzaXplX2J5dGVzIjogMzMxOTUsCiAgICAgICJzaGEyNTYiOiAiZmM0MWI2MDdjOTdhMThmOGIzOWIwMmUwZWZiMDcyMWQ4MjVlMDc3ZDUyMDJlMmFmYzFiNzg3NDg3NGVlMGY2ZCIsCiAgICAgICJ3aGF0c19uZXciOiAiTm92YSBNdXNpYyBpcyBoZXJlLiBTZWFyY2ggYW55IHNvbmcgYW5kIHBsYXkgaXQsIGJ1aWxkIHlvdXIgb3duIHBsYXlsaXN0cyBhbmQgcGxheSB0aGVtIHN0cmFpZ2h0IHRocm91Z2gsIHNheSBhIHNvbmcgbmFtZSBvdXQgbG91ZCB0byBzZWFyY2ggYnkgdm9pY2UsIGFuZCB1c2UgTmFtZSBUaGF0IFNvbmcgXHUyMDE0IHR5cGUgc29tZSBseXJpY3Mgb3IgZGVzY3JpYmUgdGhlIHNvbmcgYW5kIE5vdmEgZmlndXJlcyBvdXQgd2hhdCBpdCBpcywgdGhlbiBmaW5kcyBpdCBmb3IgeW91LiBJdCBib3Jyb3dzIHlvdXIgR2VtaW5pIGtleSBmcm9tIHRoZSBMYXVuY2hlciBhdXRvbWF0aWNhbGx5LCBzbyB0aGVyZSdzIG5vdGhpbmcgdG8gc2V0IHVwLiIsCiAgICAgICJjYXRlZ29yeSI6ICJDcmVhdG9yIiwKICAgICAgInJlcXVpcmVkIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJwYWNrYWdlIjogImNvbS5jb2Rlc3Rhcmsubm92YWJpYmxlIiwKICAgICAgIm5hbWUiOiAiTm92YSBCaWJsZSIsCiAgICAgICJ2ZXJzaW9uX2NvZGUiOiAyLAogICAgICAidmVyc2lvbl9uYW1lIjogIjEuMSIsCiAgICAgICJhcGtfdXJsIjogImh0dHBzOi8vZHJpdmUudXNlcmNvbnRlbnQuZ29vZ2xlLmNvbS9kb3dubG9hZD9pZD0xc2Z6TGFkYmtZYjAyTnBsNEF1Q1d0WFNzdTh3T21UV0cmZXhwb3J0PWRvd25sb2FkJmNvbmZpcm09dCIsCiAgICAgICJzaXplX2J5dGVzIjogMjkxNjcsCiAgICAgICJzaGEyNTYiOiAiOGMwYmQ1YWQ5MGQwZmVkZGVmMzhmMjY4NWQzMzFlOTdmNzE3Y2UwNDc3NmM3ZmJmMDIwNTM1ZTQ2YzY4M2UxNyIsCiAgICAgICJ3aGF0c19uZXciOiAiTmV3IGluIDEuMTogdGhlIE5ldyBMaXZpbmcgVHJhbnNsYXRpb24gKE5MVCkgaXMgaGVyZS4gVGFwIHRoZSB0cmFuc2xhdGlvbiBidXR0b24gb24gdGhlIGJvb2sgbGlzdCB0byBjeWNsZSB0byBOTFQgXHUyMDE0IGl0IHdvcmtzIGV2ZXJ5d2hlcmUgS0pWIGRvZXM6IGNoYXB0ZXIgcmVhZGluZywgcmVhZC1hbG91ZCwgY2hhcHRlciBhbmQgdmVyc2UgY29tbWVudGFyeSwgYW5kIHRoZSBGaW5kIHRhYiwgd2l0aCB0aGUgdGV4dCBmZXRjaGVkIGZyZXNoIGZvciB5b3UuIiwKICAgICAgImNhdGVnb3J5IjogIkZhaXRoIiwKICAgICAgInJlcXVpcmVkIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJwYWNrYWdlIjogImNvbS5jb2Rlc3Rhcmsubm92YXJkIiwKICAgICAgIm5hbWUiOiAiTm92YSBSRCIsCiAgICAgICJ2ZXJzaW9uX2NvZGUiOiA3LAogICAgICAidmVyc2lvbl9uYW1lIjogIjEuNiIsCiAgICAgICJhcGtfdXJsIjogImh0dHBzOi8vZHJpdmUudXNlcmNvbnRlbnQuZ29vZ2xlLmNvbS9kb3dubG9hZD9pZD0xdmZBbnJTUUozUS1EMERNMHcxb1ZlNWpuX3dNQzNaQUEmZXhwb3J0PWRvd25sb2FkJmNvbmZpcm09dCIsCiAgICAgICJzaXplX2J5dGVzIjogNjU5NjMsCiAgICAgICJzaGEyNTYiOiAiNWRkN2NhOWU2ZDMwZWFmNDJmMTI0MGZkMzY0OTcxMTM1YWM5ZGU3ODg2YTdlOGRhZTYzOWRmYzJkOTJhNjJmNCIsCiAgICAgICJ3aGF0c19uZXciOiAiTmV3IGluIDEuNjogYSBmaWZ0aCBzdGFuZGluZyBydWxlLCB0aGlzIG9uZSBmcm9tIEFtZW4gaGltc2VsZiBcdTIwMTQgaGUgdGV4dGVkIGl0IHRvIENvZHkgb24gTm92ZW1iZXIgMjIsIDIwMjYuIFdoZW4gQ29keSBhbmQgSmFuZWxsZSBhcmUgcmVhZGluZyBjb21pY3MgYW5kIFNreWUgaXMgYXJvdW5kLCBtb3ZlIHRvIHRoZSBjb21tdW5pdHkgcm9vbSBhbmQgc2h1dCB0aGUgZG9vciBcdTIwMTQgdGhlIGtpdGNoZW4gaXMgdGhlIHdvcnN0IHBsYWNlIHRvIGJlIHdpdGggaGVyIGluIHRoZSBob3VzZS4gSWYgc2hlIGNvbWVzIGludG8gdGhlIGNvbW11bml0eSByb29tLCBDb2R5IGNhbiB0ZWxsIGhlciB0byBnbyBzb21ld2hlcmUgZWxzZS4gSXQgc2l0cyB3aXRoIEFtZW4ncyBvdGhlciBzdGFuZGluZyBydWxlcyBpbiB0aGUgQXV0aG9yaXR5IHRhYiwgYmluZHMgZXZlcnkgRGVjaWRlIGNhbGwgYW5kIENvbmZyb250IGNsZWFudXAgdGhlIHNhbWUgd2F5LCBhbmQgY291bnRzIGluIHRoZSBydWxlcyBiYW5uZXIgYW5kIEd1YXJkIE1vZGUgcHJpbWluZy4gTm90aGluZyBlbHNlIGNoYW5nZWQuIiwKICAgICAgImNhdGVnb3J5IjogIkxpZmUgQWRtaW4iLAogICAgICAicmVxdWlyZWQiOiBmYWxzZQogICAgfQogIF0KfQo=
+{
+  "store_version": 1,
+  "generated": "2026-11-24T00:28:15.525003+00:00",
+  "apps": [
+    {
+      "package": "com.codestark.novalauncher",
+      "name": "Nova Launcher",
+      "version_code": 37,
+      "version_name": "3.34",
+      "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
+      "size_bytes": 35632870,
+      "sha256": "a18fbc8f8242d60bcf6f2067e80a0e9d9cc956aa04cd67bc4919a3d7d6f03eda",
+      "whats_new": "INSTANT CONVERSATION. Talk and Ask Nova now answer in seconds, not minutes: she streams her reply word by word as Google writes it, tries only the fast models, and cuts off any answer that takes too long instead of leaving you hanging \u2014 with honest spoken reasons when Google is slammed or unreachable, never a vague network excuse.",
+      "category": "Foundation",
+      "required": true
+    },
+    {
+      "package": "com.codestark.novavoice",
+      "name": "Nova Voice",
+      "version_code": 11,
+      "version_name": "2.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
+      "size_bytes": 16970785,
+      "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
+      "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+      "category": "Foundation",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novaphone",
+      "name": "Nova Phone",
+      "version_code": 8,
+      "version_name": "1.7",
+      "apk_url": "https://drive.usercontent.google.com/download?id=13LtIG54Akf5Ql7uexam_sX94FjBkYJ4T&export=download&confirm=t",
+      "size_bytes": 57771,
+      "sha256": "f6d0334fc0f4239991cb42f6b2070f2363382845126744d9235575a891322cad",
+      "whats_new": "AGENT MODE. Nova now fronts your calls both ways. Incoming: she answers on speaker, says she is CodeStark's assistant, and handles the call by lane \u2014 friends and family get a casual hello and message-taking, businesses and unknown numbers get a professional intake (who, company, what about, is it urgent, best callback), and a caller you mark as heated gets listened to without an argument. Outgoing: give her a one-sentence errand and she makes the call herself \u2014 she never commits you to money, dates, or deals; anything bigger comes back to you as a question. After every agent call you get ONE summary: everything that matters, with the heat taken out. Lanes are set per person from Contacts or Recents; numbers you set to always ring through still ring to you; and you can grab any call back mid-sentence with the Take this call button. Honest limit, in plain words: Android gives regular apps no direct line into call audio, so Nova works through the speaker and the microphone, like someone sitting next to the phone \u2014 quiet rooms work best. Save your Gemini key in the Nova tab and she converses freely; without it she runs her scripted intake and the summary still lands. Agent Mode OFF means the phone works exactly like 1.6.",
+      "category": "Foundation",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novachat",
+      "name": "Nova Chat",
+      "version_code": 2,
+      "version_name": "1.1",
+      "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
+      "size_bytes": 25003,
+      "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
+      "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
+      "category": "Creator",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novastream",
+      "name": "Nova Stream",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
+      "size_bytes": 815531,
+      "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
+      "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
+      "category": "Creator",
+      "required": false
+    },
+    {
+      "package": "com.codestark.uhcclaim",
+      "name": "UHC Claim Builder",
+      "version_code": 10,
+      "version_name": "3.4",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
+      "size_bytes": 75806,
+      "sha256": "f840aa6dcfd2947f7298cf01179faab0e181727da5e095df021c9d0e71e884b2",
+      "whats_new": "Signature guaranteed: the form always prints your name as the signature with today's date beside it, the package-ready message reads the signature and date back to you before you send, and if your name is ever blank the package refuses to build instead of producing an unsigned form. New: a Send a test email button on the Build a Claim tab \u2014 it sends one clearly marked test email to UHC through your saved Gmail sign-in (no claim attached, no member ID) and, if it fails, shows the mail server's actual words so the problem names itself.",
+      "category": "Life Admin",
+      "required": false
+    },
+    {
+      "package": "com.codestark.fancifulcompanion",
+      "name": "Fanciful Companion",
+      "version_code": 5,
+      "version_name": "1.4",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1jlGemrJ03gEi3tSQLMEUWCJd1H4ceZay&export=download&confirm=t",
+      "size_bytes": 25003,
+      "sha256": "d03a8d0a97f1ac145543a59dbfe3121c7d257d99ed568984259e1f86ece09dc9",
+      "whats_new": "Fixed the 404 errors and long waits \u2014 she now finds the models your key can actually use and remembers the one that works, so answers come back fast.",
+      "category": "Life Admin",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novahouselog",
+      "name": "Nova House Log",
+      "version_code": 9,
+      "version_name": "1.8",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
+      "size_bytes": 57771,
+      "sha256": "4327c2b9cc4974f0bb3dd483a7947fede1e5689c6a7834eab53ae74cfa2435a7",
+      "whats_new": "House Sync is here \u2014 the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle \u2014 via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' \u2014 stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable \u2014 tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
+      "category": "Life Admin",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novadevotion",
+      "name": "Nova Devotion",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
+      "size_bytes": 20907,
+      "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
+      "whats_new": "First release: a daily devotion on your phone \u2014 today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+      "category": "Faith",
+      "required": false
+    },
+    {
+      "package": "com.codestark.pastornova",
+      "name": "Pastor Nova",
+      "version_code": 17,
+      "version_name": "1.16",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
+      "size_bytes": 111019,
+      "sha256": "9692f9a84f8eb2e251f8109df664b2a93b256a8ab10e6556118319296bc24ff8",
+      "whats_new": "Two fixes from the field: (1) Sermon generation no longer dies when one Google model has a network hiccup \u2014 she walks to the next model \u2014 and if a fresh sermon still can't be generated, the fallback now speaks Google's actual reason out loud instead of just naming a code. (2) Worship: songs are now picked preferring the uploads YouTube actually allows embedded players to play (Topic-channel and official-audio posts over label music videos), and if three songs in a row still fail, she stops, says why once, and moves on with the service instead of silently skipping through the whole list.",
+      "category": "Faith",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novamusic",
+      "name": "Nova Music",
+      "version_code": 1,
+      "version_name": "1.0",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1QG6deENuoIbgfLKoldwxm_h_I7w6II0u&export=download&confirm=t",
+      "size_bytes": 33195,
+      "sha256": "fc41b607c97a18f8b39b02e0efb0721d825e077d5202e2afc1b7874874ee0f6d",
+      "whats_new": "Nova Music is here. Search any song and play it, build your own playlists and play them straight through, say a song name out loud to search by voice, and use Name That Song \u2014 type some lyrics or describe the song and Nova figures out what it is, then finds it for you. It borrows your Gemini key from the Launcher automatically, so there's nothing to set up.",
+      "category": "Creator",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novabible",
+      "name": "Nova Bible",
+      "version_code": 2,
+      "version_name": "1.1",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1sfzLadbkYb02Npl4AuCWtXSsu8wOmTWG&export=download&confirm=t",
+      "size_bytes": 29167,
+      "sha256": "8c0bd5ad90d0feddef38f2685d331e97f717ce04776c7fbf020535e46c683e17",
+      "whats_new": "New in 1.1: the New Living Translation (NLT) is here. Tap the translation button on the book list to cycle to NLT \u2014 it works everywhere KJV does: chapter reading, read-aloud, chapter and verse commentary, and the Find tab, with the text fetched fresh for you.",
+      "category": "Faith",
+      "required": false
+    },
+    {
+      "package": "com.codestark.novard",
+      "name": "Nova RD",
+      "version_code": 7,
+      "version_name": "1.6",
+      "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
+      "size_bytes": 65963,
+      "sha256": "5dd7ca9e6d30eaf42f1240fd364971135ac9de7886a7e8dae639dfc2d92a62f4",
+      "whats_new": "New in 1.6: a fifth standing rule, this one from Amen himself \u2014 he texted it to Cody on November 22, 2026. When Cody and Janelle are reading comics and Skye is around, move to the community room and shut the door \u2014 the kitchen is the worst place to be with her in the house. If she comes into the community room, Cody can tell her to go somewhere else. It sits with Amen's other standing rules in the Authority tab, binds every Decide call and Confront cleanup the same way, and counts in the rules banner and Guard Mode priming. Nothing else changed.",
+      "category": "Life Admin",
+      "required": false
+    }
+  ]
+}
