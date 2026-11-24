@@ -105,6 +105,13 @@
    "status": "done",
    "text": "Your build is done. Nova Launcher's Talk/Ask is fixed: she now leads with the newest Gemini Flash your key actually supports — she asks Google for your key's real model list and orders it newest-Flash-first — instead of the old lite models, and the crashes are hardened out: a bad or half-arrived answer, or an error mid-stream, now becomes a plain spoken line and the conversation stays put instead of the app dying. Update Nova Launcher from the Store to get it, then open Talk with Nova and chat — the first conversation also refreshes her model list from Google.",
    "ts": 1795534938703
+  },
+  {
+   "id": "notice-1795536292450-done",
+   "requestId": 1795536292450,
+   "status": "done",
+   "text": "Your build is done. Nova Launcher 3.47 fixes the “developer instruction is not enabled for this model” error (code 400): when a model refuses Nova's instruction field, she now retries that same model with her instructions folded into the first message instead, and she remembers which models want it that way — so Talk and Ask just work on the newest models your key gets. Update Nova Launcher from the Store to get it.",
+   "ts": 1795537569420
   }
  ]
 }

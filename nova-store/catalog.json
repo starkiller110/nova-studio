@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T15:42:18+00:00",
+ "generated": "2026-11-24T16:26:09+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 49,
-   "version_name": "3.46",
+   "version_code": 50,
+   "version_name": "3.47",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35702502,
-   "sha256": "3da7d2bc64f4e66be01f161478a353e7c46c6df0c77cf9db92555c06bab95f65",
-   "whats_new": "New in 3.46 — the Talk/Ask crash fix, and Nova now uses the newest Gemini Flash your key supports. What was wrong: her model list was stuck lite-first from a static list, so older lite models led every conversation and the newest Flash your key actually gets could sit untried; and a couple of rough edges in the conversation surface could kill the app outright instead of just failing a reply. Now she asks Google which models your key really has and leads with the newest full Flash, by real version order — stable builds before previews, full Flash before its lite variant — and a model that answers “not found” is forgotten on the spot instead of being retried first forever. Every model error is still a spoken honest line with Google's own words, never a crash. The conversation itself is hardened too: a broken or half-arrived answer, an error arriving mid-stream, or backing out while she's thinking now degrades to a plain spoken line and the conversation stays right where it was — nothing ejects you, nothing wedges. Same Talk, same Ask, same voice; it just stops falling over.",
+   "size_bytes": 35706598,
+   "sha256": "08fcf778f28f6b2211ef86da391ab5675eedc699984b9d3fe8e53f9fe829bd1f",
+   "whats_new": "New in 3.47 — the fix for the “developer instruction is not enabled for this model” error (code 400) you hit. What was happening: the newest Gemini models Google offers your key — the very ones 3.46 taught Nova to lead with — refuse the instruction field her requests carry, so Google sent that 400 back and the conversation stopped right there. Now, when a model answers that way, Nova retries that same model on the spot with her instructions folded into the first message instead, and the conversation just works — you never hear the error. She also remembers which models want it that way, so the next conversation goes straight to the form that works. A model that answers this way is not treated as broken or forgotten; only a model that truly does not exist gets forgotten, same as before. Every other error is still a spoken honest line with Google's own words, never a crash. Same Talk, same Ask, same voice.",
    "category": "Foundation",
    "required": true
   },
