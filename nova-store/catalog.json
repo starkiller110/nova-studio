@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T02:05:08+00:00",
+ "generated": "2026-11-24T02:06:08+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -89,12 +89,12 @@
   {
    "package": "com.codestark.novahouselog",
    "name": "Nova House Log",
-   "version_code": 10,
-   "version_name": "1.9",
+   "version_code": 9,
+   "version_name": "1.8",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-   "size_bytes": 65963,
-   "sha256": "897a6a1f5c85733647c19feca59c994cdd843fe75a98514aef9e9df0408f99a4",
-   "whats_new": "Your first Goldfish build is here. (1) Daily check-in: House Log now asks you once a day — 9:00 PM by default, changeable on the Reminders tab, with a pick-any-time option — whether anything happened at the house that's worth noting. Tap the notification and it opens Add Entry so you can log it while it's fresh. If you had already set the old reminder up your way, your settings were kept exactly as they were. (2) Guard Mode drafts: when Nova RD's Guard Mode hears something loud, it can hand House Log a draft incident built from the sound alone — when, how long, how loud; it never records words. Drafts wait on the new Drafts tab, clearly marked NOT COUNTED, and never appear in a report. Confirm one and it opens in Add Entry with the facts filled in — the usual rule still applies in full: it only saves, and only counts, once she has been told. Edit the note or discard drafts you don't need; a discarded draft is gone and was never logged.",
+   "size_bytes": 57771,
+   "sha256": "4327c2b9cc4974f0bb3dd483a7947fede1e5689c6a7834eab53ae74cfa2435a7",
+   "whats_new": "House Sync is here — the old Nova trick at small scale. A tiny backend on Nova's side, reached through a tunnel, now serves Janelle's iPhone web app and syncs both ways with this app: her web entries fall into your Log tab automatically, labeled 'Janelle — via web app'; your entries and confirmation questions reach her side; and a question she answers with her OWN tap in the web app is stamped 'her own tap (web)' — stronger than a verbal answer recorded by you. New Sync tab: server address is pre-filled (editable — tunnel addresses change; Nova can read you the current one) and you paste the app key Nova gives you once. Sync runs when the app opens and on Sync Now, and speaks what arrived ('Synced: 2 new entries from Janelle'). Failures speak honestly and never touch your local log.",
    "category": "Life Admin",
    "required": false
   },
@@ -149,12 +149,12 @@
   {
    "package": "com.codestark.novard",
    "name": "Nova RD",
-   "version_code": 8,
-   "version_name": "1.7",
+   "version_code": 9,
+   "version_name": "1.8",
    "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
    "size_bytes": 70059,
-   "sha256": "d1e92b77964d6990b747e56ffc5434b23882d8b6a9f247f962c01e1b8cf8c69c",
-   "whats_new": "New in 1.7: the Gemini lane rebuilt on the Launcher's proven fast lane. The message check could die with 'I could not reach Gemini' because one model's connection failure used to end the whole attempt, the model list was fetched live on the spot, and a slow model could hang for the better part of a minute. Now the model list is cached and tried fast-first — at most four models, with gemini-2.5-flash always holding a seat — answers stream in under a roughly 20-second overall limit, a dead model is skipped instead of ending the call, a remembered model that stops existing is forgotten, and if every model comes back 404, RD refreshes the model list from Google once and retries with the best one it finds. When something does fail, the error line carries Google's own words. Nothing else changed — the gate, Guard Mode, Amen's standing rules and contingencies all work exactly as before.",
+   "sha256": "a3e1b2b369bdafc141e93b079c2a763d4f8fdb77f379ba7ee2fe6299b78eb302",
+   "whats_new": "New in 1.8: (1) Guard Mode now hands its incidents to Nova House Log. When Guard trips, House Log gets a draft incident built only from what Guard measures — the time, how long the sound lasted, how loud it got. Never words, never who was talking: Guard hears loudness, not speech. The draft waits in House Log for your confirmation and never counts on its own, and a copy stays in RD's Log either way, marked sent or not sent with the plain reason. There's a switch for it on the Guard tab, on by default. (2) The message cleanup tells the truth now. Cody's 1.7 test caught it handing his words straight back and calling them cleaned. Now the result is compared against what you wrote: if the model just echoes you, RD retries once with a blunt rewrite-only instruction, and if it still comes back unchanged it says so plainly — it will not call an untouched message cleaned. Everything else — the gate, Guard Mode, Amen's standing rules and contingencies — works exactly as before.",
    "category": "Life Admin",
    "required": false
   }
