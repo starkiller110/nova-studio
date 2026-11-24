@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "generated": "2026-11-24T01:15:46.804811+00:00",
+  "generated": "2026-11-24T01:18:08.664904+00:00",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
@@ -9,7 +9,7 @@
       "version_name": "3.36",
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
       "size_bytes": 35653350,
-      "sha256": "a451bf06af554b2b7525ab7e1a377d07a059b4de834dfbe2fb977a063d388b5f",
+      "sha256": "51dbd8ba0846e4def801308bdba1f1388c6fff8543a7034b9b7a78fc67514a09",
       "whats_new": "GOLDFISH IS HERE. There is a new Build section: describe a feature in your own words \u2014 by voice or typing \u2014 and Nova builds it. Simple features arrive as data you approve after hearing exactly what they do and what they need; Hear my builds and Hear my features read everything back; run, pause, resume, remove and put-it-back-how-it-was all work by button or voice, and Nova, stop halts a running feature. Two starters are already in: Morning Rundown and Focus Five. A feature that needs real code is escalated honestly and comes back as an app update.",
       "category": "Foundation",
       "required": true
