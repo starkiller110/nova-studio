@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T02:06:08+00:00",
+ "generated": "2026-11-24T02:48:20+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 41,
-   "version_name": "3.38",
+   "version_code": 42,
+   "version_name": "3.39",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35661542,
-   "sha256": "153a169aa65221458c9a8118c59772663973c96395d74296fd7514d0d43a61ec",
-   "whats_new": "AUTOMATIC GOLDFISH PICKUP. Build requests now send themselves: describe a feature in the Build door — by voice or typing — and it goes straight up to Nova on its own, no share sheet, no ferry step. Off the grid? The request waits on the phone and sends itself the moment you're back online. And Hear my builds tells the truth about every request: waiting to send (with the reason, in plain words), sent to Nova, or the drop-box's own words when a send doesn't go through. Requests the autopilot lane escalates ride the same pipe. The Share button stays as a spare key — pickup is automatic now.",
+   "size_bytes": 35669734,
+   "sha256": "e0758858f6dd92c5b2a67457ba1cc440fc3de1c965c5de3de4ffea3aca027039",
+   "whats_new": "Three accessibility fixes from your field reports. ONE: the App Guide is manual-only now \u2014 she never takes over or reads a screen uninvited again. When you want her in an app, say \u201cNova, guide me\u201d while you're in it, or tap the new Guide an app button on the hub and she opens the last app you used with the Guide armed. She still quietly remembers which apps don't talk well, so when you do ask, she can say so \u2014 and while she's guiding, she reads each new screen once and never re-reads the same screen over ticking timers. TWO: Talk with Nova no longer boots you into a dictation screen after every reply \u2014 she listens right inside the conversation now, and if a command takes you out to a drive, you come back to the same conversation, still listening. THREE: TalkBack hardening \u2014 checking for new Goldfish features no longer rebuilds the Build section out from under your swipe when nothing changed, status lines announce politely without stealing your place, and the conversation screen scrolls without grabbing focus.",
    "category": "Foundation",
    "required": true
   },
