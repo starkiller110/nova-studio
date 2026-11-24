@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T02:48:20+00:00",
+ "generated": "2026-11-24T03:51:11+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 42,
-   "version_name": "3.39",
+   "version_code": 43,
+   "version_name": "3.40",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
    "size_bytes": 35669734,
-   "sha256": "e0758858f6dd92c5b2a67457ba1cc440fc3de1c965c5de3de4ffea3aca027039",
-   "whats_new": "Three accessibility fixes from your field reports. ONE: the App Guide is manual-only now — she never takes over or reads a screen uninvited again. When you want her in an app, say “Nova, guide me” while you're in it, or tap the new Guide an app button on the hub and she opens the last app you used with the Guide armed. She still quietly remembers which apps don't talk well, so when you do ask, she can say so — and while she's guiding, she reads each new screen once and never re-reads the same screen over ticking timers. TWO: Talk with Nova no longer boots you into a dictation screen after every reply — she listens right inside the conversation now, and if a command takes you out to a drive, you come back to the same conversation, still listening. THREE: TalkBack hardening — checking for new Goldfish features no longer rebuilds the Build section out from under your swipe when nothing changed, status lines announce politely without stealing your place, and the conversation screen scrolls without grabbing focus.",
+   "sha256": "317d5f8709c549a69f9f2ab8bad669fcd3c00caef262afb516041ffb54cfe1a5",
+   "whats_new": "New in 3.40 — tell Nova, and it's logged. When you're talking with Nova here (Talk with Nova or Ask) and you tell her something that happened at the house — venting about Skye counts — she now decides herself whether it holds a real incident and files it into Nova House Log for you. No forms, no typing it all out. She only checks when your message actually mentions the house or the people in it, and the facts she files are the ones you stated: if you said she was confronted about it, she records that; if you didn't say, she never invents it, and the entry waits as a draft in House Log instead of counting. After she files one, she tells you right there in the conversation what she sent and which behavior she filed it under. If there's nothing loggable in what you said, she just keeps talking — nothing is filed and nothing extra is said. House Log needs its 1.11 update for this to land; if it isn't there, she'll tell you honestly instead of pretending. Everything else is exactly 3.39 — the Guide stays manual-only, conversations stay in place, and the money gates and drivers are untouched.",
    "category": "Foundation",
    "required": true
   },
@@ -89,12 +89,12 @@
   {
    "package": "com.codestark.novahouselog",
    "name": "Nova House Log",
-   "version_code": 11,
-   "version_name": "1.10",
+   "version_code": 12,
+   "version_name": "1.11",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-   "size_bytes": 78251,
-   "sha256": "fdc5d1643e0ec49d6bdd837f22ce9db40d81158b55d4cfd24d915e330a7a519f",
-   "whats_new": "The Consequence Watch is here — built into the app, running on your phone. (1) Watch tab: House Log now keeps an eye on both your house group chats — Friendship House SIX (everyone) and FH6-132 — checking about every fifteen minutes and every time you open the app. When the chats stir — a message naming Skye or Gabe, staff names, consequence words, someone leaving or joining, a sudden burst of messages — the early sign lands here as a SIGNAL, labeled as a signal everywhere: an early sign from your own chats, never a confirmed outcome. New signals also arrive as a notification you can tap to hear them read out; if notifications are turned off for the app, it tells you plainly and speaks new signals when you open it instead. Signals live in their own list — never counted, never in reports, never synced — and you can hear or dismiss each one. (2) Your own posts become drafts: if you address the situation in either chat — a post naming Skye or Gabe, or tagging her — that post automatically lands on the Drafts tab word for word, ready to confirm. Confirming opens Add Entry with your words filled in and the confrontation question deliberately unanswered: if the post itself was you telling her, answer yes and it counts truthfully; the hard gate applies in full until you answer. (3) Settings on the Watch tab: a master on/off switch plus a switch for each chat. Turning the watch off stops the polling, the notifications, and the post drafts. The watch only reads chats you're in, with your own GroupMe connection — it never touches staff systems or anyone's paperwork. If a check ever fails, the app says why in plain words with the actual reason, and nothing is marked as seen.",
+   "size_bytes": 82347,
+   "sha256": "fcb3d2f551b279f31467e4a40a5b9feec4364542e0da50969582549bc6347e2d",
+   "whats_new": "New in 1.11 — Nova can log for you straight from conversation. (1) Talk to Nova in the Launcher (Talk with Nova or Ask) and tell her what happened at the house: she decides herself whether it holds a loggable incident — no confirm tap, that was the ask — and files it here. If what you said established that Skye was confronted about it (by you, or by someone else you named), the entry lands as a real entry and counts. If confrontation wasn't established in what you said, it lands on the Drafts tab with a 'Nova logged a draft from your conversation' note — never counted, never in reports, never synced — until it's confirmed the proper way. She never invents a confrontation: only what you actually said counts. (2) Behavior categories: every talk-logged entry is filed under a behavior category (like 'shared-space messes'), and the app keeps a ledger per category — first-confronted date and entry count. The settled rule: confront once per behavior; repeats of an already-confronted behavior count off the first confrontation; a brand-new behavior needs its own first confrontation before its entries count. Manual entries can pick a 'Filed under' category on the Add Entry form too. (3) Patterns: the Share tab now has a Patterns readout — per category, how many counted entries, when it was first confronted, and the most recent one — plus a 'Hear the pattern summary' button that reads the whole pattern out loud in plain words, built only from your real entries. Nothing else changes: the hard gate, the daily check-in, Guard Mode drafts, the Consequence Watch and Janelle's lane are untouched.",
    "category": "Life Admin",
    "required": false
   },
