@@ -126,6 +126,13 @@
    "status": "done",
    "text": "Your build is done — both halves of it, since the second message finished the first one's sentence. Nova House Log 1.13 adds the common-area camera watch: on the Watch tab, turn it on when you're in the kitchen, the community room, or any shared space with your phone in hand. Every few seconds it takes a photo and checks whether it shows a mess; when it does, it saves the photo, describes it back to you out loud, and files a draft on the Drafts tab with the photo attached — never counted, never reported, until you review it. Photos also join the log by hand now: Add Entry and every draft can take or pick a photo, described back to you when you attach it. Honest bits: Android makes the watch show a notification the whole time it's on, it uses your Gemini key to check photos (it borrows the Launcher's), and photos stay on your phone — Janelle's texts note that a photo exists but don't carry it yet. Update House Log from the Store.",
    "ts": 1795538095930
+  },
+  {
+   "id": "notice-1795540127731-done",
+   "requestId": 1795540127731,
+   "status": "done",
+   "text": "Your build is done. Nova House Log 1.14 lets you send Janelle one single entry: on the Log tab, every entry card now has a \"Text this entry to Janelle\" button. Tap it and Nova reads back the entry's date and what it's about, and says plainly it goes as a text — not GroupMe, not sync. Tap again and just that entry goes to her, headed \"House Log entry — for your records.\", with everybody tagged on it named and the photo note included if it has one (the photo itself stays on your phone). Counted entries only — an uncounted entry refuses out loud and sends nothing. The whole-log copy and the automatic forwarding of new entries still work exactly as before. Update Nova House Log from the Store to get it.",
+   "ts": 1795542618572
   }
  ]
 }

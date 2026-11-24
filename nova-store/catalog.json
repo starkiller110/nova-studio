@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T16:26:09+00:00",
+ "generated": "2026-11-24T17:50:18+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -89,12 +89,12 @@
   {
    "package": "com.codestark.novahouselog",
    "name": "Nova House Log",
-   "version_code": 14,
-   "version_name": "1.13",
+   "version_code": 15,
+   "version_name": "1.14",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-   "size_bytes": 106923,
-   "sha256": "12ed596b377cd4d94c613211465923fd17511241856104be7c3c5bbde7de0603",
-   "whats_new": "New in 1.13 — photos join the log, and the common-area camera watch. (1) Common-area camera watch (Watch tab): turn it on when you're moving through shared spaces — kitchen, community room — phone in hand. Every few seconds it takes a photo and asks Nova's AI whether it shows a mess left behind. If it does, the photo is saved, Nova describes it back to you out loud right away, and a draft lands on the Drafts tab with the photo attached and the description written in. It never counts and is never reported until you review and confirm it — the confrontation rule is untouched. One capture at most every 2 minutes, and the same scene won't draft twice within 30 minutes. Android requires a notification to stay up the whole time the watch runs, and while it's on it uses the camera and data every few seconds, so the battery drains faster. It needs your Gemini key (it borrows the Launcher's automatically, or paste it on the Watch tab). (2) Photos on entries: Add Entry and every draft card now have Take a photo / Pick a photo. The photo is described back to you out loud when you attach it, the description is saved as its caption, and the entry card shows the photo with the caption. Deleting an entry deletes its photo. Photos live on this phone only — reports and Janelle's texts say \"(photo attached, on this phone)\" with the description, but the photo itself is not sent in this version.",
+   "size_bytes": 111019,
+   "sha256": "e39498fed980a9c434fad04644fb46a84606ba87668967996b1ea88f915425ff",
+   "whats_new": "New in 1.14 — text ONE entry to Janelle. Every entry card on the Log tab now has a \"Text this entry to Janelle\" button: tap it and Nova reads back that entry's date and the start of its note, and says plainly it will go as a text message to Janelle — not GroupMe, not the sync lane. Tap again and just that one entry is texted to her, headed \"House Log entry — for your records.\", with everyone tagged on it named, the confrontation facts, and — if the entry has a photo — the \"(photo attached, on this phone)\" line with the photo's description (the photo itself is not sent). Counted entries only, same rule as always: an entry that isn't counted yet refuses in plain words and sends nothing, and drafts can't be sent from their cards at all. The card itself tells you the result — sent, did NOT go out, or handed to the radio but unconfirmed — and she only calls it sent when the phone confirms it. The whole-log copy button and the automatic forwarding of new entries on the Share tab work exactly as before.",
    "category": "Life Admin",
    "required": false
   },
