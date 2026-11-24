@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T14:55:49+00:00",
+ "generated": "2026-11-24T15:42:18+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 48,
-   "version_name": "3.45",
+   "version_code": 49,
+   "version_name": "3.46",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
    "size_bytes": 35702502,
-   "sha256": "fc75560c2b1f520c92563c30d4d50270ba4fc21f1e97dded865e1cbb0f9fc8d0",
-   "whats_new": "New in 3.45 — hands-free message sending. Saying “send a message” IS the go-ahead: say “send a message to Aaron saying I'll be there at 7”, “text Aaron I'm running late”, or “tell Aaron dinner is at 6”, and Nova finds the person in your contacts, writes it, presses send herself, and tells you the exact words she sent and who got them — no send button, no draft to approve, and if you're mid-conversation in Talk with Nova you stay right there. Name a style and she writes it that way: “make it funny”, “sarcastic”, “dry”, “roast him a little” (light, never mean), “sweet”, “professional”, “short and sweet”. No style named means your exact words go out, untouched. Leave out the person and she asks “Who to?”; leave out the message and she asks “What should it say?”; two contacts with the same first name and she asks which one. Talking about a text you already sent sends nothing. One honest note: these go out as regular SMS texts, not RCS. The first time, Android asks for contacts and SMS permission — tap Allow once and she handles it from there.",
+   "sha256": "3da7d2bc64f4e66be01f161478a353e7c46c6df0c77cf9db92555c06bab95f65",
+   "whats_new": "New in 3.46 — the Talk/Ask crash fix, and Nova now uses the newest Gemini Flash your key supports. What was wrong: her model list was stuck lite-first from a static list, so older lite models led every conversation and the newest Flash your key actually gets could sit untried; and a couple of rough edges in the conversation surface could kill the app outright instead of just failing a reply. Now she asks Google which models your key really has and leads with the newest full Flash, by real version order — stable builds before previews, full Flash before its lite variant — and a model that answers “not found” is forgotten on the spot instead of being retried first forever. Every model error is still a spoken honest line with Google's own words, never a crash. The conversation itself is hardened too: a broken or half-arrived answer, an error arriving mid-stream, or backing out while she's thinking now degrades to a plain spoken line and the conversation stays right where it was — nothing ejects you, nothing wedges. Same Talk, same Ask, same voice; it just stops falling over.",
    "category": "Foundation",
    "required": true
   },
