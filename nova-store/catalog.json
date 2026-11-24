@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T13:29:09+00:00",
+ "generated": "2026-11-24T14:40:16+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -89,12 +89,12 @@
   {
    "package": "com.codestark.novahouselog",
    "name": "Nova House Log",
-   "version_code": 12,
-   "version_name": "1.11",
+   "version_code": 13,
+   "version_name": "1.12",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-   "size_bytes": 82347,
-   "sha256": "fcb3d2f551b279f31467e4a40a5b9feec4364542e0da50969582549bc6347e2d",
-   "whats_new": "New in 1.11 — Nova can log for you straight from conversation. (1) Talk to Nova in the Launcher (Talk with Nova or Ask) and tell her what happened at the house: she decides herself whether it holds a loggable incident — no confirm tap, that was the ask — and files it here. If what you said established that Skye was confronted about it (by you, or by someone else you named), the entry lands as a real entry and counts. If confrontation wasn't established in what you said, it lands on the Drafts tab with a 'Nova logged a draft from your conversation' note — never counted, never in reports, never synced — until it's confirmed the proper way. She never invents a confrontation: only what you actually said counts. (2) Behavior categories: every talk-logged entry is filed under a behavior category (like 'shared-space messes'), and the app keeps a ledger per category — first-confronted date and entry count. The settled rule: confront once per behavior; repeats of an already-confronted behavior count off the first confrontation; a brand-new behavior needs its own first confrontation before its entries count. Manual entries can pick a 'Filed under' category on the Add Entry form too. (3) Patterns: the Share tab now has a Patterns readout — per category, how many counted entries, when it was first confronted, and the most recent one — plus a 'Hear the pattern summary' button that reads the whole pattern out loud in plain words, built only from your real entries. Nothing else changes: the hard gate, the daily check-in, Guard Mode drafts, the Consequence Watch and Janelle's lane are untouched.",
+   "size_bytes": 90539,
+   "sha256": "79cddbf701d54d232383416d9a4eed2f759cbbef8e50e1cbe9f98e3c5fc01206",
+   "whats_new": "New in 1.12 — the log now reaches Janelle by text, two ways. (1) Text a copy to Janelle: a new button on the Share tab texts her a plain copy of the counted log — every counted entry, oldest first, with dates, categories, what happened, and how each one stands — for her own records. First tap reads back how many entries and the date range and says plainly it will text her (not GroupMe, not the sync lane); second tap sends. (2) Auto-forward: each NEW counted entry is now texted to Janelle on its own the moment it's recorded — whether it came from Add Entry, a confirmation, your conversations with Nova, or the group-chat auto-log — so her case file grows with yours. It's on by default; the Share tab has the switch to turn it off, and a status line there says honestly if a forward ever didn't go out and why. Both ways find Janelle in your contacts (no number is stored in the app), send as a regular text message, and only ever carry counted entries — never drafts, never uncounted entries, never Watch signals. First use asks for contacts and SMS permission. Janelle's sync and web-app lane is unchanged.",
    "category": "Life Admin",
    "required": false
   },
