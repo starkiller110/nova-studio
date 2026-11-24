@@ -1,16 +1,16 @@
 {
   "store_version": 1,
-  "generated": "2026-11-24T00:28:15.525003+00:00",
+  "generated": "2026-11-24T00:38:14.467350+00:00",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
       "name": "Nova Launcher",
-      "version_code": 37,
-      "version_name": "3.34",
+      "version_code": 38,
+      "version_name": "3.35",
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-      "size_bytes": 35632870,
-      "sha256": "a18fbc8f8242d60bcf6f2067e80a0e9d9cc956aa04cd67bc4919a3d7d6f03eda",
-      "whats_new": "INSTANT CONVERSATION. Talk and Ask Nova now answer in seconds, not minutes: she streams her reply word by word as Google writes it, tries only the fast models, and cuts off any answer that takes too long instead of leaving you hanging \u2014 with honest spoken reasons when Google is slammed or unreachable, never a vague network excuse.",
+      "size_bytes": 35636966,
+      "sha256": "e6aa4b8567c7d47333681010584a807bff27dd91273c27b875e99af6b30aa2cd",
+      "whats_new": "CONVERSATION FIX. If Talk or Ask Nova told you the models didn\u2019t answer, this is the fix: Nova now builds her model list from Google\u2019s own list for your key, forgets a saved model that stops answering, and if every model name misses she re-checks Google\u2019s list once and retries on the spot. And if something still fails, she reads you Google\u2019s exact words instead of a guess.",
       "category": "Foundation",
       "required": true
     },
