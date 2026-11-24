@@ -42,6 +42,34 @@
    "status": "done",
    "text": "Your build is done. In Nova Launcher 3.44, scheduling an Uber in advance works the way you say it — \"schedule an Uber to church for tomorrow at 9\", \"book me an Uber for tomorrow at 9\", \"I need a ride tomorrow morning\", \"get me an Uber for Tuesday at 3\" — and she recognizes it as scheduling, not a ride right now. She makes a ride plan, tells you the day and time and when she'll actually book it (the leave time), and if you leave out the place or the time she asks for just that one piece. And the boot-out is fixed: scheduling never opens the Uber app and never throws you out of your conversation — in Talk with Nova the plan is made and confirmed right there and you keep talking; the booking itself happens at leave time, like your other ride plans. Update Nova Launcher from the Store to get it.",
    "ts": 1795495970368
+  },
+  {
+   "id": "notice-1795494001648-done",
+   "requestId": 1795494001648,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795496979649-done",
+   "requestId": 1795496979649,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795493976157-done",
+   "requestId": 1795493976157,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795496907338-done",
+   "requestId": 1795496907338,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
   }
  ]
 }

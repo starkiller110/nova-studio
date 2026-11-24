@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T04:52:21+00:00",
+ "generated": "2026-11-24T05:38:04+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 47,
-   "version_name": "3.44",
+   "version_code": 48,
+   "version_name": "3.45",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35698406,
-   "sha256": "27d83a1f3bdf83e676d6aceb064fba24d7228f65fa7d044c753d84784f47defa",
-   "whats_new": "New in 3.44 — scheduling a ride ahead works the way you'd say it, and it never kicks you out of the app. Say it naturally: “schedule an Uber to church for tomorrow at 9”, “book me an Uber for tomorrow at 9”, “I need a ride tomorrow morning”, “get me an Uber for Tuesday at 3”. She makes a ride plan, tells you the day and time and exactly when she'll book it (the leave time, from the travel time you taught her), and that's it — nothing opens, nothing books early, and if you're mid-conversation in Talk with Nova you stay right there and keep talking. If you leave out the place or the time, she asks just for that one piece — “Where to?” or “What time do you need to be there?” — and finishes the plan when you answer. Talking about a ride you already took books nothing, and “book my Uber to church” still books right now, same as before. Say “cancel that ride plan” any time to call a plan off.",
+   "size_bytes": 35702502,
+   "sha256": "fc75560c2b1f520c92563c30d4d50270ba4fc21f1e97dded865e1cbb0f9fc8d0",
+   "whats_new": "New in 3.45 — hands-free message sending. Saying “send a message” IS the go-ahead: say “send a message to Aaron saying I'll be there at 7”, “text Aaron I'm running late”, or “tell Aaron dinner is at 6”, and Nova finds the person in your contacts, writes it, presses send herself, and tells you the exact words she sent and who got them — no send button, no draft to approve, and if you're mid-conversation in Talk with Nova you stay right there. Name a style and she writes it that way: “make it funny”, “sarcastic”, “dry”, “roast him a little” (light, never mean), “sweet”, “professional”, “short and sweet”. No style named means your exact words go out, untouched. Leave out the person and she asks “Who to?”; leave out the message and she asks “What should it say?”; two contacts with the same first name and she asks which one. Talking about a text you already sent sends nothing. One honest note: these go out as regular SMS texts, not RCS. The first time, Android asks for contacts and SMS permission — tap Allow once and she handles it from there.",
    "category": "Foundation",
    "required": true
   },
