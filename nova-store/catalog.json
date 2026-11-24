@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T05:38:04+00:00",
+ "generated": "2026-11-24T13:29:09+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -149,12 +149,12 @@
   {
    "package": "com.codestark.novard",
    "name": "Nova RD",
-   "version_code": 12,
-   "version_name": "1.11",
+   "version_code": 13,
+   "version_name": "1.12",
    "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
-   "size_bytes": 78251,
-   "sha256": "59e83829222c8078f129612087da6037c875bcefe6ab54114845b93112e1572a",
-   "whats_new": "New in 1.11 — a TalkBack fix for the Confront tab; nothing else changes. In 1.10 the Confront tab quietly rebuilt its whole screen every time something landed: the member list finishing loading a few seconds after you opened the tab, picking who to tell, the cleanup finishing, even the cool-down timer ending. Every rebuild threw TalkBack back to the top and lost your place — that is what broke. Now the tab updates in place: the member list fills in without moving you, picking a person just moves the checkmark, the cleaned message lands in its box while your place stays put, and the cool-down gate panel refreshes by itself. If a piece of the screen does have to swap, your place is restored to the same control by name. Selected things now say so out loud — the picker rows, the house-group rows and your mood check-in buttons announce selected or not selected, because a checkmark and a highlight are not things TalkBack can see. Cleanup results and status changes announce politely without pulling your focus away. Everything else is exactly 1.10: Everyone is still the default, tagging works the same, and the firmness ladder, the cleanup truth check, the cool-down gate, Guard Mode and the House Log handoff are untouched.",
+   "size_bytes": 82347,
+   "sha256": "e4161c9c4d974d4d5d26f7dea5ca11239b889be82d829ffe4bc1eae03c09cdb5",
+   "whats_new": "New in 1.12 — repeat offenses now go straight to Amen by text instead of another group post. If you pick a person you've already raised something with before, Send changes its tune: it tells you plainly this one will NOT post to the group chat, reads back a short factual flag — who it's about, what the behavior is, how many times it's been raised before and when, that it happened again today, and your cleaned message as your note — and a second tap texts that flag to Amen through your messages app, privately. It finds Amen in your contacts (no number is stored in the app) and only counts the send when the phone confirms it went out; if it doesn't go out, or Amen can't be found, it says so, sends nothing, posts nothing, and your draft stays put. Only a confirmed text is recorded in your log, marked as flagged to Amen by text, so the pattern trail and the firmness ladder keep counting. First-time messages and Everyone posts still go to the group chat exactly as before, and the cool-down lock covers the text lane too. First use asks for contacts and SMS permission — Allow both, then tap Send again.",
    "category": "Life Admin",
    "required": false
   }
