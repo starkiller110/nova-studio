@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T14:40:16+00:00",
+ "generated": "2026-11-24T14:55:49+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -93,8 +93,8 @@
    "version_name": "1.12",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
    "size_bytes": 90539,
-   "sha256": "79cddbf701d54d232383416d9a4eed2f759cbbef8e50e1cbe9f98e3c5fc01206",
-   "whats_new": "New in 1.12 — the log now reaches Janelle by text, two ways. (1) Text a copy to Janelle: a new button on the Share tab texts her a plain copy of the counted log — every counted entry, oldest first, with dates, categories, what happened, and how each one stands — for her own records. First tap reads back how many entries and the date range and says plainly it will text her (not GroupMe, not the sync lane); second tap sends. (2) Auto-forward: each NEW counted entry is now texted to Janelle on its own the moment it's recorded — whether it came from Add Entry, a confirmation, your conversations with Nova, or the group-chat auto-log — so her case file grows with yours. It's on by default; the Share tab has the switch to turn it off, and a status line there says honestly if a forward ever didn't go out and why. Both ways find Janelle in your contacts (no number is stored in the app), send as a regular text message, and only ever carry counted entries — never drafts, never uncounted entries, never Watch signals. First use asks for contacts and SMS permission. Janelle's sync and web-app lane is unchanged.",
+   "sha256": "352c0b56235bccf3e0ee9268c75a448a03ace232cc42b73e99c2f34a280b935a",
+   "whats_new": "New in 1.12 — three additions, all about Janelle's records and who's involved. (1) Text a copy to Janelle: a new button on the Share tab texts her a plain copy of the counted log — every counted entry, oldest first, with dates, categories, what happened, and how each one stands — for her own records. First tap reads back how many entries and the date range and says plainly it will text her (not GroupMe, not the sync lane); second tap sends. (2) Auto-forward: each NEW counted entry is now texted to Janelle on its own the moment it's recorded — whether it came from Add Entry, a confirmation, your conversations with Nova, or the group-chat auto-log — so her case file grows with yours. It's on by default; the Share tab has the switch to turn it off, and a status line there says honestly if a forward ever didn't go out and why. (3) Tag everyone involved: an entry can now tag multiple people. On Add Entry, tap names to tag or untag them (presets, the house roster, or type a name and tap Tag this person) — everyone tagged shows on the entry, in the reports and case logs, and in Janelle's texts. Old entries keep working exactly as before. Both texting ways find Janelle in your contacts (no number is stored in the app), send as a regular text message, and only ever carry counted entries — never drafts, never uncounted entries, never Watch signals. First use asks for contacts and SMS permission. Janelle's sync and web-app lane is unchanged, and the confrontation rule is unchanged: an entry still counts only once she was told.",
    "category": "Life Admin",
    "required": false
   },
