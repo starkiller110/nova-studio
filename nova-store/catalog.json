@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T03:51:11+00:00",
+ "generated": "2026-11-24T04:01:00+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 43,
-   "version_name": "3.40",
+   "version_code": 44,
+   "version_name": "3.41",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35669734,
-   "sha256": "317d5f8709c549a69f9f2ab8bad669fcd3c00caef262afb516041ffb54cfe1a5",
-   "whats_new": "New in 3.40 — tell Nova, and it's logged. When you're talking with Nova here (Talk with Nova or Ask) and you tell her something that happened at the house — venting about Skye counts — she now decides herself whether it holds a real incident and files it into Nova House Log for you. No forms, no typing it all out. She only checks when your message actually mentions the house or the people in it, and the facts she files are the ones you stated: if you said she was confronted about it, she records that; if you didn't say, she never invents it, and the entry waits as a draft in House Log instead of counting. After she files one, she tells you right there in the conversation what she sent and which behavior she filed it under. If there's nothing loggable in what you said, she just keeps talking — nothing is filed and nothing extra is said. House Log needs its 1.11 update for this to land; if it isn't there, she'll tell you honestly instead of pretending. Everything else is exactly 3.39 — the Guide stays manual-only, conversations stay in place, and the money gates and drivers are untouched.",
+   "size_bytes": 35673830,
+   "sha256": "cd2b95fe00121f2dcdcc5504ac562e0b6b34f8a24d3c755f1f61c55d55f260f1",
+   "whats_new": "New in 3.41 — when you tell Nova to do something, she does it. The order lane is fixed end to end. Saying “Order me a surprise from Walmart” in Talk with Nova (or anywhere) now actually runs the surprise: before, that exact sentence was misheard as a shopping list containing an item called “me a surprise”, and other orders said in conversation — “order me milk and eggs”, “get my usual” — fell into chat, where she sounded like she'd handled them and nothing happened. Now every seat shares one set of ears for orders: surprise requests, item orders, your Walmart usual with or without naming Walmart, and teaching her your usual or what it costs all route to execution, never to a chat answer — and she no longer claims she ran something she didn't. Two more fixes: a surprise no longer dies just because no bank balance is verified and fresh — Walmart runs on your EBT, so your taught usual cost is the cap and she says so (a verified balance that doesn't cover it still stops her). And she learns your tastes now: take an item off a surprise cart and it goes on a don't-get list that surprises skip from then on; say “don't get me eggs again” or “I don't like liver” and she learns it on the spot; “what don't I like” reads the list back; ordering a don't-get item on purpose clears it; and items you keep through a surprise get picked more often. Her Walmart words are honest now too: she builds the cart, reads it back, takes it to checkout, and stops at the PIN step — the PIN is always yours.",
    "category": "Foundation",
    "required": true
   },
