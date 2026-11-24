@@ -149,12 +149,12 @@
   {
    "package": "com.codestark.novard",
    "name": "Nova RD",
-   "version_code": 10,
-   "version_name": "1.9",
+   "version_code": 11,
+   "version_name": "1.10",
    "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
-   "size_bytes": 70059,
-   "sha256": "c7b34f89ecda636e4415307341c632b2b7984242ec72976f885ee8f05c95a275",
-   "whats_new": "New in 1.9: the message cleanup actually lands in the cleaned box now. In 1.8 the cleaned message was written and then immediately overwritten by the draft save, which syncs from the box on screen \u2014 and that box was still empty, so RD said \"Cleaned and ready\" over an empty box. Now the model's text is stored, put into the cleaned box, and only then saved, with a hard check that what got stored really is the model's words before RD ever calls it cleaned. The 1.8 truth rules stay: an echo gets one blunt retry, and a message the model leaves unchanged is reported as unchanged, never as cleaned. Guard Mode, the House Log handoff, the gate, and Amen's rules are untouched.",
+   "size_bytes": 74155,
+   "sha256": "b3f30038234d478dd2cdaed6397ceab687f875ea63fd7300abb96385987b1da5",
+   "whats_new": "New in 1.10 \u2014 your Goldfish build (you sent it twice while learning the system; it is one feature, built once): (1) Pick who you are telling, do not type it. The Confront tab now opens with a recipient picker: \u201cEveryone \u2014 general post\u201d is the default, and the old silent default that aimed an empty target at Skye is gone. A general post goes out plain, with no tag. Pick one house member instead \u2014 the list comes from the GroupMe group itself \u2014 and the post tags them, the way you would tag someone for a package note. If the member list cannot load, a type-a-name box is still there so nothing dead-ends. (2) The cleanup now escalates. RD checks its own log for how many times this person has already been told: first time, it stays gentle; second time, firmer; third time on, the most serious register \u2014 in RD mode a formal notice tone, in Resident mode plainly serious. You hear the level out loud after the cleanup (\u201cI kept it gentle \u2014 first time raising it\u201d), and the count is the real logged count, never a guess. Escalation changes tone only: the no-sarcasm, no-name-calling, no-threats rules bind at every level, and no consequence is ever mentioned that is not already in Amen\u2019s rules. The cool-down gate, the cleanup truth check, Guard Mode and the House Log handoff are unchanged.",
    "category": "Life Admin",
    "required": false
   }
