@@ -1,16 +1,16 @@
 {
   "store_version": 1,
-  "generated": "2026-11-24T00:38:14.467350+00:00",
+  "generated": "2026-11-24T01:15:46.804811+00:00",
   "apps": [
     {
       "package": "com.codestark.novalauncher",
       "name": "Nova Launcher",
-      "version_code": 38,
-      "version_name": "3.35",
+      "version_code": 39,
+      "version_name": "3.36",
       "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-      "size_bytes": 35636966,
-      "sha256": "e6aa4b8567c7d47333681010584a807bff27dd91273c27b875e99af6b30aa2cd",
-      "whats_new": "CONVERSATION FIX. If Talk or Ask Nova told you the models didn\u2019t answer, this is the fix: Nova now builds her model list from Google\u2019s own list for your key, forgets a saved model that stops answering, and if every model name misses she re-checks Google\u2019s list once and retries on the spot. And if something still fails, she reads you Google\u2019s exact words instead of a guess.",
+      "size_bytes": 35653350,
+      "sha256": "a451bf06af554b2b7525ab7e1a377d07a059b4de834dfbe2fb977a063d388b5f",
+      "whats_new": "GOLDFISH IS HERE. There is a new Build section: describe a feature in your own words \u2014 by voice or typing \u2014 and Nova builds it. Simple features arrive as data you approve after hearing exactly what they do and what they need; Hear my builds and Hear my features read everything back; run, pause, resume, remove and put-it-back-how-it-was all work by button or voice, and Nova, stop halts a running feature. Two starters are already in: Morning Rundown and Focus Five. A feature that needs real code is escalated honestly and comes back as an app update.",
       "category": "Foundation",
       "required": true
     },
