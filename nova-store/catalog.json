@@ -149,12 +149,12 @@
   {
    "package": "com.codestark.novard",
    "name": "Nova RD",
-   "version_code": 7,
-   "version_name": "1.6",
+   "version_code": 8,
+   "version_name": "1.7",
    "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
-   "size_bytes": 65963,
-   "sha256": "5dd7ca9e6d30eaf42f1240fd364971135ac9de7886a7e8dae639dfc2d92a62f4",
-   "whats_new": "New in 1.6: a fifth standing rule, this one from Amen himself — he texted it to Cody on November 22, 2026. When Cody and Janelle are reading comics and Skye is around, move to the community room and shut the door — the kitchen is the worst place to be with her in the house. If she comes into the community room, Cody can tell her to go somewhere else. It sits with Amen's other standing rules in the Authority tab, binds every Decide call and Confront cleanup the same way, and counts in the rules banner and Guard Mode priming. Nothing else changed.",
+   "size_bytes": 70059,
+   "sha256": "d1e92b77964d6990b747e56ffc5434b23882d8b6a9f247f962c01e1b8cf8c69c",
+   "whats_new": "New in 1.7: the Gemini lane rebuilt on the Launcher's proven fast lane. The message check could die with 'I could not reach Gemini' because one model's connection failure used to end the whole attempt, the model list was fetched live on the spot, and a slow model could hang for the better part of a minute. Now the model list is cached and tried fast-first — at most four models, with gemini-2.5-flash always holding a seat — answers stream in under a roughly 20-second overall limit, a dead model is skipped instead of ending the call, a remembered model that stops existing is forgotten, and if every model comes back 404, RD refreshes the model list from Google once and retries with the best one it finds. When something does fail, the error line carries Google's own words. Nothing else changed — the gate, Guard Mode, Amen's standing rules and contingencies all work exactly as before.",
    "category": "Life Admin",
    "required": false
   }
