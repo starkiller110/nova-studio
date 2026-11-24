@@ -1,1 +1,40 @@
-{"features":[],"notices":[{"id":"notice-1795483629795-done","requestId":1795483629795,"status":"done","text":"Your build is done. House Log now asks each evening if anything happened at the house worth noting \u2014 tap the notification to log it while it's fresh. And when Guard Mode hears something, the incident now arrives in House Log as a draft for you to confirm; it never counts until you say so. Update House Log and Nova RD from the Store to get both.","ts":1795486175081},{"id":"notice-1795486889208-done","requestId":1795486889208,"status":"done","text":"Your build is done \u2014 and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone \u2014 general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before \u2014 she'll tell you which level she used. Update Nova RD from the Store to get it.","ts":1795487653454},{"id":"notice-1795487100089-done","requestId":1795487100089,"status":"done","text":"Your build is done \u2014 and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone \u2014 general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before \u2014 she'll tell you which level she used. Update Nova RD from the Store to get it.","ts":1795487653454},{"id":"notice-1795491034894-done","requestId":1795491034894,"status":"done","text":"Your build is done. You can now just tell Nova in the Launcher \u2014 Talk with Nova or Ask \u2014 what Skye did, venting included, and she decides herself whether it holds a real incident and files it into House Log for you. If you said she was confronted about it, it counts; if you didn't say, it waits as a draft and never counts on a guess. Every entry gets filed under a behavior, repeats count off the first confrontation of that behavior, and House Log's new Patterns readout on the Share tab reads the counts out loud. Update Nova Launcher and Nova House Log from the Store to get it.","ts":1795492327521}]}
+{
+ "features": [],
+ "notices": [
+  {
+   "id": "notice-1795483629795-done",
+   "requestId": 1795483629795,
+   "status": "done",
+   "text": "Your build is done. House Log now asks each evening if anything happened at the house worth noting — tap the notification to log it while it's fresh. And when Guard Mode hears something, the incident now arrives in House Log as a draft for you to confirm; it never counts until you say so. Update House Log and Nova RD from the Store to get both.",
+   "ts": 1795486175081
+  },
+  {
+   "id": "notice-1795486889208-done",
+   "requestId": 1795486889208,
+   "status": "done",
+   "text": "Your build is done — and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone — general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before — she'll tell you which level she used. Update Nova RD from the Store to get it.",
+   "ts": 1795487653454
+  },
+  {
+   "id": "notice-1795487100089-done",
+   "requestId": 1795487100089,
+   "status": "done",
+   "text": "Your build is done — and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone — general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before — she'll tell you which level she used. Update Nova RD from the Store to get it.",
+   "ts": 1795487653454
+  },
+  {
+   "id": "notice-1795491034894-done",
+   "requestId": 1795491034894,
+   "status": "done",
+   "text": "Your build is done. You can now just tell Nova in the Launcher — Talk with Nova or Ask — what Skye did, venting included, and she decides herself whether it holds a real incident and files it into House Log for you. If you said she was confronted about it, it counts; if you didn't say, it waits as a draft and never counts on a guess. Every entry gets filed under a behavior, repeats count off the first confrontation of that behavior, and House Log's new Patterns readout on the Share tab reads the counts out loud. Update Nova Launcher and Nova House Log from the Store to get it.",
+   "ts": 1795492327521
+  },
+  {
+   "id": "notice-1795494104130-done",
+   "requestId": 1795494104130,
+   "status": "done",
+   "text": "Your build is done. In Nova Launcher 3.43, Nova's voice and the live conversation are two separate switches now. \"Nova's voice\" only decides whether her replies are spoken out loud — turning it on or off never starts her listening or drops your speech into the box. \"Live conversation\" has its own switch right under it: on, she listens in place and what you say becomes your message; off, you type or tap Speak, nothing auto-inserts. The Nova AI screen also opens in Talk by default now, and rides said naturally — \"I need a ride to church\", or just \"order me an Uber\" and she'll ask \"Where to?\" — actually book. Update Nova Launcher from the Store to get it.",
+   "ts": 1795494896774
+  }
+ ]
+}
