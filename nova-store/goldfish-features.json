@@ -1,173 +1,180 @@
 {
-    "features": [],
-    "notices": [
-        {
-            "id": "notice-1795483629795-done",
-            "requestId": 1795483629795,
-            "status": "done",
-            "text": "Your build is done. House Log now asks each evening if anything happened at the house worth noting \u2014 tap the notification to log it while it's fresh. And when Guard Mode hears something, the incident now arrives in House Log as a draft for you to confirm; it never counts until you say so. Update House Log and Nova RD from the Store to get both.",
-            "ts": 1795486175081
-        },
-        {
-            "id": "notice-1795486889208-done",
-            "requestId": 1795486889208,
-            "status": "done",
-            "text": "Your build is done \u2014 and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone \u2014 general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before \u2014 she'll tell you which level she used. Update Nova RD from the Store to get it.",
-            "ts": 1795487653454
-        },
-        {
-            "id": "notice-1795487100089-done",
-            "requestId": 1795487100089,
-            "status": "done",
-            "text": "Your build is done \u2014 and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone \u2014 general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before \u2014 she'll tell you which level she used. Update Nova RD from the Store to get it.",
-            "ts": 1795487653454
-        },
-        {
-            "id": "notice-1795491034894-done",
-            "requestId": 1795491034894,
-            "status": "done",
-            "text": "Your build is done. You can now just tell Nova in the Launcher \u2014 Talk with Nova or Ask \u2014 what Skye did, venting included, and she decides herself whether it holds a real incident and files it into House Log for you. If you said she was confronted about it, it counts; if you didn't say, it waits as a draft and never counts on a guess. Every entry gets filed under a behavior, repeats count off the first confrontation of that behavior, and House Log's new Patterns readout on the Share tab reads the counts out loud. Update Nova Launcher and Nova House Log from the Store to get it.",
-            "ts": 1795492327521
-        },
-        {
-            "id": "notice-1795494104130-done",
-            "requestId": 1795494104130,
-            "status": "done",
-            "text": "Your build is done. In Nova Launcher 3.43, Nova's voice and the live conversation are two separate switches now. \"Nova's voice\" only decides whether her replies are spoken out loud \u2014 turning it on or off never starts her listening or drops your speech into the box. \"Live conversation\" has its own switch right under it: on, she listens in place and what you say becomes your message; off, you type or tap Speak, nothing auto-inserts. The Nova AI screen also opens in Talk by default now, and rides said naturally \u2014 \"I need a ride to church\", or just \"order me an Uber\" and she'll ask \"Where to?\" \u2014 actually book. Update Nova Launcher from the Store to get it.",
-            "ts": 1795494896774
-        },
-        {
-            "id": "notice-1795495340266-done",
-            "requestId": 1795495340266,
-            "status": "done",
-            "text": "Your build is done. In Nova Launcher 3.44, scheduling an Uber in advance works the way you say it \u2014 \"schedule an Uber to church for tomorrow at 9\", \"book me an Uber for tomorrow at 9\", \"I need a ride tomorrow morning\", \"get me an Uber for Tuesday at 3\" \u2014 and she recognizes it as scheduling, not a ride right now. She makes a ride plan, tells you the day and time and when she'll actually book it (the leave time), and if you leave out the place or the time she asks for just that one piece. And the boot-out is fixed: scheduling never opens the Uber app and never throws you out of your conversation \u2014 in Talk with Nova the plan is made and confirmed right there and you keep talking; the booking itself happens at leave time, like your other ride plans. Update Nova Launcher from the Store to get it.",
-            "ts": 1795495970368
-        },
-        {
-            "id": "notice-1795494001648-done",
-            "requestId": 1795494001648,
-            "status": "done",
-            "text": "Your build is done \u2014 all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say \u201csend a message to Aaron saying I'll be there at 7\u201d \u2014 and yes, that \u201cAir\u201d was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded \u2014 and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying \u201csend a message\u201d IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks \u201cWho to?\u201d; leave out the words and she asks \u201cWhat should it say?\u201d Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission \u2014 tap Allow once. Update Nova Launcher from the Store to get it.",
-            "ts": 1795498684355
-        },
-        {
-            "id": "notice-1795496979649-done",
-            "requestId": 1795496979649,
-            "status": "done",
-            "text": "Your build is done \u2014 all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say \u201csend a message to Aaron saying I'll be there at 7\u201d \u2014 and yes, that \u201cAir\u201d was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded \u2014 and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying \u201csend a message\u201d IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks \u201cWho to?\u201d; leave out the words and she asks \u201cWhat should it say?\u201d Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission \u2014 tap Allow once. Update Nova Launcher from the Store to get it.",
-            "ts": 1795498684355
-        },
-        {
-            "id": "notice-1795493976157-done",
-            "requestId": 1795493976157,
-            "status": "done",
-            "text": "Your build is done \u2014 all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say \u201csend a message to Aaron saying I'll be there at 7\u201d \u2014 and yes, that \u201cAir\u201d was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded \u2014 and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying \u201csend a message\u201d IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks \u201cWho to?\u201d; leave out the words and she asks \u201cWhat should it say?\u201d Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission \u2014 tap Allow once. Update Nova Launcher from the Store to get it.",
-            "ts": 1795498684355
-        },
-        {
-            "id": "notice-1795496907338-done",
-            "requestId": 1795496907338,
-            "status": "done",
-            "text": "Your build is done \u2014 all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say \u201csend a message to Aaron saying I'll be there at 7\u201d \u2014 and yes, that \u201cAir\u201d was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded \u2014 and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying \u201csend a message\u201d IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks \u201cWho to?\u201d; leave out the words and she asks \u201cWhat should it say?\u201d Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission \u2014 tap Allow once. Update Nova Launcher from the Store to get it.",
-            "ts": 1795498684355
-        },
-        {
-            "id": "notice-1795525174233-done",
-            "requestId": 1795525174233,
-            "status": "done",
-            "text": "Your build is done. Nova RD now handles repeat offenses the way you asked: instead of posting in the group chat again, a repeat gets flagged straight to Amen in a private text through your messages app \u2014 RD reads the exact flag back to you first, and only a confirmed send gets recorded in your log. Update Nova RD from the Store to get it.",
-            "ts": 1795526949435
-        },
-        {
-            "id": "notice-1795528619864-done",
-            "requestId": 1795528619864,
-            "status": "done",
-            "text": "Your build is done. Nova House Log's Share tab now has a \"Text a copy to Janelle\" button: it texts her a plain copy of the counted log \u2014 every counted entry, oldest first \u2014 so she can maintain her records. It reads back the entry count and date range first, finds Janelle in your contacts, and only counted entries ever go \u2014 never drafts or uncounted entries. Update Nova House Log from the Store to get it.",
-            "ts": 1795531231570
-        },
-        {
-            "id": "notice-1795530630899-done",
-            "requestId": 1795530630899,
-            "status": "done",
-            "text": "Your build is done. Nova House Log now auto-forwards to Janelle: each NEW counted entry is texted to her on its own the moment it's recorded, so her case file strengthens as yours grows. It's on by default \u2014 the Share tab has the switch and a status line that says honestly if a forward ever didn't go out. Update Nova House Log from the Store to get it.",
-            "ts": 1795531231570
-        },
-        {
-            "id": "notice-1795531675378-done",
-            "requestId": 1795531675378,
-            "status": "done",
-            "text": "Your build is done. Nova House Log entries can now tag multiple people: on Add Entry, tap names to tag everyone an incident involved \u2014 presets, the house roster, or a typed name \u2014 and tap again to untag. Everyone tagged shows on the entry, in the reports and each person's case log, and in the copies texted to Janelle. Old entries work unchanged. Update Nova House Log from the Store to get it.",
-            "ts": 1795532149416
-        },
-        {
-            "id": "notice-1795533521752-done",
-            "requestId": 1795533521752,
-            "status": "done",
-            "text": "Your build is done. Nova Launcher's Talk/Ask is fixed: she now leads with the newest Gemini Flash your key actually supports \u2014 she asks Google for your key's real model list and orders it newest-Flash-first \u2014 instead of the old lite models, and the crashes are hardened out: a bad or half-arrived answer, or an error mid-stream, now becomes a plain spoken line and the conversation stays put instead of the app dying. Update Nova Launcher from the Store to get it, then open Talk with Nova and chat \u2014 the first conversation also refreshes her model list from Google.",
-            "ts": 1795534938703
-        },
-        {
-            "id": "notice-1795536292450-done",
-            "requestId": 1795536292450,
-            "status": "done",
-            "text": "Your build is done. Nova Launcher 3.47 fixes the \u201cdeveloper instruction is not enabled for this model\u201d error (code 400): when a model refuses Nova's instruction field, she now retries that same model with her instructions folded into the first message instead, and she remembers which models want it that way \u2014 so Talk and Ask just work on the newest models your key gets. Update Nova Launcher from the Store to get it.",
-            "ts": 1795537569420
-        },
-        {
-            "id": "notice-1795536994249-done",
-            "requestId": 1795536994249,
-            "status": "done",
-            "text": "Your build is done \u2014 both halves of it, since the second message finished the first one's sentence. Nova House Log 1.13 adds the common-area camera watch: on the Watch tab, turn it on when you're in the kitchen, the community room, or any shared space with your phone in hand. Every few seconds it takes a photo and checks whether it shows a mess; when it does, it saves the photo, describes it back to you out loud, and files a draft on the Drafts tab with the photo attached \u2014 never counted, never reported, until you review it. Photos also join the log by hand now: Add Entry and every draft can take or pick a photo, described back to you when you attach it. Honest bits: Android makes the watch show a notification the whole time it's on, it uses your Gemini key to check photos (it borrows the Launcher's), and photos stay on your phone \u2014 Janelle's texts note that a photo exists but don't carry it yet. Update House Log from the Store.",
-            "ts": 1795538095930
-        },
-        {
-            "id": "notice-1795537019833-done",
-            "requestId": 1795537019833,
-            "status": "done",
-            "text": "Your build is done \u2014 both halves of it, since the second message finished the first one's sentence. Nova House Log 1.13 adds the common-area camera watch: on the Watch tab, turn it on when you're in the kitchen, the community room, or any shared space with your phone in hand. Every few seconds it takes a photo and checks whether it shows a mess; when it does, it saves the photo, describes it back to you out loud, and files a draft on the Drafts tab with the photo attached \u2014 never counted, never reported, until you review it. Photos also join the log by hand now: Add Entry and every draft can take or pick a photo, described back to you when you attach it. Honest bits: Android makes the watch show a notification the whole time it's on, it uses your Gemini key to check photos (it borrows the Launcher's), and photos stay on your phone \u2014 Janelle's texts note that a photo exists but don't carry it yet. Update House Log from the Store.",
-            "ts": 1795538095930
-        },
-        {
-            "id": "notice-1795540127731-done",
-            "requestId": 1795540127731,
-            "status": "done",
-            "text": "Your build is done. Nova House Log 1.14 lets you send Janelle one single entry: on the Log tab, every entry card now has a \"Text this entry to Janelle\" button. Tap it and Nova reads back the entry's date and what it's about, and says plainly it goes as a text \u2014 not GroupMe, not sync. Tap again and just that entry goes to her, headed \"House Log entry \u2014 for your records.\", with everybody tagged on it named and the photo note included if it has one (the photo itself stays on your phone). Counted entries only \u2014 an uncounted entry refuses out loud and sends nothing. The whole-log copy and the automatic forwarding of new entries still work exactly as before. Update Nova House Log from the Store to get it.",
-            "ts": 1795542618572
-        },
-        {
-            "id": "notice-1795539889898-done",
-            "requestId": 1795539889898,
-            "status": "done",
-            "text": "Your build is done. Nova Launcher 3.48 fixes the failure message you caught after 3.47: when an ask failed she blamed slammed Gemini keys/models, but the real problem was the network. Her error sorting lumped Google's server errors in with the genuine slammed answer, and one server error outranked every connection failure in the same ask. Now she names the real cause: a failed connection is spoken as a network problem (not your key), the slammed line is only spoken when Google actually sends its high-demand answer \u2014 with Google's own words included \u2014 and a Google server error is called a server error. If the phone has no network at all, she says so up front. Update Nova Launcher from the Store to get it.",
-            "ts": 1795542790133
-        },
-        {
-            "id": "notice-1795544069573-done",
-            "requestId": 1795544069573,
-            "status": "done",
-            "text": "Your build is done. You said the AI failure was a network problem, not a key or quota problem \u2014 and your next report pinned it down: the connection was timing out on the Google model. Launcher 3.49 rebuilds how she handles a hung connection: short connect limit, an eight-second cap on a hung answer, one fresh-connection retry per model, a stop after three timeouts in a row, and a fallback to the plain answer path when the streaming path hangs. Update Nova Launcher from the Store, then try Talk again \u2014 if it still fails, tell me the exact words she says.",
-            "ts": 1795556439522
-        },
-        {
-            "id": "notice-1795550078689-done",
-            "requestId": 1795550078689,
-            "status": "done",
-            "text": "Your build is done \u2014 this was your follow-up report that she was saying the connection timed out on the Google model. That report is what Launcher 3.49 fixes: hung connections are cut fast, retried once on a fresh connection, and if the streaming path hangs she tries the plain answer path before giving up. Update Nova Launcher from the Store and test Talk again; if she still times out, send me her exact words.",
-            "ts": 1795556439522
-        },
-        {
-            "id": "notice-1795558664116-done",
-            "requestId": 1795558664116,
-            "status": "done",
-            "text": "Your build is done. House Log 1.15 sends logs to Amen as well: the Share tab has a \"Text a copy to Amen\" button for the whole counted log, \"Auto-forward new entries to Amen\" is on so each new counted entry texts him as it's recorded, and every entry card has a \"Text this entry to Amen\" button \u2014 all counted-only, all found through your contacts by name, nothing hardcoded. Update Nova House Log from the Store to get it.",
-            "ts": 1795559297900
-        },
-        {
-            "id": "notice-1795562990576-done",
-            "requestId": 1795562990576,
-            "status": "done",
-            "text": "Your build is done. Launcher 3.50 gives Google a real chance to answer: connection start up to five seconds, a slow answer up to twenty seconds, and up to a full minute across models before she gives up \u2014 fast answers still come back fast. And the error code you couldn't catch is now captured: she says it plainly in the failure line (\"Google answered with error 503\" plus Google's words), even mixed with timeouts, and the new \"Hear the last AI failure\" button in Talk/Ask replays the exact failure any time. Update Nova Launcher from the Store and test Talk again; if she still fails, tap that button and tell me her exact words.",
-            "ts": 1795563540254
-        }
-    ]
+ "features": [],
+ "notices": [
+  {
+   "id": "notice-1795483629795-done",
+   "requestId": 1795483629795,
+   "status": "done",
+   "text": "Your build is done. House Log now asks each evening if anything happened at the house worth noting — tap the notification to log it while it's fresh. And when Guard Mode hears something, the incident now arrives in House Log as a draft for you to confirm; it never counts until you say so. Update House Log and Nova RD from the Store to get both.",
+   "ts": 1795486175081
+  },
+  {
+   "id": "notice-1795486889208-done",
+   "requestId": 1795486889208,
+   "status": "done",
+   "text": "Your build is done — and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone — general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before — she'll tell you which level she used. Update Nova RD from the Store to get it.",
+   "ts": 1795487653454
+  },
+  {
+   "id": "notice-1795487100089-done",
+   "requestId": 1795487100089,
+   "status": "done",
+   "text": "Your build is done — and the double send was no problem, I built it once. Nova RD now lets you pick who a message is for instead of typing a name: \"Everyone — general post\" is the default, so a general message goes to the whole house and nobody is singled out unless you pick them. Pick a person from the list and the post tags them, like a package note. And the cleanup now sets how firm to be on its own: gentle the first time you raise something with someone, firmer if it's been raised before — she'll tell you which level she used. Update Nova RD from the Store to get it.",
+   "ts": 1795487653454
+  },
+  {
+   "id": "notice-1795491034894-done",
+   "requestId": 1795491034894,
+   "status": "done",
+   "text": "Your build is done. You can now just tell Nova in the Launcher — Talk with Nova or Ask — what Skye did, venting included, and she decides herself whether it holds a real incident and files it into House Log for you. If you said she was confronted about it, it counts; if you didn't say, it waits as a draft and never counts on a guess. Every entry gets filed under a behavior, repeats count off the first confrontation of that behavior, and House Log's new Patterns readout on the Share tab reads the counts out loud. Update Nova Launcher and Nova House Log from the Store to get it.",
+   "ts": 1795492327521
+  },
+  {
+   "id": "notice-1795494104130-done",
+   "requestId": 1795494104130,
+   "status": "done",
+   "text": "Your build is done. In Nova Launcher 3.43, Nova's voice and the live conversation are two separate switches now. \"Nova's voice\" only decides whether her replies are spoken out loud — turning it on or off never starts her listening or drops your speech into the box. \"Live conversation\" has its own switch right under it: on, she listens in place and what you say becomes your message; off, you type or tap Speak, nothing auto-inserts. The Nova AI screen also opens in Talk by default now, and rides said naturally — \"I need a ride to church\", or just \"order me an Uber\" and she'll ask \"Where to?\" — actually book. Update Nova Launcher from the Store to get it.",
+   "ts": 1795494896774
+  },
+  {
+   "id": "notice-1795495340266-done",
+   "requestId": 1795495340266,
+   "status": "done",
+   "text": "Your build is done. In Nova Launcher 3.44, scheduling an Uber in advance works the way you say it — \"schedule an Uber to church for tomorrow at 9\", \"book me an Uber for tomorrow at 9\", \"I need a ride tomorrow morning\", \"get me an Uber for Tuesday at 3\" — and she recognizes it as scheduling, not a ride right now. She makes a ride plan, tells you the day and time and when she'll actually book it (the leave time), and if you leave out the place or the time she asks for just that one piece. And the boot-out is fixed: scheduling never opens the Uber app and never throws you out of your conversation — in Talk with Nova the plan is made and confirmed right there and you keep talking; the booking itself happens at leave time, like your other ride plans. Update Nova Launcher from the Store to get it.",
+   "ts": 1795495970368
+  },
+  {
+   "id": "notice-1795494001648-done",
+   "requestId": 1795494001648,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795496979649-done",
+   "requestId": 1795496979649,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795493976157-done",
+   "requestId": 1795493976157,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795496907338-done",
+   "requestId": 1795496907338,
+   "status": "done",
+   "text": "Your build is done — all four of those requests were really one build, and it's in Nova Launcher 3.45. Nova has hands now: her hands are the send button. Say “send a message to Aaron saying I'll be there at 7” — and yes, that “Air” was Aaron, your example man, he resolves through your contacts like anybody else, nobody's hardcoded — and she finds him, writes it, presses send herself, and tells you the exact words she sent. No send button for you to tap, no draft to approve: saying “send a message” IS the go-ahead. Name a humor and she writes it in it: funny, sarcastic, dry, a light roast, sweet, professional, short and sweet. No style named, your exact words go out untouched. Leave out the person and she asks “Who to?”; leave out the words and she asks “What should it say?” Talking about a text you already sent sends nothing. One honest note: these send as regular SMS, not RCS. First time only, Android asks for contacts and texting permission — tap Allow once. Update Nova Launcher from the Store to get it.",
+   "ts": 1795498684355
+  },
+  {
+   "id": "notice-1795525174233-done",
+   "requestId": 1795525174233,
+   "status": "done",
+   "text": "Your build is done. Nova RD now handles repeat offenses the way you asked: instead of posting in the group chat again, a repeat gets flagged straight to Amen in a private text through your messages app — RD reads the exact flag back to you first, and only a confirmed send gets recorded in your log. Update Nova RD from the Store to get it.",
+   "ts": 1795526949435
+  },
+  {
+   "id": "notice-1795528619864-done",
+   "requestId": 1795528619864,
+   "status": "done",
+   "text": "Your build is done. Nova House Log's Share tab now has a \"Text a copy to Janelle\" button: it texts her a plain copy of the counted log — every counted entry, oldest first — so she can maintain her records. It reads back the entry count and date range first, finds Janelle in your contacts, and only counted entries ever go — never drafts or uncounted entries. Update Nova House Log from the Store to get it.",
+   "ts": 1795531231570
+  },
+  {
+   "id": "notice-1795530630899-done",
+   "requestId": 1795530630899,
+   "status": "done",
+   "text": "Your build is done. Nova House Log now auto-forwards to Janelle: each NEW counted entry is texted to her on its own the moment it's recorded, so her case file strengthens as yours grows. It's on by default — the Share tab has the switch and a status line that says honestly if a forward ever didn't go out. Update Nova House Log from the Store to get it.",
+   "ts": 1795531231570
+  },
+  {
+   "id": "notice-1795531675378-done",
+   "requestId": 1795531675378,
+   "status": "done",
+   "text": "Your build is done. Nova House Log entries can now tag multiple people: on Add Entry, tap names to tag everyone an incident involved — presets, the house roster, or a typed name — and tap again to untag. Everyone tagged shows on the entry, in the reports and each person's case log, and in the copies texted to Janelle. Old entries work unchanged. Update Nova House Log from the Store to get it.",
+   "ts": 1795532149416
+  },
+  {
+   "id": "notice-1795533521752-done",
+   "requestId": 1795533521752,
+   "status": "done",
+   "text": "Your build is done. Nova Launcher's Talk/Ask is fixed: she now leads with the newest Gemini Flash your key actually supports — she asks Google for your key's real model list and orders it newest-Flash-first — instead of the old lite models, and the crashes are hardened out: a bad or half-arrived answer, or an error mid-stream, now becomes a plain spoken line and the conversation stays put instead of the app dying. Update Nova Launcher from the Store to get it, then open Talk with Nova and chat — the first conversation also refreshes her model list from Google.",
+   "ts": 1795534938703
+  },
+  {
+   "id": "notice-1795536292450-done",
+   "requestId": 1795536292450,
+   "status": "done",
+   "text": "Your build is done. Nova Launcher 3.47 fixes the “developer instruction is not enabled for this model” error (code 400): when a model refuses Nova's instruction field, she now retries that same model with her instructions folded into the first message instead, and she remembers which models want it that way — so Talk and Ask just work on the newest models your key gets. Update Nova Launcher from the Store to get it.",
+   "ts": 1795537569420
+  },
+  {
+   "id": "notice-1795536994249-done",
+   "requestId": 1795536994249,
+   "status": "done",
+   "text": "Your build is done — both halves of it, since the second message finished the first one's sentence. Nova House Log 1.13 adds the common-area camera watch: on the Watch tab, turn it on when you're in the kitchen, the community room, or any shared space with your phone in hand. Every few seconds it takes a photo and checks whether it shows a mess; when it does, it saves the photo, describes it back to you out loud, and files a draft on the Drafts tab with the photo attached — never counted, never reported, until you review it. Photos also join the log by hand now: Add Entry and every draft can take or pick a photo, described back to you when you attach it. Honest bits: Android makes the watch show a notification the whole time it's on, it uses your Gemini key to check photos (it borrows the Launcher's), and photos stay on your phone — Janelle's texts note that a photo exists but don't carry it yet. Update House Log from the Store.",
+   "ts": 1795538095930
+  },
+  {
+   "id": "notice-1795537019833-done",
+   "requestId": 1795537019833,
+   "status": "done",
+   "text": "Your build is done — both halves of it, since the second message finished the first one's sentence. Nova House Log 1.13 adds the common-area camera watch: on the Watch tab, turn it on when you're in the kitchen, the community room, or any shared space with your phone in hand. Every few seconds it takes a photo and checks whether it shows a mess; when it does, it saves the photo, describes it back to you out loud, and files a draft on the Drafts tab with the photo attached — never counted, never reported, until you review it. Photos also join the log by hand now: Add Entry and every draft can take or pick a photo, described back to you when you attach it. Honest bits: Android makes the watch show a notification the whole time it's on, it uses your Gemini key to check photos (it borrows the Launcher's), and photos stay on your phone — Janelle's texts note that a photo exists but don't carry it yet. Update House Log from the Store.",
+   "ts": 1795538095930
+  },
+  {
+   "id": "notice-1795540127731-done",
+   "requestId": 1795540127731,
+   "status": "done",
+   "text": "Your build is done. Nova House Log 1.14 lets you send Janelle one single entry: on the Log tab, every entry card now has a \"Text this entry to Janelle\" button. Tap it and Nova reads back the entry's date and what it's about, and says plainly it goes as a text — not GroupMe, not sync. Tap again and just that entry goes to her, headed \"House Log entry — for your records.\", with everybody tagged on it named and the photo note included if it has one (the photo itself stays on your phone). Counted entries only — an uncounted entry refuses out loud and sends nothing. The whole-log copy and the automatic forwarding of new entries still work exactly as before. Update Nova House Log from the Store to get it.",
+   "ts": 1795542618572
+  },
+  {
+   "id": "notice-1795539889898-done",
+   "requestId": 1795539889898,
+   "status": "done",
+   "text": "Your build is done. Nova Launcher 3.48 fixes the failure message you caught after 3.47: when an ask failed she blamed slammed Gemini keys/models, but the real problem was the network. Her error sorting lumped Google's server errors in with the genuine slammed answer, and one server error outranked every connection failure in the same ask. Now she names the real cause: a failed connection is spoken as a network problem (not your key), the slammed line is only spoken when Google actually sends its high-demand answer — with Google's own words included — and a Google server error is called a server error. If the phone has no network at all, she says so up front. Update Nova Launcher from the Store to get it.",
+   "ts": 1795542790133
+  },
+  {
+   "id": "notice-1795544069573-done",
+   "requestId": 1795544069573,
+   "status": "done",
+   "text": "Your build is done. You said the AI failure was a network problem, not a key or quota problem — and your next report pinned it down: the connection was timing out on the Google model. Launcher 3.49 rebuilds how she handles a hung connection: short connect limit, an eight-second cap on a hung answer, one fresh-connection retry per model, a stop after three timeouts in a row, and a fallback to the plain answer path when the streaming path hangs. Update Nova Launcher from the Store, then try Talk again — if it still fails, tell me the exact words she says.",
+   "ts": 1795556439522
+  },
+  {
+   "id": "notice-1795550078689-done",
+   "requestId": 1795550078689,
+   "status": "done",
+   "text": "Your build is done — this was your follow-up report that she was saying the connection timed out on the Google model. That report is what Launcher 3.49 fixes: hung connections are cut fast, retried once on a fresh connection, and if the streaming path hangs she tries the plain answer path before giving up. Update Nova Launcher from the Store and test Talk again; if she still times out, send me her exact words.",
+   "ts": 1795556439522
+  },
+  {
+   "id": "notice-1795558664116-done",
+   "requestId": 1795558664116,
+   "status": "done",
+   "text": "Your build is done. House Log 1.15 sends logs to Amen as well: the Share tab has a \"Text a copy to Amen\" button for the whole counted log, \"Auto-forward new entries to Amen\" is on so each new counted entry texts him as it's recorded, and every entry card has a \"Text this entry to Amen\" button — all counted-only, all found through your contacts by name, nothing hardcoded. Update Nova House Log from the Store to get it.",
+   "ts": 1795559297900
+  },
+  {
+   "id": "notice-1795562990576-done",
+   "requestId": 1795562990576,
+   "status": "done",
+   "text": "Your build is done. Launcher 3.50 gives Google a real chance to answer: connection start up to five seconds, a slow answer up to twenty seconds, and up to a full minute across models before she gives up — fast answers still come back fast. And the error code you couldn't catch is now captured: she says it plainly in the failure line (\"Google answered with error 503\" plus Google's words), even mixed with timeouts, and the new \"Hear the last AI failure\" button in Talk/Ask replays the exact failure any time. Update Nova Launcher from the Store and test Talk again; if she still fails, tap that button and tell me her exact words.",
+   "ts": 1795563540254
+  },
+  {
+   "id": "notice-1795566945273-done",
+   "requestId": 1795566945273,
+   "status": "done",
+   "text": "Your build is done. House Log can now send the log to Bobby as well — she has the same three lanes Janelle and Amen have: a \"Text a copy to Bobby\" button on the Share tab texts her the whole counted log behind the same two-tap readback, \"Auto-forward new entries to Bobby\" starts ON so each new counted entry texts her by itself as it's recorded, and every counted entry card has a \"Text this entry to Bobby\" button. Counted entries only, found in your contacts by the name Bobby — no number stored — and if nobody matches or more than one person could be her, nothing goes out and she says why. Update Nova House Log from the Store to get it.",
+   "ts": 1795567412874
+  }
+ ]
 }
