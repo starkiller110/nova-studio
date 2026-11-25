@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-24T23:38:53+00:00",
+ "generated": "2026-11-25T01:42:47+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -89,12 +89,12 @@
   {
    "package": "com.codestark.novahouselog",
    "name": "Nova House Log",
-   "version_code": 17,
-   "version_name": "1.16",
+   "version_code": 18,
+   "version_name": "1.17",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
-   "size_bytes": 115115,
-   "sha256": "5128d6576b696e4b062ef257346499854c6c2f29436eb590dae18e273e69f7ca",
-   "whats_new": "New in 1.16 — the log goes to Bobby as well. You asked for the log files to be sent to Bobby too, so she now has the same three texting lanes Janelle and Amen have. On the Share tab, a new \"Text a copy to Bobby\" button texts her the whole counted log: the first tap reads back the entry count and date range and says plainly it will go as a text message to Bobby — not GroupMe, not the sync lane — and the second tap sends it. Below it, \"Auto-forward new entries to Bobby\" starts ON: each new counted entry is texted to Bobby by itself the moment it's recorded, from the same recording lanes that forward to Janelle and Amen; entries arriving through sync are never forwarded to anyone. And every entry card on the Log tab now has a \"Text this entry to Bobby\" button beside Amen's — same two-tap readback with the entry's date and the start of its note, same counted-only rule: an entry that isn't counted yet refuses in plain words and sends nothing, a test entry refuses as practice only, and drafts have no send buttons at all. The text itself is the same one Janelle and Amen get — headed \"House Log entry — for your records.\", everyone tagged named, the confrontation facts, and the \"(photo attached, on this phone)\" line when there's a photo (the photo itself is never sent). Bobby is found in your contacts by the name Bobby — no phone number is stored in the app — and if no contact matches, or more than one could be her, nothing goes out and the app says why in plain words. Every send reports honestly on the spot: sent, did NOT go out, or handed to the radio but unconfirmed. Janelle's and Amen's lanes work exactly as before.",
+   "size_bytes": 127403,
+   "sha256": "732a81722c30ca28eeb2606f3f605a0891cf60b8d874d1c62ff786f9d7ad9c37",
+   "whats_new": "New in 1.17 — standing categories, airtight paperwork, and the chat search. A behavior you have confronted over and over for a long time — kitchen cleaning is the big one — can now be made a standing category: fill in who raised it with her, roughly when (backfilled dates are labeled approximate / best-remembered), and whether escalation was named, and every new entry in it counts right away, with its repeat number and the first-confronted line on the record. Standing confrontations never expire. The paperwork can't have holes anymore: an entry can't count or be forwarded until every field is answered — filled in, or marked none / not recorded — and the app names what's still missing in plain words. There's a new 'Search the chats for this' button on entries and on standing categories: it searches both house GroupMe chats for the same issue (you can review or edit the search words first) and attaches what it finds word for word, with who said it, GroupMe's own time stamp, and the message ID, so Bobby and Jordan can find the same messages themselves. Staff warnings from Amen, Bobby, Jordan, or Bobbi are counted separately. A search that finds nothing is recorded too, and a hit you flag 'not relevant' stays on the record with your reason — nothing is ever deleted. Pattern summaries are now worked out by the app from the entries themselves, and a category with 5 or more counted repeats, or a span of 60 or more days, gets a chronic-tier pattern summary you can text to Janelle, Amen, or Bobby instead of a single entry. And counted entries can't be deleted or overwritten anymore: fixes are added as dated corrections, marked added later, and the original always stays. No new permissions.",
    "category": "Life Admin",
    "required": false
   },
