@@ -1,16 +1,16 @@
 {
  "store_version": 1,
- "generated": "2026-11-26T14:31:17Z",
+ "generated": "2026-11-26T14:52:14Z",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
    "name": "Nova Launcher",
-   "version_code": 56,
-   "version_name": "3.53",
+   "version_code": 57,
+   "version_name": "3.54",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
-   "size_bytes": 35714790,
-   "sha256": "578d0f30212e84a31fc46513f9cfa79b7b94313d3a4709a50dac0809858043f8",
-   "whats_new": "New in 3.53 — Entertainment this week: your weekly entertainment budget now lives in the Launcher itself, in the My Balance section, and works fully offline — no chat Nova, no network, no Gemini needed. The weekly number is worked out on the phone from your stored budget figures (defaults are your November numbers: $1,735 income, $457 rent, $25 phone, $35 subscriptions, $165 Uber float reserve, $300 essentials, $50 buffer — a $703 monthly pool, $162 a week), and every figure is changeable right on the card. Weeks start Monday: go over one week and the overage comes off next week's number automatically, and a bigger debt keeps rolling until it's paid down. Nova logs what she buys for you automatically — a completed Dunkin order counts against the budget the moment it goes through and the report says how much is left; Walmart groceries and Uber rides do NOT count. You can also tell her a spend yourself (\"I spent $20 on entertainment\"), ask \"entertainment budget\" any time, or pin one week by saying \"set this week's entertainment budget to $100\" — the pin ends Monday. Anything Nova didn't buy is caught by the Monday bank sweep in chat.",
+   "size_bytes": 35718886,
+   "sha256": "b25c14860f41edecea0d54311875a70adb5cb615bfa8386f5319a53f13cc684d",
+   "whats_new": "New in 3.54 — Bank sync: your Launcher now sees your real bank. Connect My Bank linked Plaid to Nova in chat — now the phone gets the numbers too. Nova in chat publishes a small balance snapshot about every half hour (your bank balance plus what you've spent on entertainment this week), and the Launcher fetches it: My Balance runs on a verified bank balance, stamped with the snapshot's own time so its age is always honest, and money decisions only trust it while it's fresh. The Entertainment card folds in the bank's view too — if the bank saw entertainment spending Nova didn't buy for you, the week's spent goes up (never down) and the card says how much came from your bank. Ask \"what's my bank balance\" at the hub or in Talk and she answers from the snapshot with its age. One setup step: Nova in chat gives you a sync code — paste it once into the Bank sync code box in My Balance and tap Save. No code, no change: everything works exactly as 3.53.",
    "category": "Foundation",
    "required": true
   },
