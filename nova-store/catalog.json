@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-26T13:16:45+00:00",
+ "generated": "2026-11-26T13:24:00+00:00",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -9,7 +9,7 @@
    "version_name": "3.51",
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
    "size_bytes": 35714790,
-   "sha256": "6c68ee62c53b2ab40b26fa9fb341b1ad573b543d477edccb5d4a97ee2c93980d",
+   "sha256": "dc182509e468d15b491f873f0410dacfd8ad3e353a234f96100739f47183fb26",
    "whats_new": "New in 3.51 — the model walk is rebuilt around how Google actually fails. You hit two walls: a quota line that claimed your whole free quota was gone when it wasn't, and a 'Google never got the chance to answer' line while untried models sat in the list. What changed: (1) When a model fails — a per-minute rate-limit spike, a used-up quota, an invalid model, a timeout — she now CYCLES THROUGH EVERY MODEL your key supports before giving a final answer, and a timeout counts as that model failing, not the whole ask dying. (2) Each model gets its own slice of the time budget, so one slow model can't eat the whole minute and starve the rest. (3) Every switch is announced in the app as it happens — one short line naming the model, the plain reason ('rate-limited for this minute', 'not offered on this key', 'didn't answer in time'), and the next model she's moving to. (4) The final failure line only claims quota trouble when models actually said quota, and it now tells a per-minute spike apart from a daily quota that's used up — plus a breakdown of what actually happened: how many models timed out, how many said quota, how many weren't offered on your key. That same breakdown is what 'Hear the last AI failure' replays, so when you experiment, the exact words will tell us which wall it really is. (5) A model that answers quota gets remembered for an hour and is tried last next time instead of first. Also in this round: every other Nova app now borrows this key properly — see their updates.",
    "category": "Foundation",
    "required": true
