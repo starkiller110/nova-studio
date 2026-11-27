@@ -1,6 +1,6 @@
 {
  "store_version": 1,
- "generated": "2026-11-26T14:52:14Z",
+ "generated": "2026-11-27T16:39:15Z",
  "apps": [
   {
    "package": "com.codestark.novalauncher",
@@ -10,7 +10,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=127yn9h8FcBejsk6OZLImFEsGyVpNJCIp&export=download&confirm=t",
    "size_bytes": 35718886,
    "sha256": "b25c14860f41edecea0d54311875a70adb5cb615bfa8386f5319a53f13cc684d",
-   "whats_new": "New in 3.54 — Bank sync: your Launcher now sees your real bank. Connect My Bank linked Plaid to Nova in chat — now the phone gets the numbers too. Nova in chat publishes a small balance snapshot about every half hour (your bank balance plus what you've spent on entertainment this week), and the Launcher fetches it: My Balance runs on a verified bank balance, stamped with the snapshot's own time so its age is always honest, and money decisions only trust it while it's fresh. The Entertainment card folds in the bank's view too — if the bank saw entertainment spending Nova didn't buy for you, the week's spent goes up (never down) and the card says how much came from your bank. Ask \"what's my bank balance\" at the hub or in Talk and she answers from the snapshot with its age. One setup step: Nova in chat gives you a sync code — paste it once into the Bank sync code box in My Balance and tap Save. No code, no change: everything works exactly as 3.53.",
+   "whats_new": "New in 3.54 \u2014 Bank sync: your Launcher now sees your real bank. Connect My Bank linked Plaid to Nova in chat \u2014 now the phone gets the numbers too. Nova in chat publishes a small balance snapshot about every half hour (your bank balance plus what you've spent on entertainment this week), and the Launcher fetches it: My Balance runs on a verified bank balance, stamped with the snapshot's own time so its age is always honest, and money decisions only trust it while it's fresh. The Entertainment card folds in the bank's view too \u2014 if the bank saw entertainment spending Nova didn't buy for you, the week's spent goes up (never down) and the card says how much came from your bank. Ask \"what's my bank balance\" at the hub or in Talk and she answers from the snapshot with its age. One setup step: Nova in chat gives you a sync code \u2014 paste it once into the Bank sync code box in My Balance and tap Save. No code, no change: everything works exactly as 3.53.",
    "category": "Foundation",
    "required": true
   },
@@ -22,7 +22,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1V0SAD0xUhfXihk3azALUDn37cW619oHg&export=download&confirm=t",
    "size_bytes": 16970785,
    "sha256": "0f7aa4cfbba6b18c9e5b27c3c5107a74ed1a3c303f19dc688a432e711b01d0e6",
-   "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do — through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
+   "whats_new": "Engine registration fix: Nova Voice now answers Android's engine-data checks (voice data check, sample text, install data) the way Google and Samsung's engines do \u2014 through 1.9 nothing answered those probes, and Nova never appeared in the Preferred engine lists. The app's top line now shows version 2.0 so you can confirm the update landed.",
    "category": "Foundation",
    "required": false
   },
@@ -34,7 +34,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=13LtIG54Akf5Ql7uexam_sX94FjBkYJ4T&export=download&confirm=t",
    "size_bytes": 57771,
    "sha256": "7a342e2837ea5678f18312949e70fbc282727a0244494e188e73e09e5ef0104a",
-   "whats_new": "New in 1.8 — the agent brain borrows the Gemini key from the Nova Launcher. Nova Phone was the one app that never had borrowing at all, which is why it demanded its own paste. Now: if you've pasted a key into Nova Phone itself it still wins, otherwise she borrows the Launcher's key automatically and refreshes it whenever it changes there. If borrowing fails, the brain's failure line says so with the plain reason. After updating, re-set Nova Phone as your default dialer (Android requires it after an update), and Agent Mode can stay on — no key paste needed if the Launcher has yours.",
+   "whats_new": "New in 1.8 \u2014 the agent brain borrows the Gemini key from the Nova Launcher. Nova Phone was the one app that never had borrowing at all, which is why it demanded its own paste. Now: if you've pasted a key into Nova Phone itself it still wins, otherwise she borrows the Launcher's key automatically and refreshes it whenever it changes there. If borrowing fails, the brain's failure line says so with the plain reason. After updating, re-set Nova Phone as your default dialer (Android requires it after an update), and Agent Mode can stay on \u2014 no key paste needed if the Launcher has yours.",
    "category": "Foundation",
    "required": false
   },
@@ -46,7 +46,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=194K9-GzvdPn44HfQhEaRZSMFSlwLyKES&export=download&confirm=t",
    "size_bytes": 25003,
    "sha256": "2c30313a3f216cebbb1c7706f530d328f9e094b724dcff011854d23f7662921e",
-   "whats_new": "Fixes the blank screen — the app now actually shows the Watch List and Chat Reader.",
+   "whats_new": "Fixes the blank screen \u2014 the app now actually shows the Watch List and Chat Reader.",
    "category": "Creator",
    "required": false
   },
@@ -58,7 +58,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1hEJtkW14hz5HWJAZfggdcaNwzfTTHOfP&export=download&confirm=t",
    "size_bytes": 815531,
    "sha256": "9c512426e916c71686dc25dca06fcd6a2dd9012c24fb1dc68b7fcfc0f860004e",
-   "whats_new": "Stream from the phone with RTMP — Twitch and YouTube starter buttons.",
+   "whats_new": "Stream from the phone with RTMP \u2014 Twitch and YouTube starter buttons.",
    "category": "Creator",
    "required": false
   },
@@ -70,7 +70,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1HZyzR2I46Lc8q21IBv9m7oyc60bTs2U7&export=download&confirm=t",
    "size_bytes": 75806,
    "sha256": "f840aa6dcfd2947f7298cf01179faab0e181727da5e095df021c9d0e71e884b2",
-   "whats_new": "Signature guaranteed: the form always prints your name as the signature with today's date beside it, the package-ready message reads the signature and date back to you before you send, and if your name is ever blank the package refuses to build instead of producing an unsigned form. New: a Send a test email button on the Build a Claim tab — it sends one clearly marked test email to UHC through your saved Gmail sign-in (no claim attached, no member ID) and, if it fails, shows the mail server's actual words so the problem names itself.",
+   "whats_new": "Signature guaranteed: the form always prints your name as the signature with today's date beside it, the package-ready message reads the signature and date back to you before you send, and if your name is ever blank the package refuses to build instead of producing an unsigned form. New: a Send a test email button on the Build a Claim tab \u2014 it sends one clearly marked test email to UHC through your saved Gmail sign-in (no claim attached, no member ID) and, if it fails, shows the mail server's actual words so the problem names itself.",
    "category": "Life Admin",
    "required": false
   },
@@ -82,19 +82,19 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1jlGemrJ03gEi3tSQLMEUWCJd1H4ceZay&export=download&confirm=t",
    "size_bytes": 29099,
    "sha256": "71aae74bdeb51723e71cb572cec1e03e0e1a408b58f46084f77ddc5db680f42f",
-   "whats_new": "New in 1.5 — Nova can borrow the Gemini key from the Nova Launcher again. Same root cause as House Log: the app was missing a declaration Android 11+ requires before it may see the Launcher's key service, so the borrow failed silently every time and you had to paste the key here too. The declaration is in, a borrowed key now refreshes from the Launcher instead of being cached forever, and if a borrow ever fails, Nova's heads-up line says why in plain words.",
+   "whats_new": "New in 1.5 \u2014 Nova can borrow the Gemini key from the Nova Launcher again. Same root cause as House Log: the app was missing a declaration Android 11+ requires before it may see the Launcher's key service, so the borrow failed silently every time and you had to paste the key here too. The declaration is in, a borrowed key now refreshes from the Launcher instead of being cached forever, and if a borrow ever fails, Nova's heads-up line says why in plain words.",
    "category": "Life Admin",
    "required": false
   },
   {
    "package": "com.codestark.novahouselog",
    "name": "Nova House Log",
-   "version_code": 19,
-   "version_name": "1.18",
+   "version_code": 20,
+   "version_name": "1.19",
    "apk_url": "https://drive.usercontent.google.com/download?id=1XV1mORrWYBVLotSE1wbjo8iY1K0287he&export=download&confirm=t",
    "size_bytes": 127403,
-   "sha256": "2bc42b3ad9ed311f8147d06e3bf439e41cc2b2fdce8467f397d47a401e09d6ea",
-   "whats_new": "New in 1.18 — the camera check's Gemini key borrow actually works now. The borrow code was right, but the app was missing a declaration Android 11+ requires before one app may even SEE another app's key service — so every borrow failed silently and the app just said 'no key'. That declaration is in. Also fixed everywhere in the suite: a borrowed key used to be cached once and kept forever, even after the key changed in the Launcher — now House Log re-borrows on every check, so the Launcher's current key is always the one used. And if borrowing ever fails, the error now says that, with the plain reason, instead of a bare 'no key'. If you pasted a key into House Log itself, yours still wins and is never overwritten.",
+   "sha256": "757dd0cb6ba821838b5525aa8afee6f35a6106b1c2913966c3e71edebb832439",
+   "whats_new": "New in 1.19 \u2014 counted entries can be deleted now. Before, the Delete button refused counted entries outright, so a mistaken or duplicate counted entry (like one with a wrong time on it) was stuck in the log forever. Now a counted entry deletes the same way as any other: tap Delete, hear the confirmation \u2014 it names the entry's date and people and says plainly that a counted entry is being removed \u2014 then tap again to confirm. Nothing else changed: counting, the confrontation gate, corrections, and all the sending lanes work exactly as before.",
    "category": "Life Admin",
    "required": false
   },
@@ -106,7 +106,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1idYTvezVZfzktp-mpBF-sDKVIJS5xZkK&export=download&confirm=t",
    "size_bytes": 20907,
    "sha256": "48db74fe8f65328446c711f8a7b214fa87d91656cd395c51e644760b9e1e919a",
-   "whats_new": "First release: a daily devotion on your phone — today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
+   "whats_new": "First release: a daily devotion on your phone \u2014 today's verse and reflection spoken in Nova's voice, all 14 banked devotions by ear, and a morning reminder if you want one.",
    "category": "Faith",
    "required": false
   },
@@ -118,7 +118,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1gihbNHmzH9Lmf4ATnoPSVb3vtGL8pvAi&export=download&confirm=t",
    "size_bytes": 111019,
    "sha256": "5fa35271d6715b42eca8d034e5e2aee9136fc7eb9b8c7b96edcce9ce36cc9423",
-   "whats_new": "New in 1.17 — key borrowing hardened. The borrow was already working here; what this fixes is the quiet flaw behind it: a borrowed key was cached once and kept forever, so if the key changed in the Launcher, Pastor Nova would have kept preaching on the old copy until it died. Now a borrowed key refreshes from the Launcher every time, a key you paste here yourself still wins, and if a borrow ever fails, the message says why in plain words.",
+   "whats_new": "New in 1.17 \u2014 key borrowing hardened. The borrow was already working here; what this fixes is the quiet flaw behind it: a borrowed key was cached once and kept forever, so if the key changed in the Launcher, Pastor Nova would have kept preaching on the old copy until it died. Now a borrowed key refreshes from the Launcher every time, a key you paste here yourself still wins, and if a borrow ever fails, the message says why in plain words.",
    "category": "Faith",
    "required": false
   },
@@ -130,7 +130,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1QG6deENuoIbgfLKoldwxm_h_I7w6II0u&export=download&confirm=t",
    "size_bytes": 33195,
    "sha256": "18f1e27b54d953dd25a04ae1f4b0ff3157e9d5177b91bc82c866d0544bd451b3",
-   "whats_new": "New in 1.1 — key borrowing hardened. The borrow worked, but the first borrowed key was cached and kept forever — a key changed in the Launcher would never have refreshed here. Now Nova Music re-borrows on every use, and if a borrow fails, the error says that with the plain reason.",
+   "whats_new": "New in 1.1 \u2014 key borrowing hardened. The borrow worked, but the first borrowed key was cached and kept forever \u2014 a key changed in the Launcher would never have refreshed here. Now Nova Music re-borrows on every use, and if a borrow fails, the error says that with the plain reason.",
    "category": "Creator",
    "required": false
   },
@@ -142,7 +142,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1sfzLadbkYb02Npl4AuCWtXSsu8wOmTWG&export=download&confirm=t",
    "size_bytes": 29167,
    "sha256": "14729c1887e2143fc0be618453b500efd1e9b653d7e2abb149100f26ad461fdb",
-   "whats_new": "New in 1.2 — key borrowing hardened. Commentary and Find borrow the key from the Nova Launcher, and that worked — but the first borrowed key was cached and kept forever, so a key changed in the Launcher would never have refreshed here. Now the Bible re-borrows on every use, and if a borrow fails, the message says why in plain words. Reading the text itself never needed the key and still doesn't.",
+   "whats_new": "New in 1.2 \u2014 key borrowing hardened. Commentary and Find borrow the key from the Nova Launcher, and that worked \u2014 but the first borrowed key was cached and kept forever, so a key changed in the Launcher would never have refreshed here. Now the Bible re-borrows on every use, and if a borrow fails, the message says why in plain words. Reading the text itself never needed the key and still doesn't.",
    "category": "Faith",
    "required": false
   },
@@ -154,7 +154,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1vfAnrSQJ3Q-D0DM0w1oVe5jn_wMC3ZAA&export=download&confirm=t",
    "size_bytes": 82347,
    "sha256": "9def424d79c7d4b9cd4a2b7ac5735acca2f703601f72e7f394d5632319529215",
-   "whats_new": "New in 1.13 — key borrowing hardened. RD only ever borrows (it has no paste of its own), and the borrow worked — but the first borrowed key was cached and treated as RD's own forever, so a key changed in the Launcher never refreshed here. Now RD re-borrows on every use, and if a borrow fails, the error says that with the plain reason. If Google ever rejects the key itself, RD drops its cached copy and borrows fresh next time.",
+   "whats_new": "New in 1.13 \u2014 key borrowing hardened. RD only ever borrows (it has no paste of its own), and the borrow worked \u2014 but the first borrowed key was cached and treated as RD's own forever, so a key changed in the Launcher never refreshed here. Now RD re-borrows on every use, and if a borrow fails, the error says that with the plain reason. If Google ever rejects the key itself, RD drops its cached copy and borrows fresh next time.",
    "category": "Life Admin",
    "required": false
   },
@@ -166,7 +166,7 @@
    "apk_url": "https://drive.usercontent.google.com/download?id=1IWoYhrDG1J_Kj9bs4OZjWaoPlkIXTonu&export=download&confirm=t",
    "size_bytes": 41387,
    "sha256": "cc53a515ad0b1a07e3a6505307ecf75563da72e0f88ec885e8d4bc5d65b04495",
-   "whats_new": "New in 1.1 — key borrowing hardened. The borrow itself was built right in 1.0, but a borrowed key was cached once and kept forever — if the key ever changed in the Launcher, this app would have kept using the old copy and failed without saying why. Now a borrowed key refreshes from the Launcher on every session, a key you paste here yourself still wins, and if borrowing ever fails, the failure line says exactly that with the plain reason — never a quota claim Google didn't make. (For the record: the quota error you heard earlier today came from the Launcher itself, and Launcher 3.51 rebuilds that walk — this app never made that call.)",
+   "whats_new": "New in 1.1 \u2014 key borrowing hardened. The borrow itself was built right in 1.0, but a borrowed key was cached once and kept forever \u2014 if the key ever changed in the Launcher, this app would have kept using the old copy and failed without saying why. Now a borrowed key refreshes from the Launcher on every session, a key you paste here yourself still wins, and if borrowing ever fails, the failure line says exactly that with the plain reason \u2014 never a quota claim Google didn't make. (For the record: the quota error you heard earlier today came from the Launcher itself, and Launcher 3.51 rebuilds that walk \u2014 this app never made that call.)",
    "category": "Wellness",
    "required": false
   }
